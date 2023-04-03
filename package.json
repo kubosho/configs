@@ -12,6 +12,7 @@
     "./lib/eslint/rules/a11y.js",
     "./lib/eslint/rules/import.js",
     "./lib/eslint/rules/react.js",
+    "./lib/eslint/rules/prettier.js",
     "./lib/typescript/tsconfig.json"
   ],
   "exports": {
