@@ -13,6 +13,9 @@
     "eslint/rules/import.js",
     "eslint/rules/react.js"
   ],
+  "exports": {
+    "./eslint": "./eslint/index.js"
+  },
   "dependencies": {
     "eslint": "^8.35.0",
     "eslint-config-prettier": "^8.6.0",
