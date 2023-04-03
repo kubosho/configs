@@ -4,13 +4,19 @@
   "version": "1.0.0",
   "license": "MIT",
   "author": "kubosho",
-  "publishConfig": {
-    "access": "public"
-  },
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/kubosho/configs.git"
   },
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    "eslint/index.js",
+    "eslint/rules/a11y.js",
+    "eslint/rules/import.js",
+    "eslint/rules/react.js"
+  ],
   "dependencies": {
     "eslint": "^8.35.0",
     "eslint-config-prettier": "^8.6.0",
