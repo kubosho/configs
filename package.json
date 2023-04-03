@@ -12,6 +12,7 @@
     "./lib/eslint/rules/a11y.js",
     "./lib/eslint/rules/import.js",
     "./lib/eslint/rules/react.js",
+    "./lib/eslint/rules/typescriptjs",
     "./lib/eslint/rules/prettier.js",
     "./lib/typescript/tsconfig.json"
   ],
@@ -20,6 +21,8 @@
     "./tsconfig": "./lib/typescript/tsconfig.json"
   },
   "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.57.0",
+    "@typescript-eslint/parser": "^5.57.0",
     "eslint": "^8.35.0",
     "eslint-config-prettier": "^8.6.0",
     "eslint-plugin-import": "^2.27.5",
