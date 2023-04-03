@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/kubosho/configs/compare/v1.0.0...v1.1.0) (2023-04-03)
+
+
+### Features
+
+* **eslint:** introduce prettier rules ([76dadd7](https://github.com/kubosho/configs/commit/76dadd75cd41087c13589f1349fc306841ad14ab))
+
 # 1.0.0 (2023-04-03)
 
 
