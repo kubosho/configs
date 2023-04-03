@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/kubosho/configs/compare/v1.1.0...v1.1.1) (2023-04-03)
+
+
+### Bug Fixes
+
+* **package:** add exports field ([889cd23](https://github.com/kubosho/configs/commit/889cd233ee4e6b00914920c3c947212abe5f7a33))
+
 # [1.1.0](https://github.com/kubosho/configs/compare/v1.0.0...v1.1.0) (2023-04-03)
 
 
