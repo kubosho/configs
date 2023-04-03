@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/kubosho/configs/compare/v1.2.0...v1.2.1) (2023-04-03)
+
+
+### Bug Fixes
+
+* **package:** correct path for eslint/rules/typescript.js ([d2c0e9e](https://github.com/kubosho/configs/commit/d2c0e9e955ccee13054f5fff56e77424c8c22e90))
+
 # [1.2.0](https://github.com/kubosho/configs/compare/v1.1.1...v1.2.0) (2023-04-03)
 
 
