@@ -1,3 +1,17 @@
+# [1.2.0](https://github.com/kubosho/configs/compare/v1.1.1...v1.2.0) (2023-04-03)
+
+
+### Bug Fixes
+
+* **eslint:** use prettier rules ([4ef3f53](https://github.com/kubosho/configs/commit/4ef3f5384ffa4156ff394b024b238ed627837cf7))
+
+
+### Features
+
+* **eslint:** introduce TypeScript rules ([a9da524](https://github.com/kubosho/configs/commit/a9da52487cbec5462aff92a0a73ed450e3cff578))
+* move config files to lib/ ([8aa4d78](https://github.com/kubosho/configs/commit/8aa4d78db612c60c079adb5374e486a5a2da03b4))
+* **typescript:** introduce tsconfig.json ([18cc611](https://github.com/kubosho/configs/commit/18cc6112e32228cc36aa1f870250511ee5f28386))
+
 ## [1.1.1](https://github.com/kubosho/configs/compare/v1.1.0...v1.1.1) (2023-04-03)
 
 
