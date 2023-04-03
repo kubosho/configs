@@ -4,10 +4,6 @@
   "version": "1.0.0",
   "license": "MIT",
   "author": "kubosho",
-  "repository": {
-    "type": "git",
-    "url": "git+ssh://git@github.com/kubosho/configs.git"
-  },
   "publishConfig": {
     "access": "public"
   },
