@@ -8,13 +8,13 @@
     "access": "public"
   },
   "files": [
-    "eslint/index.js",
-    "eslint/rules/a11y.js",
-    "eslint/rules/import.js",
-    "eslint/rules/react.js"
+    "./lib/eslint/index.js",
+    "./lib/eslint/rules/a11y.js",
+    "./lib/eslint/rules/import.js",
+    "./lib/eslint/rules/react.js"
   ],
   "exports": {
-    "./eslint": "./eslint/index.js"
+    "./eslint": "./lib/eslint/index.js"
   },
   "dependencies": {
     "eslint": "^8.35.0",
