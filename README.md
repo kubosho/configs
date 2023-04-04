@@ -32,6 +32,6 @@ module.exports = {
 
 ```json
 {
-  "extends": "@kubosho/configs/tsconfig.json"
+  "extends": "@kubosho/configs/typescript/tsconfig.json"
 }
 ```
