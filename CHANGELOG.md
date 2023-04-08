@@ -1,3 +1,10 @@
+## [1.2.2](https://github.com/kubosho/configs/compare/v1.2.1...v1.2.2) (2023-04-08)
+
+
+### Bug Fixes
+
+* **tsconfig:** fix unintentionally deleting skipLibCheck settings ([0994f70](https://github.com/kubosho/configs/commit/0994f700fc1e7e0e7c4525e072dfe6187e5c644f))
+
 ## [1.2.1](https://github.com/kubosho/configs/compare/v1.2.0...v1.2.1) (2023-04-03)
 
 
