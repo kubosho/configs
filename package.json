@@ -39,6 +39,7 @@
     "@semantic-release/github": "^8.0.7",
     "@semantic-release/npm": "^10.0.3",
     "@semantic-release/release-notes-generator": "^10.0.3",
+    "conventional-changelog-conventionalcommits": "^5.0.0",
     "semantic-release": "^21.0.1"
   },
   "release": {
@@ -74,13 +75,69 @@
             },
             {
               "type": "docs",
-              "scope": "README",
               "release": "patch"
             }
           ]
         }
       ],
-      "@semantic-release/release-notes-generator",
+      [
+        "@semantic-release/release-notes-generator",
+        {
+          "preset": "conventionalchangelog",
+          "presetConfig": {
+            "types": [
+              {
+                "type": "breaking",
+                "section": "❗ BREAKING CHANGES",
+                "hidden": false
+              },
+              {
+                "type": "feat",
+                "section": "✨ Features",
+                "hidden": false
+              },
+              {
+                "type": "fix",
+                "section": "🐛 Bug Fixes",
+                "hidden": false
+              },
+              {
+                "type": "chore",
+                "section": "📚 Some changes",
+                "hidden": false
+              },
+              {
+                "type": "refactor",
+                "section": "📚 Some changes",
+                "hidden": false
+              },
+              {
+                "type": "docs",
+                "section": "📚 Some changes",
+                "hidden": false
+              },
+              {
+                "type": "style",
+                "hidden": true
+              },
+              {
+                "type": "perf",
+                "hidden": true
+              },
+              {
+                "type": "test",
+                "hidden": true
+              }
+            ]
+          },
+          "writerOpts": {
+            "commitsSort": [
+              "subject",
+              "scope"
+            ]
+          }
+        }
+      ],
       "@semantic-release/npm",
       "@semantic-release/changelog",
       "@semantic-release/github",
