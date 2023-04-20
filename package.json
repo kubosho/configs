@@ -103,6 +103,7 @@
               },
               {
                 "type": "chore",
+                "scope": "deps",
                 "section": "📚 Some changes",
                 "hidden": false
               },
