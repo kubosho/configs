@@ -16,10 +16,6 @@
     "./lib/eslint/rules/prettier.js",
     "./lib/typescript/tsconfig.json"
   ],
-  "exports": {
-    "./eslint": "./lib/eslint/index.js",
-    "./tsconfig": "./lib/typescript/tsconfig.json"
-  },
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.59.0",
     "@typescript-eslint/parser": "^5.59.0",
