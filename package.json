@@ -8,13 +8,13 @@
     "access": "public"
   },
   "files": [
-    "./lib/eslint/index.js",
-    "./lib/eslint/rules/a11y.js",
-    "./lib/eslint/rules/import.js",
-    "./lib/eslint/rules/react.js",
-    "./lib/eslint/rules/typescript.js",
-    "./lib/eslint/rules/prettier.js",
-    "./lib/typescript/tsconfig.json"
+    "./eslint/index.js",
+    "./eslint/rules/a11y.js",
+    "./eslint/rules/import.js",
+    "./eslint/rules/react.js",
+    "./eslint/rules/typescript.js",
+    "./eslint/rules/prettier.js",
+    "./typescript/tsconfig.json"
   ],
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.59.0",
