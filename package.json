@@ -87,11 +87,6 @@
           "presetConfig": {
             "types": [
               {
-                "type": "breaking",
-                "section": "❗ BREAKING CHANGES",
-                "hidden": false
-              },
-              {
                 "type": "feat",
                 "section": "✨ Features",
                 "hidden": false
