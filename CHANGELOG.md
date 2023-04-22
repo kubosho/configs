@@ -1,3 +1,21 @@
+## [2.0.0](https://github.com/kubosho/configs/compare/v1.2.5...v2.0.0) (2023-04-22)
+
+
+### ⚠ BREAKING CHANGES
+
+* Changed location of TypeScript and ESLint configuration files.
+
+tsconfig.json needs to be rewritten as follows for the path in `extends`.
+
+```diff
+- "extends":"@kubosho/configs/tsconfig"
++ "extends": "@kubosho/configs/typescript/tsconfig.json"
+```
+
+### ✨ Features
+
+* move config files to root directory ([6a4c0b0](https://github.com/kubosho/configs/commit/6a4c0b0d30ad182047a6c77892a6f2e633ddb061))
+
 ## [1.2.5](https://github.com/kubosho/configs/compare/v1.2.4...v1.2.5) (2023-04-20)
 
 
