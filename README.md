@@ -28,7 +28,7 @@ module.exports = {
 };
 ```
 
-### TypeScript
+### Prettier
 
 ```javascript
 module.exports = {
