@@ -30,6 +30,14 @@ module.exports = {
 
 ### TypeScript
 
+```javascript
+module.exports = {
+  ...require('@kubosho/configs/prettier'),
+};
+```
+
+### TypeScript
+
 ```json
 {
   "extends": "@kubosho/configs/typescript/tsconfig.json"
