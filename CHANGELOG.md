@@ -1,3 +1,10 @@
+## [2.1.1](https://github.com/kubosho/configs/compare/v2.1.0...v2.1.1) (2023-04-23)
+
+
+### 📚 Some changes
+
+* **README:** fix incorrect config name ([81c3b7b](https://github.com/kubosho/configs/commit/81c3b7b1574cee8edc1bd6fcb12d619d9695472d))
+
 ## [2.1.0](https://github.com/kubosho/configs/compare/v2.0.0...v2.1.0) (2023-04-23)
 
 
