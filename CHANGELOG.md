@@ -1,3 +1,10 @@
+## [2.1.0](https://github.com/kubosho/configs/compare/v2.0.0...v2.1.0) (2023-04-23)
+
+
+### ✨ Features
+
+* **prettier:** introduce prettier config ([3ef3b63](https://github.com/kubosho/configs/commit/3ef3b63e8c196319ff804117532676aa14b153bc))
+
 ## [2.0.0](https://github.com/kubosho/configs/compare/v1.2.5...v2.0.0) (2023-04-22)
 
 
