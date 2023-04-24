@@ -1,3 +1,10 @@
+## [2.1.2](https://github.com/kubosho/configs/compare/v2.1.1...v2.1.2) (2023-04-24)
+
+
+### 📚 Some changes
+
+* **deps:** bump eslint from 8.38.0 to 8.39.0 ([18834c8](https://github.com/kubosho/configs/commit/18834c84e7e4beb2a79845ab8bd773153e326c2b))
+
 ## [2.1.1](https://github.com/kubosho/configs/compare/v2.1.0...v2.1.1) (2023-04-23)
 
 
