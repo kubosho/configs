@@ -1,3 +1,11 @@
+## [2.1.6](https://github.com/kubosho/configs/compare/v2.1.5...v2.1.6) (2023-05-23)
+
+
+### 📚 Some changes
+
+* **deps:** bump @typescript-eslint/eslint-plugin from 5.59.2 to 5.59.6 ([b537ec6](https://github.com/kubosho/configs/commit/b537ec61635a5a08398e81188a86cd28bc474e28))
+* **deps:** bump eslint from 8.40.0 to 8.41.0 ([a1f7a0c](https://github.com/kubosho/configs/commit/a1f7a0c41366c0f0a778a1efee3e0be81df43b2b))
+
 ## [2.1.5](https://github.com/kubosho/configs/compare/v2.1.4...v2.1.5) (2023-05-10)
 
 
