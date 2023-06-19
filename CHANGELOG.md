@@ -1,3 +1,10 @@
+## [2.1.9](https://github.com/kubosho/configs/compare/v2.1.8...v2.1.9) (2023-06-19)
+
+
+### 📚 Some changes
+
+* **deps:** bump @typescript-eslint/parser from 5.59.7 to 5.59.11 ([74ee9ed](https://github.com/kubosho/configs/commit/74ee9ed073c50b4c5f310acd802da631bae66e63))
+
 ## [2.1.8](https://github.com/kubosho/configs/compare/v2.1.7...v2.1.8) (2023-06-19)
 
 
