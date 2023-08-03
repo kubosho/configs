@@ -1,3 +1,12 @@
+## [2.1.13](https://github.com/kubosho/configs/compare/v2.1.12...v2.1.13) (2023-08-03)
+
+
+### 📚 Some changes
+
+* **deps:** bump eslint from 8.44.0 to 8.46.0 ([199438a](https://github.com/kubosho/configs/commit/199438a7d84a94ac4b6c0cb42b2b180259700e20))
+* **deps:** bump eslint-plugin-import from 2.27.5 to 2.28.0 ([c711f25](https://github.com/kubosho/configs/commit/c711f25c121bce70827067b0fb1009e2b9f3aef5))
+* **deps:** bump eslint-plugin-react from 7.32.2 to 7.33.1 ([7d975ba](https://github.com/kubosho/configs/commit/7d975ba4e729744ec9057bc243e8213eab6fb254))
+
 ## [2.1.12](https://github.com/kubosho/configs/compare/v2.1.11...v2.1.12) (2023-07-05)
 
 
