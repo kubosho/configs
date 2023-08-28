@@ -1,3 +1,12 @@
+## [2.1.14](https://github.com/kubosho/configs/compare/v2.1.13...v2.1.14) (2023-08-28)
+
+
+### 📚 Some changes
+
+* **deps:** bump @typescript-eslint/parser from 5.60.0 to 5.62.0 ([36d8d51](https://github.com/kubosho/configs/commit/36d8d51eb3ef63dba916251bedcf7c1894da8fd7))
+* **deps:** bump eslint-config-prettier from 8.8.0 to 9.0.0 ([5c7e218](https://github.com/kubosho/configs/commit/5c7e218909a1b8f059b34a09556c2dbaa481493b))
+* **deps:** bump eslint-plugin-react from 7.33.1 to 7.33.2 ([2876675](https://github.com/kubosho/configs/commit/28766753737769060e9829dd0c9715716b9dcc84))
+
 ## [2.1.13](https://github.com/kubosho/configs/compare/v2.1.12...v2.1.13) (2023-08-03)
 
 
