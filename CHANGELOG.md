@@ -1,3 +1,10 @@
+## [2.1.16](https://github.com/kubosho/configs/compare/v2.1.15...v2.1.16) (2023-08-30)
+
+
+### 📚 Some changes
+
+* **deps:** bump typescript from 5.1.6 to 5.2.2 ([c1eea8f](https://github.com/kubosho/configs/commit/c1eea8ff18d8a5b66d85ddd299cf15cbfaa2fc4a))
+
 ## [2.1.15](https://github.com/kubosho/configs/compare/v2.1.14...v2.1.15) (2023-08-28)
 
 
