@@ -1,7 +1,7 @@
 {
   "name": "@kubosho/configs",
   "description": "My Web frontend tool configs",
-  "version": "2.1.17",
+  "version": "2.1.18",
   "license": "MIT",
   "author": "kubosho",
   "publishConfig": {
