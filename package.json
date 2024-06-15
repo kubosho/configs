@@ -4,6 +4,9 @@
   "version": "2.1.20",
   "license": "MIT",
   "author": "kubosho",
+  "engines": {
+    "node": ">=20.0.0"
+  },
   "publishConfig": {
     "access": "public"
   },
