@@ -1,8 +1,8 @@
 # @kubosho/configs
 
-My Web frontend tool configs.
+My Web frontend tool configs. Inspired by [@3846masa/configs](https://github.com/3846masa/configs).
 
-Inspired by [@3846masa/configs](https://github.com/3846masa/configs).
+[![npm version](https://img.shields.io/npm/v/@kubosho/configs.svg)](https://www.npmjs.com/package/@kubosho/configs)
 
 ## Install
 
