@@ -7,6 +7,9 @@
   "engines": {
     "node": ">=20.0.0"
   },
+  "scripts": {
+    "test:eslint": "ESLINT_USE_FLAT_CONFIG=true eslint --config ./eslint/examples/eslint.config.mjs ./eslint/examples"
+  },
   "publishConfig": {
     "access": "public"
   },
