@@ -22,8 +22,9 @@ module.exports = {
   },
   overrides: [
     {
-      files: ["*.js", "*.jsx"],
+      files: ["*.js", "*.cjs", "*.mjs", "*.jsx"],
       rules: {
+        "@typescript-eslint/explicit-function-return-type": "off",
         "@typescript-eslint/no-var-requires": "off",
       },
     },
