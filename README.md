@@ -6,16 +6,8 @@ My Web frontend tool configs. Inspired by [@3846masa/configs](https://github.com
 
 ## Install
 
-Use npm:
-
 ```shell
 npm install --save-dev @kubosho/configs
-```
-
-Use yarn:
-
-```shell
-yarn add --dev @kubosho/configs
 ```
 
 ## Usage
