@@ -1,3 +1,12 @@
+## [2.1.21](https://github.com/kubosho/configs/compare/v2.1.20...v2.1.21) (2024-06-15)
+
+
+### 📚 Some changes
+
+* **README:** add badges ([1e420c1](https://github.com/kubosho/configs/commit/1e420c1d3ec1e32fd6bfe2d1b235d786aeadc3c4))
+* **deps:** bump eslint-plugin-react from 7.34.1 to 7.34.2 ([b7097d7](https://github.com/kubosho/configs/commit/b7097d77150518e0ac138d1f9dae33767bad805c))
+* **README:** remove instructions for installing with yarn ([dab16ba](https://github.com/kubosho/configs/commit/dab16bab8e7e60b0115fcff83ec24a6a8d60cb1d))
+
 ## [2.1.20](https://github.com/kubosho/configs/compare/v2.1.19...v2.1.20) (2024-05-23)
 
 
