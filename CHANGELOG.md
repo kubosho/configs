@@ -1,3 +1,9 @@
+## [3.1.1](https://github.com/kubosho/configs/compare/v3.1.0...v3.1.1) (2024-06-16)
+
+### 📚 Some changes
+
+* **deps:** bump typescript from 5.3.3 to 5.4.5 ([c2136f7](https://github.com/kubosho/configs/commit/c2136f775ff1688d22595b8328a7856ddbca4f7f))
+
 ## [3.1.0](https://github.com/kubosho/configs/compare/v3.0.0...v3.1.0) (2024-06-16)
 
 ### ✨ Features
