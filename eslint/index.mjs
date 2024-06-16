@@ -15,11 +15,11 @@ const compat = new FlatCompat({
 export default [
   ...compat.extends(
     "prettier",
-    "./rules/a11y",
-    "./rules/import",
-    "./rules/prettier",
-    "./rules/react",
-    "./rules/typescript"
+    "./chunk_configs/a11y",
+    "./chunk_configs/import",
+    "./chunk_configs/prettier",
+    "./chunk_configs/react",
+    "./chunk_configs/typescript",
   ),
   {
     languageOptions: {
