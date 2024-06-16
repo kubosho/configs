@@ -22,6 +22,8 @@ export default [
     "./chunk_configs/typescript",
   ),
   {
+    files: ["**/*.{js,jsx,cjs,mjs,ts,tsx,cts,mts}"],
+
     languageOptions: {
       globals: {
         ...globals.browser,
@@ -29,6 +31,9 @@ export default [
         ...globals.jest,
       },
     },
+
+    plugins: {},
+
     rules: {
       ...js.configs.recommended.rules,
     },
