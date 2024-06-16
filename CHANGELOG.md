@@ -1,3 +1,9 @@
+## [3.1.0](https://github.com/kubosho/configs/compare/v3.0.0...v3.1.0) (2024-06-16)
+
+### ✨ Features
+
+* Migrated some ESLint configs to flat config [#197](https://github.com/kubosho/configs/pull/197)
+
 ## [3.0.0](https://github.com/kubosho/configs/compare/v2.1.21...v3.0.0) (2024-06-15)
 
 ### ⚠ BREAKING CHANGES
