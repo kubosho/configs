@@ -4,34 +4,48 @@ import { fileURLToPath } from "node:url";
 
 import { FlatCompat } from "@eslint/eslintrc";
 import js from "@eslint/js";
+import eslintConfigPrettier from "eslint-config-prettier";
+
+import react from "../eslint/chunk_configs/react.mjs";
 
 const _filename = fileURLToPath(import.meta.url);
 const _dirname = path.dirname(_filename);
 
 const compat = new FlatCompat({
   baseDirectory: _dirname,
-  recommendedConfig: js.configs.recommended,
-  allConfig: js.configs.all,
 });
 
 export default [
+  eslintConfigPrettier,
+
   ...compat.extends(
-    "eslint:recommended",
-    "prettier",
-    "./rules/a11y",
-    "./rules/import",
-    "./rules/prettier",
-    "./rules/react",
-    "./rules/typescript"
+    "./chunk_configs/a11y",
+    "./chunk_configs/import",
+    "./chunk_configs/typescript",
   ),
   {
+    files: ["**/*.{js,cjs,mjs,ts,cts,mts}", ...react.files],
+
     languageOptions: {
       globals: {
         ...globals.browser,
         ...globals.node,
         ...globals.jest,
       },
+      ...react.languageOptions,
     },
-    rules: {},
+
+    plugins: {
+      ...react.plugins,
+    },
+
+    rules: {
+      ...js.configs.recommended.rules,
+      ...react.rules,
+    },
+
+    settings: {
+      ...react.settings,
+    },
   },
 ];

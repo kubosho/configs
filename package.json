@@ -8,7 +8,8 @@
     "node": ">=20.0.0"
   },
   "scripts": {
-    "test:eslint": "ESLINT_USE_FLAT_CONFIG=true eslint --config ./eslint/examples/eslint.config.mjs ./eslint/examples"
+    "test:eslint": "ESLINT_USE_FLAT_CONFIG=true eslint --config ./eslint/examples/eslint.config.mjs ./eslint/examples/src/*",
+    "print:eslint": "ESLINT_USE_FLAT_CONFIG=true eslint --config ./eslint/examples/eslint.config.mjs --print-config ./eslint/examples/eslint.config.mjs"
   },
   "publishConfig": {
     "access": "public"
@@ -24,16 +25,14 @@
     "./prettier/index.js"
   ],
   "dependencies": {
-    "@typescript-eslint/eslint-plugin": "^5.62.0",
-    "@typescript-eslint/parser": "^5.62.0",
-    "eslint": "^8.55.0",
+    "@typescript-eslint/eslint-plugin": "^7.13.0",
+    "@typescript-eslint/parser": "^7.13.0",
+    "eslint": "^8.5.7",
     "eslint-config-prettier": "^9.1.0",
     "eslint-plugin-import": "^2.29.0",
-    "eslint-plugin-jsx-a11y": "^6.7.1",
-    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-jsx-a11y": "^6.8.0",
     "eslint-plugin-react": "^7.34.2",
-    "prettier": "^2.8.8",
-    "prettier-plugin-md-nocjsp": "^1.5.1",
+    "prettier": "^3.3.2",
     "react": "^18.3.1",
     "typescript": "^5.3.3"
   },
