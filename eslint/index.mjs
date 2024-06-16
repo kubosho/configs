@@ -10,13 +10,10 @@ const _dirname = path.dirname(_filename);
 
 const compat = new FlatCompat({
   baseDirectory: _dirname,
-  recommendedConfig: js.configs.recommended,
-  allConfig: js.configs.all,
 });
 
 export default [
   ...compat.extends(
-    "eslint:recommended",
     "prettier",
     "./rules/a11y",
     "./rules/import",
@@ -32,6 +29,8 @@ export default [
         ...globals.jest,
       },
     },
-    rules: {},
+    rules: {
+      ...js.configs.recommended.rules,
+    },
   },
 ];
