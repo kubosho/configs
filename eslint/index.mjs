@@ -17,7 +17,6 @@ export default [
     "prettier",
     "./chunk_configs/a11y",
     "./chunk_configs/import",
-    "./chunk_configs/prettier",
     "./chunk_configs/react",
     "./chunk_configs/typescript",
   ),
