@@ -1,3 +1,9 @@
+## [3.1.2](https://github.com/kubosho/configs/compare/v3.1.1...v3.1.2) (2024-06-16)
+
+### 🐛 Bug Fixes
+
+* **prettier:** remove unnecesary config ([2b62967](https://github.com/kubosho/configs/commit/2b62967bca0ca9863b9cb0d170e3ac527b2b2c01))
+
 ## [3.1.1](https://github.com/kubosho/configs/compare/v3.1.0...v3.1.1) (2024-06-16)
 
 ### 📚 Some changes
