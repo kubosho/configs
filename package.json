@@ -15,12 +15,11 @@
     "access": "public"
   },
   "files": [
-    "./eslint/index.js",
-    "./eslint/rules/a11y.js",
-    "./eslint/rules/import.js",
-    "./eslint/rules/react.js",
-    "./eslint/rules/typescript.js",
-    "./eslint/rules/prettier.js",
+    "./eslint/configs/a11y.js",
+    "./eslint/configs/import.js",
+    "./eslint/configs/react.mjs",
+    "./eslint/configs/typescript.js",
+    "./eslint/index.mjs",
     "./typescript/tsconfig.json",
     "./prettier/index.js"
   ],
