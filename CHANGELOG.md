@@ -1,3 +1,13 @@
+## [3.1.3](https://github.com/kubosho/configs/compare/v3.1.2...v3.1.3) (2024-06-18)
+
+### 🐛 Bug Fixes
+
+* **package:** update file upload list to reflect new structure ([5f9bb4a](https://github.com/kubosho/configs/commit/5f9bb4aa32d46fcda839d28351581301e489d583))
+
+### 📚 Some changes
+
+* **eslint:** change directory name from chunk_configs to configs ([cc146cb](https://github.com/kubosho/configs/commit/cc146cb9ec2370b154826795ff446af0f48df3e8))
+
 ## [3.1.2](https://github.com/kubosho/configs/compare/v3.1.1...v3.1.2) (2024-06-16)
 
 ### 🐛 Bug Fixes
