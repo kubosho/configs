@@ -6,7 +6,7 @@ import { FlatCompat } from "@eslint/eslintrc";
 import js from "@eslint/js";
 import eslintConfigPrettier from "eslint-config-prettier";
 
-import react from "../eslint/chunk_configs/react.mjs";
+import react from "./configs/react.mjs";
 
 const _filename = fileURLToPath(import.meta.url);
 const _dirname = path.dirname(_filename);
@@ -19,9 +19,9 @@ export default [
   eslintConfigPrettier,
 
   ...compat.extends(
-    "./chunk_configs/a11y",
-    "./chunk_configs/import",
-    "./chunk_configs/typescript",
+    "./configs/a11y",
+    "./configs/import",
+    "./configs/typescript",
   ),
   {
     files: ["**/*.{js,cjs,mjs,ts,cts,mts}", ...react.files],
