@@ -34,7 +34,7 @@
     "globals": "^15.8.0",
     "prettier": "^3.3.2",
     "react": "^18.3.1",
-    "typescript": "^5.4.5"
+    "typescript": "^5.5.3"
   },
   "devDependencies": {
     "@semantic-release/changelog": "^6.0.2",
