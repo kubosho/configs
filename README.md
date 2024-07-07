@@ -14,10 +14,14 @@ npm install --save-dev @kubosho/configs
 
 ### ESLint
 
+In use `eslint.config.mjs`:
+
 ```javascript
-module.exports = {
-  extends: [require.resolve('@kubosho/configs/eslint')],
-};
+import config from '@kubosho/configs/eslint/index.mjs';
+
+export default [
+  ...config,
+];
 ```
 
 ### Prettier
