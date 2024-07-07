@@ -1,3 +1,9 @@
+## [3.1.4](https://github.com/kubosho/configs/compare/v3.1.3...v3.1.4) (2024-07-07)
+
+### 🐛 Bug Fixes
+
+* add global package in dependencies ([4625ced](https://github.com/kubosho/configs/commit/4625ced5367c15318062f503ca48be3a9d22e06c))
+
 ## [3.1.3](https://github.com/kubosho/configs/compare/v3.1.2...v3.1.3) (2024-06-18)
 
 ### 🐛 Bug Fixes
