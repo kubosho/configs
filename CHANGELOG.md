@@ -1,3 +1,9 @@
+## [3.1.6](https://github.com/kubosho/configs/compare/v3.1.5...v3.1.6) (2024-07-07)
+
+### 📚 Some changes
+
+* **README:** update ESLint usage instructions ([904314f](https://github.com/kubosho/configs/commit/904314fa5f720748f432a6a453a7e35b9c5d5f12))
+
 ## [3.1.5](https://github.com/kubosho/configs/compare/v3.1.4...v3.1.5) (2024-07-07)
 
 ### 🐛 Bug Fixes
