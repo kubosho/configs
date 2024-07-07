@@ -1,3 +1,14 @@
+## [3.2.0](https://github.com/kubosho/configs/compare/v3.1.6...v3.2.0) (2024-07-07)
+
+### ✨ Features
+
+* **tsconfig:** change module and moduleResolution value to `NodeNext` ([a309806](https://github.com/kubosho/configs/commit/a30980659924c17f124824092a197c2d461f24cd))
+* **tsconfig:** enable incremental config ([fc16cab](https://github.com/kubosho/configs/commit/fc16cab286e6faf47ca9533fba2e0abe70a3d1a5))
+
+### 📚 Some changes
+
+* **tsconfig:** sort alphabetically ([5532017](https://github.com/kubosho/configs/commit/5532017c0a064778520e4a7d353806540573b5cf))
+
 ## [3.1.6](https://github.com/kubosho/configs/compare/v3.1.5...v3.1.6) (2024-07-07)
 
 ### 📚 Some changes
