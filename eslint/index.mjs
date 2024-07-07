@@ -1,10 +1,10 @@
-import globals from "globals";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 
 import { FlatCompat } from "@eslint/eslintrc";
 import js from "@eslint/js";
 import eslintConfigPrettier from "eslint-config-prettier";
+import globals from "globals";
 
 import react from "./configs/react.mjs";
 
