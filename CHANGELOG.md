@@ -1,3 +1,9 @@
+## [3.1.5](https://github.com/kubosho/configs/compare/v3.1.4...v3.1.5) (2024-07-07)
+
+### 🐛 Bug Fixes
+
+* **eslint:** ignore node_modules from linting ([2fe7673](https://github.com/kubosho/configs/commit/2fe7673a68ab14ebacf1fd3b465bd7f39b5319b3))
+
 ## [3.1.4](https://github.com/kubosho/configs/compare/v3.1.3...v3.1.4) (2024-07-07)
 
 ### 🐛 Bug Fixes
