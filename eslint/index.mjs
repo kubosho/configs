@@ -26,6 +26,8 @@ export default [
   {
     files: ["**/*.{js,cjs,mjs,ts,cts,mts}", ...react.files],
 
+    ignores: ["**/node_modules/"],
+
     languageOptions: {
       globals: {
         ...globals.browser,
