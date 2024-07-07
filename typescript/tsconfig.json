@@ -11,6 +11,7 @@
     "moduleResolution": "nodenext",
     "resolveJsonModule": true,
     "isolatedModules": true,
+    "incremental": true,
     "jsx": "preserve"
   },
   "exclude": ["node_modules"],
