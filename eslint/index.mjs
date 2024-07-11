@@ -17,6 +17,8 @@ const compat = new FlatCompat({
 
 export default [
   eslintConfigPrettier,
+  js.configs.recommended,
+  ...reactConfig,
 
   ...compat.extends(
     "./configs/a11y",
@@ -24,7 +26,7 @@ export default [
     "./configs/typescript",
   ),
   {
-    files: ["**/*.{js,cjs,mjs,ts,cts,mts}", ...reactConfig.files],
+    files: ["**/*.{js,cjs,mjs,ts,cts,mts}"],
 
     ignores: ["**/node_modules/"],
 
@@ -34,20 +36,6 @@ export default [
         ...globals.node,
         ...globals.jest,
       },
-      ...reactConfig.languageOptions,
-    },
-
-    plugins: {
-      ...reactConfig.plugins,
-    },
-
-    rules: {
-      ...js.configs.recommended.rules,
-      ...reactConfig.rules,
-    },
-
-    settings: {
-      ...reactConfig.settings,
     },
   },
 ];
