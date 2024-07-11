@@ -1,3 +1,11 @@
+## [3.2.1](https://github.com/kubosho/configs/compare/v3.2.0...v3.2.1) (2024-07-11)
+
+### 📚 Some changes
+
+* **deps:** bump @typescript-eslint/eslint-plugin from 7.13.0 to 7.15.0 ([cd7be3b](https://github.com/kubosho/configs/commit/cd7be3b0c9fffeb5cffd002bf8950448d3b01962))
+* **deps:** bump eslint-plugin-jsx-a11y from 6.8.0 to 6.9.0 ([4928896](https://github.com/kubosho/configs/commit/492889675c3a1a02a5b1e3042622ecb4dac1c4df))
+* **deps:** bump typescript from 5.4.5 to 5.5.3 ([3b4d3aa](https://github.com/kubosho/configs/commit/3b4d3aa33540aa6e818fdd52792e6e7886b55a06))
+
 ## [3.2.0](https://github.com/kubosho/configs/compare/v3.1.6...v3.2.0) (2024-07-07)
 
 ### ✨ Features
