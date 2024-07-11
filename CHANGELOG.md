@@ -1,3 +1,9 @@
+## [3.3.0](https://github.com/kubosho/configs/compare/v3.2.2...v3.3.0) (2024-07-11)
+
+### ✨ Features
+
+* **tsconfig:** add isolatedDeclarations config ([62cdfe9](https://github.com/kubosho/configs/commit/62cdfe9ba8c9d4606ce23bbb8bff3dc16c0ecd0d))
+
 ## [3.2.2](https://github.com/kubosho/configs/compare/v3.2.1...v3.2.2) (2024-07-11)
 
 ### 📚 Some changes
