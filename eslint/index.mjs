@@ -6,7 +6,7 @@ import js from "@eslint/js";
 import eslintConfigPrettier from "eslint-config-prettier";
 import globals from "globals";
 
-import react from "./configs/react.mjs";
+import reactConfig from "./configs/react.mjs";
 
 const _filename = fileURLToPath(import.meta.url);
 const _dirname = path.dirname(_filename);
@@ -24,7 +24,7 @@ export default [
     "./configs/typescript",
   ),
   {
-    files: ["**/*.{js,cjs,mjs,ts,cts,mts}", ...react.files],
+    files: ["**/*.{js,cjs,mjs,ts,cts,mts}", ...reactConfig.files],
 
     ignores: ["**/node_modules/"],
 
@@ -34,20 +34,20 @@ export default [
         ...globals.node,
         ...globals.jest,
       },
-      ...react.languageOptions,
+      ...reactConfig.languageOptions,
     },
 
     plugins: {
-      ...react.plugins,
+      ...reactConfig.plugins,
     },
 
     rules: {
       ...js.configs.recommended.rules,
-      ...react.rules,
+      ...reactConfig.rules,
     },
 
     settings: {
-      ...react.settings,
+      ...reactConfig.settings,
     },
   },
 ];
