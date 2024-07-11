@@ -25,13 +25,12 @@
     "./prettier/index.js"
   ],
   "dependencies": {
-    "@typescript-eslint/eslint-plugin": "^7.15.0",
-    "@typescript-eslint/parser": "^7.16.0",
     "eslint-config-prettier": "^9.1.0",
     "eslint-plugin-import": "^2.29.0",
     "eslint-plugin-jsx-a11y": "^6.9.0",
     "eslint-plugin-react": "^7.34.3",
-    "globals": "^15.8.0"
+    "globals": "^15.8.0",
+    "typescript-eslint": "^7.16.0"
   },
   "devDependencies": {
     "@semantic-release/changelog": "^6.0.2",
