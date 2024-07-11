@@ -1,3 +1,10 @@
+## [3.2.2](https://github.com/kubosho/configs/compare/v3.2.1...v3.2.2) (2024-07-11)
+
+### 📚 Some changes
+
+* **deps:** bump @typescript-eslint/parser from 7.13.0 to 7.16.0 ([4a9ffa8](https://github.com/kubosho/configs/commit/4a9ffa89dce242257b7d7f1e3ff112eebdd3a1db))
+* **deps:** bump eslint-plugin-react from 7.34.2 to 7.34.3 ([15d80ff](https://github.com/kubosho/configs/commit/15d80ff98e810e04f4b655861af8b854041234a4))
+
 ## [3.2.1](https://github.com/kubosho/configs/compare/v3.2.0...v3.2.1) (2024-07-11)
 
 ### 📚 Some changes
