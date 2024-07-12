@@ -1,3 +1,15 @@
+## [3.4.0](https://github.com/kubosho/configs/compare/v3.3.0...v3.4.0) (2024-07-12)
+
+### ✨ Features
+
+* **eslint/configs/typescript:** migrate TypeScript settings to flat config ([ddf518c](https://github.com/kubosho/configs/commit/ddf518c0b63a3b4c86e28e573a9c2517fbdb3e65))
+* **eslint/configs/react:** simplify React ESLint configuration ([d515956](https://github.com/kubosho/configs/commit/d5159560ba0ec91d716940982f6ded32d262f0bc))
+
+### 📚 Some changes
+
+* **eslint/configs:** split basic ESLint configuration into a separate file ([eecd70a](https://github.com/kubosho/configs/commit/eecd70a05d4bdc48923bb6e71a854d945aacfdca))
+* **eslint/configs/react:** use shareable config format ([1870a99](https://github.com/kubosho/configs/commit/1870a99bf1313b196644015a0ca436400916bc3b))
+
 ## [3.3.0](https://github.com/kubosho/configs/compare/v3.2.2...v3.3.0) (2024-07-11)
 
 ### ✨ Features
