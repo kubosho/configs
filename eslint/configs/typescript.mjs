@@ -1,15 +1,9 @@
 import tseslint from "typescript-eslint";
 
 export default [
-  ...tseslint.configs.recommendedTypeChecked,
+  ...tseslint.configs.recommended,
   {
     files: ["**/*.{ts,cts,mts,tsx}"],
-    languageOptions: {
-      parserOptions: {
-        project: true,
-        tsconfigRootDir: import.meta.dirname,
-      },
-    },
     rules: {
       "@typescript-eslint/camelcase": "off",
       "@typescript-eslint/no-unused-vars": [

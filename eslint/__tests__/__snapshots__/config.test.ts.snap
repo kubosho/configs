@@ -1,6 +1,6 @@
 // Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
 
-exports[`should match the ESLint configuration snapshot for JavaScript 1`] = `
+exports[`ESLint configuration > should match the ESLint configuration snapshot for JavaScript 1`] = `
 {
   "languageOptions": {
     "ecmaVersion": "latest",
@@ -1871,9 +1871,6 @@ exports[`should match the ESLint configuration snapshot for JavaScript 1`] = `
     "no-global-assign": [
       2,
     ],
-    "no-implied-eval": [
-      0,
-    ],
     "no-import-assign": [
       2,
     ],
@@ -2138,9 +2135,6 @@ exports[`should match the ESLint configuration snapshot for JavaScript 1`] = `
     "react/require-render-return": [
       2,
     ],
-    "require-await": [
-      0,
-    ],
     "require-yield": [
       2,
     ],
@@ -2377,7 +2371,7 @@ exports[`should match the ESLint configuration snapshot for JavaScript 1`] = `
 }
 `;
 
-exports[`should match the ESLint configuration snapshot for TypeScript 1`] = `
+exports[`ESLint configuration > should match the ESLint configuration snapshot for TypeScript 1`] = `
 {
   "languageOptions": {
     "ecmaVersion": "latest",
@@ -2387,8 +2381,6 @@ exports[`should match the ESLint configuration snapshot for TypeScript 1`] = `
         "jsx": true,
       },
       "jsxPragma": null,
-      "project": true,
-      "tsconfigRootDir": "/home/kubosho/src/github.com/kubosho/configs/eslint/configs",
     },
     "sourceType": "module",
   },
@@ -2406,9 +2398,6 @@ exports[`should match the ESLint configuration snapshot for TypeScript 1`] = `
     ],
     "@babel/semi": [
       0,
-    ],
-    "@typescript-eslint/await-thenable": [
-      2,
     ],
     "@typescript-eslint/ban-ts-comment": [
       2,
@@ -2460,13 +2449,7 @@ exports[`should match the ESLint configuration snapshot for TypeScript 1`] = `
     "@typescript-eslint/no-array-constructor": [
       2,
     ],
-    "@typescript-eslint/no-base-to-string": [
-      2,
-    ],
     "@typescript-eslint/no-duplicate-enum-values": [
-      2,
-    ],
-    "@typescript-eslint/no-duplicate-type-constituents": [
       2,
     ],
     "@typescript-eslint/no-explicit-any": [
@@ -2481,22 +2464,10 @@ exports[`should match the ESLint configuration snapshot for TypeScript 1`] = `
     "@typescript-eslint/no-extra-semi": [
       0,
     ],
-    "@typescript-eslint/no-floating-promises": [
-      2,
-    ],
-    "@typescript-eslint/no-for-in-array": [
-      2,
-    ],
-    "@typescript-eslint/no-implied-eval": [
-      2,
-    ],
     "@typescript-eslint/no-loss-of-precision": [
       2,
     ],
     "@typescript-eslint/no-misused-new": [
-      2,
-    ],
-    "@typescript-eslint/no-misused-promises": [
       2,
     ],
     "@typescript-eslint/no-namespace": [
@@ -2505,37 +2476,13 @@ exports[`should match the ESLint configuration snapshot for TypeScript 1`] = `
     "@typescript-eslint/no-non-null-asserted-optional-chain": [
       2,
     ],
-    "@typescript-eslint/no-redundant-type-constituents": [
-      2,
-    ],
     "@typescript-eslint/no-this-alias": [
-      2,
-    ],
-    "@typescript-eslint/no-unnecessary-type-assertion": [
       2,
     ],
     "@typescript-eslint/no-unnecessary-type-constraint": [
       2,
     ],
-    "@typescript-eslint/no-unsafe-argument": [
-      2,
-    ],
-    "@typescript-eslint/no-unsafe-assignment": [
-      2,
-    ],
-    "@typescript-eslint/no-unsafe-call": [
-      2,
-    ],
     "@typescript-eslint/no-unsafe-declaration-merging": [
-      2,
-    ],
-    "@typescript-eslint/no-unsafe-enum-comparison": [
-      2,
-    ],
-    "@typescript-eslint/no-unsafe-member-access": [
-      2,
-    ],
-    "@typescript-eslint/no-unsafe-return": [
       2,
     ],
     "@typescript-eslint/no-unused-vars": [
@@ -2556,15 +2503,6 @@ exports[`should match the ESLint configuration snapshot for TypeScript 1`] = `
     "@typescript-eslint/quotes": [
       0,
     ],
-    "@typescript-eslint/require-await": [
-      2,
-    ],
-    "@typescript-eslint/restrict-plus-operands": [
-      2,
-    ],
-    "@typescript-eslint/restrict-template-expressions": [
-      2,
-    ],
     "@typescript-eslint/semi": [
       0,
     ],
@@ -2582,9 +2520,6 @@ exports[`should match the ESLint configuration snapshot for TypeScript 1`] = `
     ],
     "@typescript-eslint/type-annotation-spacing": [
       0,
-    ],
-    "@typescript-eslint/unbound-method": [
-      2,
     ],
     "array-bracket-newline": [
       0,
@@ -3010,9 +2945,6 @@ exports[`should match the ESLint configuration snapshot for TypeScript 1`] = `
     "no-global-assign": [
       2,
     ],
-    "no-implied-eval": [
-      0,
-    ],
     "no-import-assign": [
       0,
     ],
@@ -3291,9 +3223,6 @@ exports[`should match the ESLint configuration snapshot for TypeScript 1`] = `
     ],
     "react/require-render-return": [
       2,
-    ],
-    "require-await": [
-      0,
     ],
     "require-yield": [
       2,
