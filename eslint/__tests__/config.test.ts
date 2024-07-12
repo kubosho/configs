@@ -1,22 +1,40 @@
 import path from "node:path";
 
 import pkg from "eslint/use-at-your-own-risk";
-import { expect, it } from "vitest";
+import { describe, expect, it } from "vitest";
 
 const { FlatESLint } = pkg;
 
-it("should match the ESLint configuration snapshot", async () => {
-  // Given
-  const configFile = path.resolve(__dirname, "../index.mjs");
-  const testFile = path.resolve(__dirname, "../examples/src/bubbleSort.mjs");
-  const eslint = new FlatESLint({
-    overrideConfigFile: configFile,
-    warnIgnored: true,
+describe("ESLint configuration", () => {
+  it("should match the ESLint configuration snapshot for JavaScript", async () => {
+    // Given
+    const configFile = path.resolve(__dirname, "../index.mjs");
+    const testFile = path.resolve(__dirname, "../examples/src/bubbleSort.mjs");
+    const eslint = new FlatESLint({
+      overrideConfigFile: configFile,
+      warnIgnored: true,
+    });
+
+    // When
+    const result = await eslint.calculateConfigForFile(testFile);
+
+    // Then
+    expect(result).toMatchSnapshot();
   });
 
-  // When
-  const result = await eslint.calculateConfigForFile(testFile);
+  it("should match the ESLint configuration snapshot for TypeScript", async () => {
+    // Given
+    const configFile = path.resolve(__dirname, "../index.mjs");
+    const testFile = path.resolve(__dirname, "../examples/src/bubbleSort.ts");
+    const eslint = new FlatESLint({
+      overrideConfigFile: configFile,
+      warnIgnored: true,
+    });
 
-  // Then
-  expect(result).toMatchSnapshot();
+    // When
+    const result = await eslint.calculateConfigForFile(testFile);
+
+    // Then
+    expect(result).toMatchSnapshot();
+  });
 });
