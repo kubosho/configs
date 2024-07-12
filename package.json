@@ -16,10 +16,7 @@
     "access": "public"
   },
   "files": [
-    "./eslint/configs/a11y.js",
-    "./eslint/configs/import.js",
-    "./eslint/configs/react.mjs",
-    "./eslint/configs/typescript.js",
+    "./eslint/configs/*",
     "./eslint/index.mjs",
     "./typescript/tsconfig.json",
     "./prettier/index.js"
@@ -44,10 +41,10 @@
     "vitest": "^2.0.2"
   },
   "peerDependencies": {
-    "eslint": "^8.5.7",
-    "prettier": "^3.3.2",
-    "react": "^18.3.1",
-    "typescript": "^5.5.3"
+    "eslint": "^8.5.0",
+    "prettier": "^3.3.0",
+    "react": "^18.3.0",
+    "typescript": "^5.5.0"
   },
   "release": {
     "branches": [
