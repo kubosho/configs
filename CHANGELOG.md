@@ -1,3 +1,13 @@
+## [3.5.0](https://github.com/kubosho/configs/compare/v3.4.0...v3.5.0) (2024-07-12)
+
+### ✨ Features
+
+* **package:** avoid specifying patch versions in peerDependencies ([4e03c6c](https://github.com/kubosho/configs/commit/4e03c6c1d98bd2a99074bec11825fb0b71035f6d))
+
+### 🐛 Bug Fixes
+
+* **package:** ensure all files within eslint/configs are included ([baa1bcd](https://github.com/kubosho/configs/commit/baa1bcd6c02a42b391a7926c4d2b8b5f0c76ad16))
+
 ## [3.4.0](https://github.com/kubosho/configs/compare/v3.3.0...v3.4.0) (2024-07-12)
 
 ### ✨ Features
