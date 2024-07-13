@@ -29,6 +29,9 @@ jobs:
       - name: Testing ESLint
         run: npm run test:eslint
 
+      - name: Testing TypeScript
+        run: npm run test:ts
+
       - name: Release script
         run: npx semantic-release
         env:
