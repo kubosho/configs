@@ -1,3 +1,9 @@
+## [3.7.0](https://github.com/kubosho/configs/compare/v3.6.0...v3.7.0) (2024-07-13)
+
+### ✨ Features
+
+* **typescript/tsconfig:** disable isolatedDeclarations config ([8402ec2](https://github.com/kubosho/configs/commit/8402ec2d7b6a2e29e7c39fa82733e20ca2b28ab8))
+
 ## [3.6.0](https://github.com/kubosho/configs/compare/v3.5.1...v3.6.0) (2024-07-13)
 
 ### ✨ Features
