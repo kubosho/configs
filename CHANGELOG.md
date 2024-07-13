@@ -1,3 +1,9 @@
+## [3.6.0](https://github.com/kubosho/configs/compare/v3.5.1...v3.6.0) (2024-07-13)
+
+### ✨ Features
+
+* **eslint/configs/import:** add eslint-import-resolver-typescript config ([9af5927](https://github.com/kubosho/configs/commit/9af5927a1e42d67b624fe99da6d972f412e9451b))
+
 ## [3.5.1](https://github.com/kubosho/configs/compare/v3.5.0...v3.5.1) (2024-07-13)
 
 ### 🐛 Bug Fixes
