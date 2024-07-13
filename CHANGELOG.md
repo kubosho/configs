@@ -1,3 +1,9 @@
+## [3.5.1](https://github.com/kubosho/configs/compare/v3.5.0...v3.5.1) (2024-07-13)
+
+### 🐛 Bug Fixes
+
+* **tsconfig:** add composite config ([672a3a2](https://github.com/kubosho/configs/commit/672a3a2401a36743f7ca88e7a9c628f850623dbe))
+
 ## [3.5.0](https://github.com/kubosho/configs/compare/v3.4.0...v3.5.0) (2024-07-12)
 
 ### ✨ Features
