@@ -8,6 +8,7 @@
     "node": ">=20.0.0"
   },
   "scripts": {
+    "test:ts": "tsc --noEmit",
     "test:eslint": "vitest run",
     "lint:eslint": "ESLINT_USE_FLAT_CONFIG=true eslint --config ./eslint/examples/eslint.config.mjs ./eslint/examples/src/*",
     "print:eslint": "ESLINT_USE_FLAT_CONFIG=true eslint --config ./eslint/examples/eslint.config.mjs --print-config ./eslint/examples/eslint.config.mjs"
