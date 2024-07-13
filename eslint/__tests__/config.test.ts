@@ -1,9 +1,8 @@
 import path from "node:path";
 
-import pkg from "eslint/use-at-your-own-risk";
+// @ts-expect-error FlatESLint is not type-defined but can be used
+import { FlatESLint } from "eslint/use-at-your-own-risk";
 import { describe, expect, it } from "vitest";
-
-const { FlatESLint } = pkg;
 
 describe("ESLint configuration", () => {
   it("should match the ESLint configuration snapshot for JavaScript", async () => {
