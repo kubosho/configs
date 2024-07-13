@@ -4,9 +4,16 @@ module.exports = {
   plugins: ["import"],
   extends: ["plugin:import/errors", "plugin:import/warnings"],
   settings: {
+    "import/parsers": {
+      "@typescript-eslint/parser": [".ts", ".tsx"],
+    },
     "import/resolver": {
       node: {
-        extensions: [".js", ".jsx", ".ts", ".tsx", ".d.ts"],
+        extensions: [".js", ".cjs", ".mjs", ".jsx"],
+      },
+      typescript: {
+        alwaysTryTypes: true,
+        extensions: [".ts", ".tsx", ".d.ts"],
       },
     },
     "import/ignore": ["node_modules"],

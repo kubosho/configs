@@ -2353,11 +2353,24 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
     "import/ignore": [
       "node_modules",
     ],
+    "import/parsers": {
+      "@typescript-eslint/parser": [
+        ".ts",
+        ".tsx",
+      ],
+    },
     "import/resolver": {
       "node": {
         "extensions": [
           ".js",
+          ".cjs",
+          ".mjs",
           ".jsx",
+        ],
+      },
+      "typescript": {
+        "alwaysTryTypes": true,
+        "extensions": [
           ".ts",
           ".tsx",
           ".d.ts",
@@ -3442,11 +3455,24 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
     "import/ignore": [
       "node_modules",
     ],
+    "import/parsers": {
+      "@typescript-eslint/parser": [
+        ".ts",
+        ".tsx",
+      ],
+    },
     "import/resolver": {
       "node": {
         "extensions": [
           ".js",
+          ".cjs",
+          ".mjs",
           ".jsx",
+        ],
+      },
+      "typescript": {
+        "alwaysTryTypes": true,
+        "extensions": [
           ".ts",
           ".tsx",
           ".d.ts",
