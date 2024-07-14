@@ -1578,6 +1578,11 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
     ],
     "import/no-extraneous-dependencies": [
       2,
+      {
+        "devDependencies": [
+          "**/*.{test,spec}.{js,cjs,mjs,jsx,ts,cts,mts,tsx}",
+        ],
+      },
     ],
     "import/no-named-as-default": [
       1,
@@ -2665,6 +2670,11 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
     ],
     "import/no-extraneous-dependencies": [
       2,
+      {
+        "devDependencies": [
+          "**/*.{test,spec}.{js,cjs,mjs,jsx,ts,cts,mts,tsx}",
+        ],
+      },
     ],
     "import/no-named-as-default": [
       1,

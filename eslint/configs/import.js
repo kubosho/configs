@@ -41,6 +41,11 @@ module.exports = {
         commonjs: true,
       },
     ],
-    "import/no-extraneous-dependencies": "error",
+    "import/no-extraneous-dependencies": [
+      "error",
+      {
+        devDependencies: ["**/*.{test,spec}.{js,cjs,mjs,jsx,ts,cts,mts,tsx}"],
+      },
+    ],
   },
 };
