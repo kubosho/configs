@@ -1580,7 +1580,7 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
       2,
       {
         "devDependencies": [
-          "**/*.{test,spec}.{js,cjs,mjs,jsx,ts,cts,mts,tsx}",
+          "**/*.{config,spec,test}.{js,cjs,mjs,jsx,ts,cts,mts,tsx}",
         ],
       },
     ],
@@ -2672,7 +2672,7 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
       2,
       {
         "devDependencies": [
-          "**/*.{test,spec}.{js,cjs,mjs,jsx,ts,cts,mts,tsx}",
+          "**/*.{config,spec,test}.{js,cjs,mjs,jsx,ts,cts,mts,tsx}",
         ],
       },
     ],
