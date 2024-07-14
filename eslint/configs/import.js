@@ -44,7 +44,9 @@ module.exports = {
     "import/no-extraneous-dependencies": [
       "error",
       {
-        devDependencies: ["**/*.{test,spec}.{js,cjs,mjs,jsx,ts,cts,mts,tsx}"],
+        devDependencies: [
+          "**/*.{config,spec,test}.{js,cjs,mjs,jsx,ts,cts,mts,tsx}",
+        ],
       },
     ],
   },
