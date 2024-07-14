@@ -1,3 +1,9 @@
+## [3.8.0](https://github.com/kubosho/configs/compare/v3.7.0...v3.8.0) (2024-07-14)
+
+### ✨ Features
+
+* **eslint/configs/import:** define options for import/no-extraneous-dependencies ([ff44761](https://github.com/kubosho/configs/commit/ff447616cff99a0b00297571f87efd03e792d355))
+
 ## [3.7.0](https://github.com/kubosho/configs/compare/v3.6.0...v3.7.0) (2024-07-13)
 
 ### ✨ Features
