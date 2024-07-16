@@ -1,3 +1,9 @@
+## [3.8.2](https://github.com/kubosho/configs/compare/v3.8.1...v3.8.2) (2024-07-16)
+
+### 🐛 Bug Fixes
+
+* **eslint/configs/import:** add factory files to exclusions for import/no-extraneous-dependencies ([d4e7a69](https://github.com/kubosho/configs/commit/d4e7a69ffcf61d5707949d19788874fb251f5a0f))
+
 ## [3.8.1](https://github.com/kubosho/configs/compare/v3.8.0...v3.8.1) (2024-07-14)
 
 ### 🐛 Bug Fixes
