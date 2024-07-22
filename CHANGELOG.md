@@ -1,3 +1,9 @@
+## [3.8.4](https://github.com/kubosho/configs/compare/v3.8.3...v3.8.4) (2024-07-22)
+
+### 📚 Some changes
+
+* **deps:** bump eslint-plugin-react from 7.34.4 to 7.35.0 ([1c94581](https://github.com/kubosho/configs/commit/1c94581b0918fb273595249a25e488004422280e))
+
 ## [3.8.3](https://github.com/kubosho/configs/compare/v3.8.2...v3.8.3) (2024-07-16)
 
 ### 📚 Some changes
