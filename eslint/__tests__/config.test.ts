@@ -15,10 +15,10 @@ describe("ESLint configuration", () => {
     });
 
     // When
-    const result = await eslint.calculateConfigForFile(testFile);
+    const { rules } = await eslint.calculateConfigForFile(testFile);
 
     // Then
-    expect(result).toMatchSnapshot();
+    expect(rules).toMatchSnapshot();
   });
 
   it("should match the ESLint configuration snapshot for TypeScript", async () => {
@@ -31,9 +31,9 @@ describe("ESLint configuration", () => {
     });
 
     // When
-    const result = await eslint.calculateConfigForFile(testFile);
+    const { rules } = await eslint.calculateConfigForFile(testFile);
 
     // Then
-    expect(result).toMatchSnapshot();
+    expect(rules).toMatchSnapshot();
   });
 });
