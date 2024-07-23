@@ -1,3 +1,9 @@
+## [3.8.6](https://github.com/kubosho/configs/compare/v3.8.5...v3.8.6) (2024-07-23)
+
+### 🐛 Bug Fixes
+
+* **eslint/configs/import:** exclude workspace files for import/no-extraneous-dependencies ([4e7802e](https://github.com/kubosho/configs/commit/4e7802edc52098cd6bc72dc81cb2a32d93db2108))
+
 ## [3.8.5](https://github.com/kubosho/configs/compare/v3.8.4...v3.8.5) (2024-07-22)
 
 ### 📚 Some changes
