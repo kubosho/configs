@@ -45,7 +45,7 @@ module.exports = {
       "error",
       {
         devDependencies: [
-          "**/*.{config,factory,spec,test}.{js,cjs,mjs,jsx,ts,cts,mts,tsx}",
+          "**/*.{config,factory,spec,test,workspace}.{js,cjs,mjs,jsx,ts,cts,mts,tsx}",
         ],
       },
     ],
