@@ -29,7 +29,7 @@
     "eslint-plugin-jsx-a11y": "^6.9.0",
     "eslint-plugin-react": "^7.35.0",
     "globals": "^15.8.0",
-    "typescript-eslint": "^7.16.1"
+    "typescript-eslint": "^7.17.0"
   },
   "devDependencies": {
     "@semantic-release/changelog": "^6.0.2",
