@@ -1,3 +1,9 @@
+## [3.8.7](https://github.com/kubosho/configs/compare/v3.8.6...v3.8.7) (2024-07-29)
+
+### 📚 Some changes
+
+* **deps:** bump typescript-eslint from 7.16.1 to 7.17.0 ([5e4c61d](https://github.com/kubosho/configs/commit/5e4c61dc98d43364cd73d2b055656ceb64ff149f))
+
 ## [3.8.6](https://github.com/kubosho/configs/compare/v3.8.5...v3.8.6) (2024-07-23)
 
 ### 🐛 Bug Fixes
