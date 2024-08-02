@@ -1,6 +1,5 @@
 import path from "node:path";
 
-// @ts-expect-error FlatESLint is not type-defined but can be used
 import { FlatESLint } from "eslint/use-at-your-own-risk";
 import { describe, expect, it } from "vitest";
 
