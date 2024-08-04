@@ -402,7 +402,7 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
     2,
   ],
   "import/named": [
-    2,
+    0,
   ],
   "import/namespace": [
     2,
@@ -417,7 +417,7 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
     2,
     {
       "devDependencies": [
-        "**/*.{config,factory,spec,test,workspace}.{js,cjs,mjs,jsx,ts,cts,mts,tsx}",
+        "**/*.{config,factory,spec,test,workspace}.{cjs,js,mjs,jsx,cts,mts,ts,tsx}",
       ],
     },
   ],
@@ -429,27 +429,6 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
   ],
   "import/no-unresolved": [
     2,
-    {
-      "caseSensitive": true,
-      "caseSensitiveStrict": false,
-      "commonjs": true,
-    },
-  ],
-  "import/order": [
-    2,
-    {
-      "distinctGroup": true,
-      "groups": [
-        "builtin",
-        "external",
-        "internal",
-        "parent",
-        "sibling",
-        "index",
-      ],
-      "newlines-between": "always",
-      "warnOnUnassignedImports": false,
-    },
   ],
   "indent": [
     0,
@@ -992,6 +971,12 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
   "semi-style": [
     0,
   ],
+  "simple-import-sort/exports": [
+    2,
+  ],
+  "simple-import-sort/imports": [
+    2,
+  ],
   "space-after-function-name": [
     0,
   ],
@@ -1441,7 +1426,7 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
     2,
   ],
   "import/named": [
-    2,
+    0,
   ],
   "import/namespace": [
     2,
@@ -1456,7 +1441,7 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
     2,
     {
       "devDependencies": [
-        "**/*.{config,factory,spec,test,workspace}.{js,cjs,mjs,jsx,ts,cts,mts,tsx}",
+        "**/*.{config,factory,spec,test,workspace}.{cjs,js,mjs,jsx,cts,mts,ts,tsx}",
       ],
     },
   ],
@@ -1468,27 +1453,6 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
   ],
   "import/no-unresolved": [
     2,
-    {
-      "caseSensitive": true,
-      "caseSensitiveStrict": false,
-      "commonjs": true,
-    },
-  ],
-  "import/order": [
-    2,
-    {
-      "distinctGroup": true,
-      "groups": [
-        "builtin",
-        "external",
-        "internal",
-        "parent",
-        "sibling",
-        "index",
-      ],
-      "newlines-between": "always",
-      "warnOnUnassignedImports": false,
-    },
   ],
   "indent": [
     0,
@@ -2045,6 +2009,12 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
   ],
   "semi-style": [
     0,
+  ],
+  "simple-import-sort/exports": [
+    2,
+  ],
+  "simple-import-sort/imports": [
+    2,
   ],
   "space-after-function-name": [
     0,

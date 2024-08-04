@@ -6,6 +6,7 @@ import js from "@eslint/js";
 import eslintConfigPrettier from "eslint-config-prettier";
 
 import baseConfig from "./configs/base.mjs";
+import importConfig from "./configs/import.mjs";
 import reactConfig from "./configs/react.mjs";
 import typescriptConfig from "./configs/typescript.mjs";
 
@@ -16,11 +17,12 @@ const compat = new FlatCompat({
 });
 
 export default [
-  ...compat.extends("./configs/a11y", "./configs/import"),
+  ...compat.extends("./configs/a11y"),
 
   js.configs.recommended,
   eslintConfigPrettier,
   ...baseConfig,
+  ...importConfig,
   ...reactConfig,
   ...typescriptConfig,
 ];

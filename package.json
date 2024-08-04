@@ -23,11 +23,13 @@
     "./prettier/index.js"
   ],
   "dependencies": {
+    "@eslint/compat": "^1.1.1",
     "eslint-config-prettier": "^9.1.0",
     "eslint-import-resolver-typescript": "^3.6.1",
     "eslint-plugin-import": "^2.29.0",
     "eslint-plugin-jsx-a11y": "^6.9.0",
     "eslint-plugin-react": "^7.35.0",
+    "eslint-plugin-simple-import-sort": "^12.1.1",
     "globals": "^15.8.0",
     "typescript-eslint": "^7.17.0"
   },
