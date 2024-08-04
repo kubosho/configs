@@ -1,3 +1,10 @@
+## [3.9.0](https://github.com/kubosho/configs/compare/v3.8.7...v3.9.0) (2024-08-04)
+
+### ✨ Features
+
+* **eslint:** add new import rule config ([2ba50e1](https://github.com/kubosho/configs/commit/2ba50e10b82897798c65fd331121cf42ad1d101e))
+* **eslint:** apply new import rule config ([6f590c4](https://github.com/kubosho/configs/commit/6f590c41f9963b6949d7c649476a3373fcbe1d68))
+
 ## [3.8.7](https://github.com/kubosho/configs/compare/v3.8.6...v3.8.7) (2024-07-29)
 
 ### 📚 Some changes
