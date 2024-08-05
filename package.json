@@ -30,7 +30,7 @@
     "eslint-plugin-jsx-a11y": "^6.9.0",
     "eslint-plugin-react": "^7.35.0",
     "eslint-plugin-simple-import-sort": "^12.1.1",
-    "globals": "^15.8.0",
+    "globals": "^15.9.0",
     "typescript-eslint": "^7.17.0"
   },
   "devDependencies": {
