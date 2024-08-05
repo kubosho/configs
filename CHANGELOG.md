@@ -1,3 +1,9 @@
+## [3.9.1](https://github.com/kubosho/configs/compare/v3.9.0...v3.9.1) (2024-08-05)
+
+### 📚 Some changes
+
+* **deps:** bump globals from 15.8.0 to 15.9.0 ([5a8b69a](https://github.com/kubosho/configs/commit/5a8b69a38fdf8fec7a5e7e59565b64615050f68b))
+
 ## [3.9.0](https://github.com/kubosho/configs/compare/v3.8.7...v3.9.0) (2024-08-04)
 
 ### ✨ Features
