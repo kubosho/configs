@@ -1,3 +1,9 @@
+## [3.9.2](https://github.com/kubosho/configs/compare/v3.9.1...v3.9.2) (2024-08-05)
+
+### 🐛 Bug Fixes
+
+* **eslint/configs/react:** apply rule only to JSX files ([f26103f](https://github.com/kubosho/configs/commit/f26103fa039418ef84431b88e9989e7a837e7dc0))
+
 ## [3.9.1](https://github.com/kubosho/configs/compare/v3.9.0...v3.9.1) (2024-08-05)
 
 ### 📚 Some changes
