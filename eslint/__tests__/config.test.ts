@@ -20,6 +20,22 @@ describe("ESLint configuration", () => {
     expect(rules).toMatchSnapshot();
   });
 
+  it("should match the ESLint configuration snapshot for JSX", async () => {
+    // Given
+    const configFile = path.resolve(__dirname, "../index.mjs");
+    const testFile = path.resolve(__dirname, "../examples/src/Image.jsx");
+    const eslint = new FlatESLint({
+      overrideConfigFile: configFile,
+      warnIgnored: true,
+    });
+
+    // When
+    const { rules } = await eslint.calculateConfigForFile(testFile);
+
+    // Then
+    expect(rules).toMatchSnapshot();
+  });
+
   it("should match the ESLint configuration snapshot for TypeScript", async () => {
     // Given
     const configFile = path.resolve(__dirname, "../index.mjs");
