@@ -1,11 +1,15 @@
-import reactJsxRuntimeConfig from "eslint-plugin-react/configs/jsx-runtime.js";
-import reactRecommendedConfig from "eslint-plugin-react/configs/recommended.js";
+import reactPlugin from "eslint-plugin-react";
 
 export default [
-  reactRecommendedConfig,
-  reactJsxRuntimeConfig,
-
   {
+    ...reactPlugin.configs.flat.recommended,
+    ...reactPlugin.configs.flat["jsx-runtime"],
+
+    files: ["**/*.{jsx,mjsx,tsx,mtsx}"],
+    rules: {
+      ...reactPlugin.configs.flat.recommended.rules,
+      ...reactPlugin.configs.flat["jsx-runtime"].rules,
+    },
     settings: {
       react: {
         version: "detect",
