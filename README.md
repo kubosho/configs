@@ -19,7 +19,15 @@ In use `eslint.config.mjs`:
 ```javascript
 import config from '@kubosho/configs/eslint/index.mjs';
 
-export default [...config];
+export default config;
+```
+
+### Markuplint
+
+```javascript
+import config from '@kubosho/configs/markuplint/index.mjs';
+
+export default config;
 ```
 
 ### Prettier

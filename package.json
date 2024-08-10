@@ -11,7 +11,8 @@
     "test:ts": "tsc --noEmit",
     "test:eslint": "vitest run",
     "lint:eslint": "ESLINT_USE_FLAT_CONFIG=true eslint --config ./eslint/examples/eslint.config.mjs ./eslint/examples/src/*",
-    "print:eslint": "ESLINT_USE_FLAT_CONFIG=true eslint --config ./eslint/examples/eslint.config.mjs --print-config ./eslint/examples/eslint.config.mjs"
+    "print:eslint": "ESLINT_USE_FLAT_CONFIG=true eslint --config ./eslint/examples/eslint.config.mjs --print-config ./eslint/examples/eslint.config.mjs",
+    "format": "prettier --write ."
   },
   "publishConfig": {
     "access": "public"
@@ -19,6 +20,7 @@
   "files": [
     "./eslint/configs/*",
     "./eslint/index.mjs",
+    "./markuplint/index.mjs",
     "./typescript/tsconfig.json",
     "./prettier/index.js"
   ],
@@ -48,6 +50,7 @@
   },
   "peerDependencies": {
     "eslint": "^8.5.0",
+    "markuplint": "^4.9.2",
     "prettier": "^3.3.0",
     "react": "^18.3.0",
     "typescript": "^5.5.0"
