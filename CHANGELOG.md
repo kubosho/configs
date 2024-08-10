@@ -1,3 +1,9 @@
+## [3.10.1](https://github.com/kubosho/configs/compare/v3.10.0...v3.10.1) (2024-08-10)
+
+### 🐛 Bug Fixes
+
+* **markuplint:** disable class-naming rule ([c101fd9](https://github.com/kubosho/configs/commit/c101fd97e7254b4be176d9453a098f293bca4bf9))
+
 ## [3.10.0](https://github.com/kubosho/configs/compare/v3.9.2...v3.10.0) (2024-08-10)
 
 ### ✨ Features
