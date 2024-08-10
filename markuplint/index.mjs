@@ -5,7 +5,7 @@ const config = {
     'attr-value-quotes': 'double',
 
     // Disabled rules
-    'class-naming': '',
+    'class-naming': null,
   },
 };
 
