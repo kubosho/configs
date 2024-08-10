@@ -20,6 +20,7 @@
   "files": [
     "./eslint/configs/*",
     "./eslint/index.mjs",
+    "./markuplint/index.mjs",
     "./typescript/tsconfig.json",
     "./prettier/index.js"
   ],
