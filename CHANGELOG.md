@@ -1,3 +1,9 @@
+## [3.10.0](https://github.com/kubosho/configs/compare/v3.9.2...v3.10.0) (2024-08-10)
+
+### ✨ Features
+
+* **markuplint:** introduce markuplint ([f9af795](https://github.com/kubosho/configs/commit/f9af795feccbd16e3b9167e3b686fcdde8eacce5))
+
 ## [3.9.2](https://github.com/kubosho/configs/compare/v3.9.1...v3.9.2) (2024-08-05)
 
 ### 🐛 Bug Fixes
