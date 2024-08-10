@@ -1,18 +1,18 @@
-import reactPlugin from "eslint-plugin-react";
+import reactPlugin from 'eslint-plugin-react';
 
 export default [
   {
     ...reactPlugin.configs.flat.recommended,
-    ...reactPlugin.configs.flat["jsx-runtime"],
+    ...reactPlugin.configs.flat['jsx-runtime'],
 
-    files: ["**/*.{jsx,mjsx,tsx,mtsx}"],
+    files: ['**/*.{jsx,mjsx,tsx,mtsx}'],
     rules: {
       ...reactPlugin.configs.flat.recommended.rules,
-      ...reactPlugin.configs.flat["jsx-runtime"].rules,
+      ...reactPlugin.configs.flat['jsx-runtime'].rules,
     },
     settings: {
       react: {
-        version: "detect",
+        version: 'detect',
       },
     },
   },

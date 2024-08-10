@@ -1,9 +1,9 @@
-import globals from "globals";
+import globals from 'globals';
 
 export default [
   {
-    files: ["**/*.{js,cjs,mjs}"],
-    ignores: ["**/node_modules/"],
+    files: ['**/*.{js,cjs,mjs}'],
+    ignores: ['**/node_modules/'],
     languageOptions: {
       globals: {
         ...globals.browser,

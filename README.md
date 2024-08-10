@@ -19,9 +19,7 @@ In use `eslint.config.mjs`:
 ```javascript
 import config from '@kubosho/configs/eslint/index.mjs';
 
-export default [
-  ...config,
-];
+export default [...config];
 ```
 
 ### Prettier

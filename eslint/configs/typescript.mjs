@@ -1,17 +1,14 @@
-import tseslint from "typescript-eslint";
+import tseslint from 'typescript-eslint';
 
 export default [
   ...tseslint.configs.recommended,
   {
-    files: ["**/*.{ts,cts,mts,tsx}"],
+    files: ['**/*.{ts,cts,mts,tsx}'],
     rules: {
-      "@typescript-eslint/camelcase": "off",
-      "@typescript-eslint/no-unused-vars": [
-        "error",
-        { argsIgnorePattern: "^_" },
-      ],
-      "@typescript-eslint/explicit-function-return-type": [
-        "error",
+      '@typescript-eslint/camelcase': 'off',
+      '@typescript-eslint/no-unused-vars': ['error', { argsIgnorePattern: '^_' }],
+      '@typescript-eslint/explicit-function-return-type': [
+        'error',
         {
           allowExpressions: true,
           allowTypedFunctionExpressions: true,
@@ -21,7 +18,7 @@ export default [
     },
   },
   {
-    files: ["**/*.{js,cjs,mjs,jsx}"],
+    files: ['**/*.{js,cjs,mjs,jsx}'],
     ...tseslint.configs.disableTypeChecked,
   },
 ];
