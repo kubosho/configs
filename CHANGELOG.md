@@ -1,3 +1,9 @@
+## [3.10.2](https://github.com/kubosho/configs/compare/v3.10.1...v3.10.2) (2024-08-12)
+
+### 📚 Some changes
+
+* **markuplint:** update README ([a17080f](https://github.com/kubosho/configs/commit/a17080fbe1563fae8bc73ec7df226b85af09d79e))
+
 ## [3.10.1](https://github.com/kubosho/configs/compare/v3.10.0...v3.10.1) (2024-08-10)
 
 ### 🐛 Bug Fixes
