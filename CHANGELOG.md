@@ -1,3 +1,9 @@
+## [3.10.3](https://github.com/kubosho/configs/compare/v3.10.2...v3.10.3) (2024-08-31)
+
+### 🐛 Bug Fixes
+
+* **package-lock:** fix vulnerability ([8ac982f](https://github.com/kubosho/configs/commit/8ac982fd1021e78ec225547f9131da1dae7afc02))
+
 ## [3.10.2](https://github.com/kubosho/configs/compare/v3.10.1...v3.10.2) (2024-08-12)
 
 ### 📚 Some changes
