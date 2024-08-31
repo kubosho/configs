@@ -1,3 +1,9 @@
+## [3.11.0](https://github.com/kubosho/configs/compare/v3.10.3...v3.11.0) (2024-08-31)
+
+### ✨ Features
+
+* provide configuration for semantic release ([292fc7a](https://github.com/kubosho/configs/commit/292fc7a325b614e5c306c57098128873c9b24271))
+
 ## [3.10.3](https://github.com/kubosho/configs/compare/v3.10.2...v3.10.3) (2024-08-31)
 
 ### 🐛 Bug Fixes
