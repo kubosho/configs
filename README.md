@@ -38,6 +38,14 @@ module.exports = {
 };
 ```
 
+### Semantic Release
+
+```javascript
+import config from '@kubosho/configs/semantic_release/index.mjs';
+
+export default config;
+```
+
 ### TypeScript
 
 ```json
