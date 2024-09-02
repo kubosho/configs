@@ -1,3 +1,9 @@
+## [3.11.1](https://github.com/kubosho/configs/compare/v3.11.0...v3.11.1) (2024-09-02)
+
+### 📚 Some changes
+
+* **deps:** bump eslint-import-resolver-typescript from 3.6.1 to 3.6.3 ([c441f37](https://github.com/kubosho/configs/commit/c441f37c4fc6d467b678b9540d33d08f1be78033))
+
 ## [3.11.0](https://github.com/kubosho/configs/compare/v3.10.3...v3.11.0) (2024-08-31)
 
 ### ✨ Features
