@@ -23,6 +23,7 @@
     "./markuplint/index.mjs",
     "./prettier/index.js",
     "./semantic_release/index.mjs",
+    "./textlint/index.js",
     "./typescript/tsconfig.json"
   ],
   "dependencies": {
@@ -45,6 +46,11 @@
     "prettier": "^3.3.0",
     "react": "^18.3.0",
     "semantic-release": "^24.1.0",
+    "textlint": "^14.2.0",
+    "textlint-filter-rule-comments": "^1.2.2",
+    "textlint-rule-no-dead-link": "^5.2.0",
+    "textlint-rule-no-doubled-joshi": "^5.1.0",
+    "textlint-rule-preset-jtf-style": "^2.3.14",
     "typescript": "^5.5.0",
     "typescript-eslint": "^7.17.0"
   },
