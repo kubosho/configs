@@ -46,6 +46,16 @@ import config from '@kubosho/configs/semantic_release/index.mjs';
 export default config;
 ```
 
+### Textlint
+
+```javascript
+const config = require('@kubosho/configs/textlint');
+
+module.exports = {
+  ...config;
+};
+```
+
 ### TypeScript
 
 ```json
