@@ -1,3 +1,9 @@
+## [3.12.0](https://github.com/kubosho/configs/compare/v3.11.1...v3.12.0) (2024-09-03)
+
+### ✨ Features
+
+* provide configuration for textlint ([0f83d69](https://github.com/kubosho/configs/commit/0f83d699021f4a40a784a275498c9d5b0a9861c6))
+
 ## [3.11.1](https://github.com/kubosho/configs/compare/v3.11.0...v3.11.1) (2024-09-02)
 
 ### 📚 Some changes
