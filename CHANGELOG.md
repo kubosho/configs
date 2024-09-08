@@ -1,3 +1,13 @@
+## [3.13.0](https://github.com/kubosho/configs/compare/v3.12.0...v3.13.0) (2024-09-08)
+
+### ✨ Features
+
+* **semantic_release:** add @semantic-release/npm to plugins ([b273548](https://github.com/kubosho/configs/commit/b27354898e2731cd7891a407ff5159b08e10de2f))
+
+### 📚 Some changes
+
+* **deps:** move @semantic-release/npm pacakge to dependencies ([d523556](https://github.com/kubosho/configs/commit/d523556873fe9120ef441758fb6f76e5f447db8d))
+
 ## [3.12.0](https://github.com/kubosho/configs/compare/v3.11.1...v3.12.0) (2024-09-03)
 
 ### ✨ Features
