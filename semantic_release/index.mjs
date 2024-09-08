@@ -92,6 +92,7 @@ export default {
         },
       },
     ],
+    '@semantic-release/npm',
     '@semantic-release/changelog',
     '@semantic-release/github',
     '@semantic-release/git',
