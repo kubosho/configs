@@ -1,3 +1,12 @@
+## [3.13.1](https://github.com/kubosho/configs/compare/v3.13.0...v3.13.1) (2024-09-09)
+
+### 📚 Some changes
+
+* **deps:** bump @semantic-release/github from 10.1.7 to 10.3.3 ([85ce60b](https://github.com/kubosho/configs/commit/85ce60b91ff12e27e48026c43e44705f5ae4955d))
+* **deps:** bump eslint-plugin-import from 2.29.1 to 2.30.0 ([f6d31b2](https://github.com/kubosho/configs/commit/f6d31b228f55d763f02af8111b75d2f137b4345f))
+* **deps:** bump eslint-plugin-react from 7.35.0 to 7.35.2 ([a0585b8](https://github.com/kubosho/configs/commit/a0585b82425df44ffb3896459d46ff0c85520ca9))
+* **deps:** bump markuplint from 4.9.2 to 4.9.3 ([a8dd674](https://github.com/kubosho/configs/commit/a8dd6745d3f8e1948af9465bc47e2df852adb00a))
+
 ## [3.13.0](https://github.com/kubosho/configs/compare/v3.12.0...v3.13.0) (2024-09-08)
 
 ### ✨ Features
