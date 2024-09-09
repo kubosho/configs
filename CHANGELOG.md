@@ -1,3 +1,9 @@
+## [3.13.2](https://github.com/kubosho/configs/compare/v3.13.1...v3.13.2) (2024-09-09)
+
+### 📚 Some changes
+
+* **deps:** bump eslint-plugin-jsx-a11y from 6.9.0 to 6.10.0 ([9393da0](https://github.com/kubosho/configs/commit/9393da051ebcf3350d28615ec565b2d280e54e7d))
+
 ## [3.13.1](https://github.com/kubosho/configs/compare/v3.13.0...v3.13.1) (2024-09-09)
 
 ### 📚 Some changes
