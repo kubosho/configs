@@ -1,3 +1,12 @@
+## [3.13.3](https://github.com/kubosho/configs/compare/v3.13.2...v3.13.3) (2024-09-16)
+
+### 📚 Some changes
+
+* **deps:** bump @semantic-release/github from 10.3.3 to 10.3.4 ([e4dc5dc](https://github.com/kubosho/configs/commit/e4dc5dc3c1de9a6c6aec12360c46479e4818b991))
+* **deps:** bump eslint-plugin-react from 7.35.2 to 7.36.1 ([6d70cac](https://github.com/kubosho/configs/commit/6d70cac8afc3049e384ff0f9baf4d2b979a7283c))
+* **deps:** bump semantic-release from 24.1.0 to 24.1.1 ([4cec26c](https://github.com/kubosho/configs/commit/4cec26c11c5ad5574425dde382fc6dd8170b8705))
+* **deps:** bump typescript from 5.5.4 to 5.6.2 ([cb24b46](https://github.com/kubosho/configs/commit/cb24b4650d54439d6c50950b25eb0d16db95a429))
+
 ## [3.13.2](https://github.com/kubosho/configs/compare/v3.13.1...v3.13.2) (2024-09-09)
 
 ### 📚 Some changes
