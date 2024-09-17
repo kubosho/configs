@@ -1,3 +1,9 @@
+## [3.14.0](https://github.com/kubosho/configs/compare/v3.13.3...v3.14.0) (2024-09-17)
+
+### ✨ Features
+
+* **eslint:** turn on alwaysTryTypes option for TypeScript resolver ([5c3826d](https://github.com/kubosho/configs/commit/5c3826defcef55f0c88a0ef513d3040c2bcf65c3))
+
 ## [3.13.3](https://github.com/kubosho/configs/compare/v3.13.2...v3.13.3) (2024-09-16)
 
 ### 📚 Some changes
