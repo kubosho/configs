@@ -31,8 +31,9 @@ export default [
         '@typescript-eslint/parser': ['.ts', '.tsx'],
       },
       'import/resolver': {
-        node: true,
-        typescript: true,
+        typescript: {
+          alwaysTryTypes: true,
+        },
       },
       'import/ignore': ['node_modules'],
     },
