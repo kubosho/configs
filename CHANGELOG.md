@@ -1,3 +1,14 @@
+## [3.15.0](https://github.com/kubosho/configs/compare/v3.14.0...v3.15.0) (2024-09-20)
+
+### ✨ Features
+
+* **stylelint:** add stylelint config ([a8aa111](https://github.com/kubosho/configs/commit/a8aa111277f2290a169514fe0a1581979483657d))
+
+### 📚 Some changes
+
+* **README:** add instructions for using Stylelint config ([3300eb3](https://github.com/kubosho/configs/commit/3300eb3b188c1bb5b70a4cf15df05f347fdbd5f3))
+* **deps:** add stylelint package ([239dda7](https://github.com/kubosho/configs/commit/239dda744b703ba092ad035f0dcd0599ee7c1467))
+
 ## [3.14.0](https://github.com/kubosho/configs/compare/v3.13.3...v3.14.0) (2024-09-17)
 
 ### ✨ Features
