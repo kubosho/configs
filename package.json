@@ -23,6 +23,7 @@
     "./markuplint/index.mjs",
     "./prettier/index.js",
     "./semantic_release/index.mjs",
+    "./stylelint/index.mjs",
     "./textlint/index.js",
     "./typescript/tsconfig.json"
   ],
