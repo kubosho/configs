@@ -23,6 +23,7 @@
     "./markuplint/index.mjs",
     "./prettier/index.js",
     "./semantic_release/index.mjs",
+    "./stylelint/index.mjs",
     "./textlint/index.js",
     "./typescript/tsconfig.json"
   ],
@@ -47,6 +48,8 @@
     "prettier": "^3.3.0",
     "react": "^18.3.0",
     "semantic-release": "^24.1.1",
+    "stylelint": "^16.9.0",
+    "stylelint-config-recommended": "^14.0.1",
     "textlint": "^14.2.0",
     "textlint-filter-rule-comments": "^1.2.2",
     "textlint-rule-no-dead-link": "^5.2.0",
