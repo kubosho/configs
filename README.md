@@ -19,15 +19,21 @@ In use `eslint.config.mjs`:
 ```javascript
 import config from '@kubosho/configs/eslint/index.mjs';
 
-export default config;
+export default {
+  ...config,
+};
 ```
 
 ### Markuplint
 
+In use `markuplint.config.mjs`:
+
 ```javascript
 import config from '@kubosho/configs/markuplint/index.mjs';
 
-export default config;
+export default {
+  ...config,
+};
 ```
 
 ### Prettier
@@ -40,13 +46,19 @@ module.exports = {
 
 ### Semantic Release
 
+In use `release.config.mjs`:
+
 ```javascript
 import config from '@kubosho/configs/semantic_release/index.mjs';
 
-export default config;
+export default {
+  ...config,
+};
 ```
 
 ### Stylelint
+
+In use `stylelint.config.mjs`:
 
 ```javascript
 import config from '@kubosho/configs/stylelint/index.mjs';
@@ -57,6 +69,8 @@ export default {
 ```
 
 ### Textlint
+
+In use `.textlintrc.js`:
 
 ```javascript
 const config = require('@kubosho/configs/textlint');
