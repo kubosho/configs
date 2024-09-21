@@ -1,3 +1,9 @@
+## [3.15.1](https://github.com/kubosho/configs/compare/v3.15.0...v3.15.1) (2024-09-21)
+
+### 📚 Some changes
+
+* **README:** update README ([8ba381b](https://github.com/kubosho/configs/commit/8ba381b35abbb30a069c127828e3699be9fc22dd))
+
 ## [3.15.0](https://github.com/kubosho/configs/compare/v3.14.0...v3.15.0) (2024-09-20)
 
 ### ✨ Features
