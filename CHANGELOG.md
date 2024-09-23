@@ -1,3 +1,9 @@
+## [3.15.2](https://github.com/kubosho/configs/compare/v3.15.1...v3.15.2) (2024-09-23)
+
+### 📚 Some changes
+
+* **deps:** bump @semantic-release/github from 10.3.4 to 10.3.5 ([8184b3c](https://github.com/kubosho/configs/commit/8184b3c8ed41d0979a55cfc8826462b0bbcc65d3))
+
 ## [3.15.1](https://github.com/kubosho/configs/compare/v3.15.0...v3.15.1) (2024-09-21)
 
 ### 📚 Some changes
