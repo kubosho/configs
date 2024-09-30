@@ -1,3 +1,9 @@
+## [3.15.4](https://github.com/kubosho/configs/compare/v3.15.3...v3.15.4) (2024-09-30)
+
+### 📚 Some changes
+
+* **deps:** bump semantic-release from 24.1.1 to 24.1.2 ([571a01c](https://github.com/kubosho/configs/commit/571a01c4adab3c3222c986f6281e8414972a2f08))
+
 ## [3.15.3](https://github.com/kubosho/configs/compare/v3.15.2...v3.15.3) (2024-09-30)
 
 ### 📚 Some changes
