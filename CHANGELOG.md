@@ -1,3 +1,11 @@
+## [3.15.3](https://github.com/kubosho/configs/compare/v3.15.2...v3.15.3) (2024-09-30)
+
+### 📚 Some changes
+
+* **deps:** bump @semantic-release/github from 10.3.5 to 11.0.0 ([ac4d3ab](https://github.com/kubosho/configs/commit/ac4d3abc568e3318fb672a6c9ec75633b5021c22))
+* **deps:** bump eslint-plugin-react from 7.36.1 to 7.37.0 ([88911a0](https://github.com/kubosho/configs/commit/88911a0cc37a0aee81dce47da586355c4dfe82f9))
+* **deps:** bump markuplint from 4.9.3 to 4.9.4 ([ebe4704](https://github.com/kubosho/configs/commit/ebe4704f2224cc980f4274aaace766c0596689a8))
+
 ## [3.15.2](https://github.com/kubosho/configs/compare/v3.15.1...v3.15.2) (2024-09-23)
 
 ### 📚 Some changes
