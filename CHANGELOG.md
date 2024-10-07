@@ -1,3 +1,12 @@
+## [3.15.5](https://github.com/kubosho/configs/compare/v3.15.4...v3.15.5) (2024-10-07)
+
+### 📚 Some changes
+
+* **deps:** bump eslint-plugin-import from 2.30.0 to 2.31.0 ([b262227](https://github.com/kubosho/configs/commit/b2622274988456d56b9e029cdb4ae172eb7ee93f))
+* **deps:** bump eslint-plugin-react from 7.37.0 to 7.37.1 ([f8a5d28](https://github.com/kubosho/configs/commit/f8a5d28b1e0dc84ef1f3d15595ff92feb3d4c25a))
+* **deps:** bump globals from 15.9.0 to 15.10.0 ([5922c9c](https://github.com/kubosho/configs/commit/5922c9c137901abcda025d90d9aa9d82777154a6))
+* **deps:** bump textlint from 14.2.0 to 14.2.1 ([7d232ec](https://github.com/kubosho/configs/commit/7d232ecfeb90e7a84f83e99ad4b28f6530e849cf))
+
 ## [3.15.4](https://github.com/kubosho/configs/compare/v3.15.3...v3.15.4) (2024-09-30)
 
 ### 📚 Some changes
