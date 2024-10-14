@@ -1,3 +1,10 @@
+## [3.16.2](https://github.com/kubosho/configs/compare/v3.16.1...v3.16.2) (2024-10-14)
+
+### 📚 Some changes
+
+* **deps:** bump globals from 15.10.0 to 15.11.0 ([0b28494](https://github.com/kubosho/configs/commit/0b28494871a22ee599d9c17ec8d5e49db75fcb6c))
+* **deps:** bump typescript from 5.6.2 to 5.6.3 ([bc62728](https://github.com/kubosho/configs/commit/bc62728e4a357737efdd8249540ce70e680261cf))
+
 ## [3.16.1](https://github.com/kubosho/configs/compare/v3.16.0...v3.16.1) (2024-10-14)
 
 ### 📚 Some changes
