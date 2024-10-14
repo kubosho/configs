@@ -47,7 +47,7 @@
     "prettier": "^3.3.0",
     "react": "^18.3.0",
     "semantic-release": "^24.1.2",
-    "stylelint": "^16.9.0",
+    "stylelint": "^16.10.0",
     "stylelint-config-recommended": "^14.0.1",
     "textlint": "^14.2.1",
     "textlint-filter-rule-comments": "^1.2.2",
