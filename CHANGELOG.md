@@ -1,3 +1,9 @@
+## [3.16.1](https://github.com/kubosho/configs/compare/v3.16.0...v3.16.1) (2024-10-14)
+
+### 📚 Some changes
+
+* **deps:** bump stylelint from 16.9.0 to 16.10.0 ([6474be9](https://github.com/kubosho/configs/commit/6474be95b2862eb6c411ec47603aa90b85b75963))
+
 ## [3.16.0](https://github.com/kubosho/configs/compare/v3.15.5...v3.16.0) (2024-10-14)
 
 ### ✨ Features
