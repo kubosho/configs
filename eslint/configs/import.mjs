@@ -1,18 +1,11 @@
-import { fixupConfigRules, fixupPluginRules } from '@eslint/compat';
-import { FlatCompat } from '@eslint/eslintrc';
-import eslintPluginImport from 'eslint-plugin-import';
-import importRecommendedConfig from 'eslint-plugin-import/config/recommended.js';
-import importTypeScriptConfig from 'eslint-plugin-import/config/typescript.js';
+import importPlugin from 'eslint-plugin-import';
 import simpleImportSort from 'eslint-plugin-simple-import-sort';
 
-const flatCompat = new FlatCompat();
-
 export default [
-  ...fixupConfigRules(flatCompat.config(importRecommendedConfig)),
-  ...fixupConfigRules(flatCompat.config(importTypeScriptConfig)),
+  importPlugin.flatConfigs.recommended,
+  importPlugin.flatConfigs.typescript,
   {
     plugins: {
-      import: fixupPluginRules(eslintPluginImport),
       'simple-import-sort': simpleImportSort,
     },
     rules: {
