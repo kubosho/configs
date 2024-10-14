@@ -14,9 +14,6 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
   "@typescript-eslint/ban-ts-comment": [
     2,
   ],
-  "@typescript-eslint/ban-types": [
-    2,
-  ],
   "@typescript-eslint/block-spacing": [
     0,
   ],
@@ -71,11 +68,17 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
   "@typescript-eslint/no-confusing-void-expression": [
     0,
   ],
+  "@typescript-eslint/no-deprecated": [
+    0,
+  ],
   "@typescript-eslint/no-duplicate-enum-values": [
     2,
   ],
   "@typescript-eslint/no-duplicate-type-constituents": [
     0,
+  ],
+  "@typescript-eslint/no-empty-object-type": [
+    2,
   ],
   "@typescript-eslint/no-explicit-any": [
     2,
@@ -98,9 +101,6 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
   "@typescript-eslint/no-implied-eval": [
     0,
   ],
-  "@typescript-eslint/no-loss-of-precision": [
-    2,
-  ],
   "@typescript-eslint/no-meaningless-void-operator": [
     0,
   ],
@@ -122,11 +122,11 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
   "@typescript-eslint/no-redundant-type-constituents": [
     0,
   ],
-  "@typescript-eslint/no-this-alias": [
+  "@typescript-eslint/no-require-imports": [
     2,
   ],
-  "@typescript-eslint/no-throw-literal": [
-    0,
+  "@typescript-eslint/no-this-alias": [
+    2,
   ],
   "@typescript-eslint/no-unnecessary-boolean-literal-compare": [
     0,
@@ -167,6 +167,9 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
   "@typescript-eslint/no-unsafe-enum-comparison": [
     0,
   ],
+  "@typescript-eslint/no-unsafe-function-type": [
+    2,
+  ],
   "@typescript-eslint/no-unsafe-member-access": [
     0,
   ],
@@ -176,13 +179,13 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
   "@typescript-eslint/no-unsafe-unary-minus": [
     0,
   ],
+  "@typescript-eslint/no-unused-expressions": [
+    2,
+  ],
   "@typescript-eslint/no-unused-vars": [
     2,
   ],
-  "@typescript-eslint/no-useless-template-literals": [
-    0,
-  ],
-  "@typescript-eslint/no-var-requires": [
+  "@typescript-eslint/no-wrapper-object-types": [
     2,
   ],
   "@typescript-eslint/non-nullable-type-assertion-style": [
@@ -205,6 +208,9 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
   ],
   "@typescript-eslint/prefer-includes": [
     0,
+  ],
+  "@typescript-eslint/prefer-namespace-keyword": [
+    2,
   ],
   "@typescript-eslint/prefer-nullish-coalescing": [
     0,
@@ -632,6 +638,9 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
   "no-const-assign": [
     2,
   ],
+  "no-constant-binary-expression": [
+    2,
+  ],
   "no-constant-condition": [
     2,
   ],
@@ -668,6 +677,9 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
   "no-empty-pattern": [
     2,
   ],
+  "no-empty-static-block": [
+    2,
+  ],
   "no-ex-assign": [
     2,
   ],
@@ -695,9 +707,6 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
   "no-import-assign": [
     2,
   ],
-  "no-inner-declarations": [
-    2,
-  ],
   "no-invalid-regexp": [
     2,
   ],
@@ -705,7 +714,7 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
     2,
   ],
   "no-loss-of-precision": [
-    0,
+    2,
   ],
   "no-misleading-character-class": [
     2,
@@ -722,7 +731,7 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
   "no-multiple-empty-lines": [
     0,
   ],
-  "no-new-symbol": [
+  "no-new-native-nonconstructor": [
     2,
   ],
   "no-nonoctal-decimal-escape": [
@@ -791,7 +800,13 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
   "no-unsafe-optional-chaining": [
     2,
   ],
+  "no-unused-expressions": [
+    0,
+  ],
   "no-unused-labels": [
+    2,
+  ],
+  "no-unused-private-class-members": [
     2,
   ],
   "no-unused-vars": [
@@ -1192,9 +1207,6 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
   "@typescript-eslint/ban-ts-comment": [
     2,
   ],
-  "@typescript-eslint/ban-types": [
-    2,
-  ],
   "@typescript-eslint/block-spacing": [
     0,
   ],
@@ -1249,11 +1261,17 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
   "@typescript-eslint/no-confusing-void-expression": [
     0,
   ],
+  "@typescript-eslint/no-deprecated": [
+    0,
+  ],
   "@typescript-eslint/no-duplicate-enum-values": [
     2,
   ],
   "@typescript-eslint/no-duplicate-type-constituents": [
     0,
+  ],
+  "@typescript-eslint/no-empty-object-type": [
+    2,
   ],
   "@typescript-eslint/no-explicit-any": [
     2,
@@ -1276,9 +1294,6 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
   "@typescript-eslint/no-implied-eval": [
     0,
   ],
-  "@typescript-eslint/no-loss-of-precision": [
-    2,
-  ],
   "@typescript-eslint/no-meaningless-void-operator": [
     0,
   ],
@@ -1300,11 +1315,11 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
   "@typescript-eslint/no-redundant-type-constituents": [
     0,
   ],
-  "@typescript-eslint/no-this-alias": [
+  "@typescript-eslint/no-require-imports": [
     2,
   ],
-  "@typescript-eslint/no-throw-literal": [
-    0,
+  "@typescript-eslint/no-this-alias": [
+    2,
   ],
   "@typescript-eslint/no-unnecessary-boolean-literal-compare": [
     0,
@@ -1345,6 +1360,9 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
   "@typescript-eslint/no-unsafe-enum-comparison": [
     0,
   ],
+  "@typescript-eslint/no-unsafe-function-type": [
+    2,
+  ],
   "@typescript-eslint/no-unsafe-member-access": [
     0,
   ],
@@ -1354,13 +1372,13 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
   "@typescript-eslint/no-unsafe-unary-minus": [
     0,
   ],
+  "@typescript-eslint/no-unused-expressions": [
+    2,
+  ],
   "@typescript-eslint/no-unused-vars": [
     2,
   ],
-  "@typescript-eslint/no-useless-template-literals": [
-    0,
-  ],
-  "@typescript-eslint/no-var-requires": [
+  "@typescript-eslint/no-wrapper-object-types": [
     2,
   ],
   "@typescript-eslint/non-nullable-type-assertion-style": [
@@ -1383,6 +1401,9 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
   ],
   "@typescript-eslint/prefer-includes": [
     0,
+  ],
+  "@typescript-eslint/prefer-namespace-keyword": [
+    2,
   ],
   "@typescript-eslint/prefer-nullish-coalescing": [
     0,
@@ -1810,6 +1831,9 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
   "no-const-assign": [
     2,
   ],
+  "no-constant-binary-expression": [
+    2,
+  ],
   "no-constant-condition": [
     2,
   ],
@@ -1846,6 +1870,9 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
   "no-empty-pattern": [
     2,
   ],
+  "no-empty-static-block": [
+    2,
+  ],
   "no-ex-assign": [
     2,
   ],
@@ -1873,9 +1900,6 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
   "no-import-assign": [
     2,
   ],
-  "no-inner-declarations": [
-    2,
-  ],
   "no-invalid-regexp": [
     2,
   ],
@@ -1883,7 +1907,7 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
     2,
   ],
   "no-loss-of-precision": [
-    0,
+    2,
   ],
   "no-misleading-character-class": [
     2,
@@ -1900,7 +1924,7 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
   "no-multiple-empty-lines": [
     0,
   ],
-  "no-new-symbol": [
+  "no-new-native-nonconstructor": [
     2,
   ],
   "no-nonoctal-decimal-escape": [
@@ -1969,7 +1993,13 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
   "no-unsafe-optional-chaining": [
     2,
   ],
+  "no-unused-expressions": [
+    0,
+  ],
   "no-unused-labels": [
+    2,
+  ],
+  "no-unused-private-class-members": [
     2,
   ],
   "no-unused-vars": [
@@ -2301,9 +2331,6 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
   "@typescript-eslint/ban-ts-comment": [
     2,
   ],
-  "@typescript-eslint/ban-types": [
-    2,
-  ],
   "@typescript-eslint/block-spacing": [
     0,
   ],
@@ -2351,6 +2378,9 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
   "@typescript-eslint/no-duplicate-enum-values": [
     2,
   ],
+  "@typescript-eslint/no-empty-object-type": [
+    2,
+  ],
   "@typescript-eslint/no-explicit-any": [
     2,
   ],
@@ -2363,9 +2393,6 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
   "@typescript-eslint/no-extra-semi": [
     0,
   ],
-  "@typescript-eslint/no-loss-of-precision": [
-    2,
-  ],
   "@typescript-eslint/no-misused-new": [
     2,
   ],
@@ -2373,6 +2400,9 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
     2,
   ],
   "@typescript-eslint/no-non-null-asserted-optional-chain": [
+    2,
+  ],
+  "@typescript-eslint/no-require-imports": [
     2,
   ],
   "@typescript-eslint/no-this-alias": [
@@ -2384,19 +2414,28 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
   "@typescript-eslint/no-unsafe-declaration-merging": [
     2,
   ],
+  "@typescript-eslint/no-unsafe-function-type": [
+    2,
+  ],
+  "@typescript-eslint/no-unused-expressions": [
+    2,
+  ],
   "@typescript-eslint/no-unused-vars": [
     2,
     {
       "argsIgnorePattern": "^_",
     },
   ],
-  "@typescript-eslint/no-var-requires": [
+  "@typescript-eslint/no-wrapper-object-types": [
     2,
   ],
   "@typescript-eslint/object-curly-spacing": [
     0,
   ],
   "@typescript-eslint/prefer-as-const": [
+    2,
+  ],
+  "@typescript-eslint/prefer-namespace-keyword": [
     2,
   ],
   "@typescript-eslint/quotes": [
@@ -2768,6 +2807,9 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
   "no-const-assign": [
     0,
   ],
+  "no-constant-binary-expression": [
+    2,
+  ],
   "no-constant-condition": [
     2,
   ],
@@ -2804,6 +2846,9 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
   "no-empty-pattern": [
     2,
   ],
+  "no-empty-static-block": [
+    2,
+  ],
   "no-ex-assign": [
     2,
   ],
@@ -2831,9 +2876,6 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
   "no-import-assign": [
     0,
   ],
-  "no-inner-declarations": [
-    2,
-  ],
   "no-invalid-regexp": [
     2,
   ],
@@ -2841,7 +2883,7 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
     2,
   ],
   "no-loss-of-precision": [
-    0,
+    2,
   ],
   "no-misleading-character-class": [
     2,
@@ -2930,7 +2972,13 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
   "no-unsafe-optional-chaining": [
     2,
   ],
+  "no-unused-expressions": [
+    0,
+  ],
   "no-unused-labels": [
+    2,
+  ],
+  "no-unused-private-class-members": [
     2,
   ],
   "no-unused-vars": [
