@@ -1,3 +1,16 @@
+## [3.16.0](https://github.com/kubosho/configs/compare/v3.15.5...v3.16.0) (2024-10-14)
+
+### ✨ Features
+
+* **eslint:** migrate ESLint version from v8 to v9 ([d4801c3](https://github.com/kubosho/configs/commit/d4801c31ed51ce5e699d433f6f15964037c2cd4c))
+
+### 📚 Some changes
+
+* **eslint/configs:** migrate a11y ESLint settings to flat config ([e21dcae](https://github.com/kubosho/configs/commit/e21dcae9e20e2e2046ad14bce6351c707d65e166))
+* **eslint/configs/import:** remove compatibility plugins to simplify configuration ([c090d1d](https://github.com/kubosho/configs/commit/c090d1dc99eda2f6502462854e70c1f7b9822df5))
+* **deps:** remove unused deps ([2daa4ad](https://github.com/kubosho/configs/commit/2daa4ad135b7b334dcb39a5f1a483b7b6bef04a8))
+* **deps:** update typescript-eslint ([643f76e](https://github.com/kubosho/configs/commit/643f76e6bced0fd8ec7ceebe0aaf8b2c0937d4aa))
+
 ## [3.15.5](https://github.com/kubosho/configs/compare/v3.15.4...v3.15.5) (2024-10-07)
 
 ### 📚 Some changes
