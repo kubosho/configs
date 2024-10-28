@@ -1,3 +1,13 @@
+## [3.16.4](https://github.com/kubosho/configs/compare/v3.16.3...v3.16.4) (2024-10-28)
+
+### 📚 Some changes
+
+* **deps:** bump eslint-plugin-jsx-a11y from 6.10.0 to 6.10.2 ([bd9c9f4](https://github.com/kubosho/configs/commit/bd9c9f4f5f4229f789ab4cf83390a94b487a1b76))
+* **deps:** bump markuplint from 4.10.1 to 4.11.0 ([09f7e75](https://github.com/kubosho/configs/commit/09f7e7534256ddfb55684b41cfa91e3835e07e2e))
+* **deps:** bump semantic-release from 24.1.3 to 24.2.0 ([c682684](https://github.com/kubosho/configs/commit/c682684feaed4479e41f5c646fd737a4496492a0))
+* **deps:** bump textlint from 14.2.1 to 14.3.0 ([4c3d01c](https://github.com/kubosho/configs/commit/4c3d01ca91ed57aed9cbf9b7ea714822c59b1daf))
+* **deps:** bump typescript-eslint from 8.10.0 to 8.11.0 ([88c4286](https://github.com/kubosho/configs/commit/88c4286a33c9629d5efef1be348eb74bcaa6766c))
+
 ## [3.16.3](https://github.com/kubosho/configs/compare/v3.16.2...v3.16.3) (2024-10-21)
 
 ### 📚 Some changes
