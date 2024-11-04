@@ -1,3 +1,13 @@
+## [3.17.0](https://github.com/kubosho/configs/compare/v3.16.5...v3.17.0) (2024-11-04)
+
+### ✨ Features
+
+* **renovate:** introduce renovate config ([28ef46c](https://github.com/kubosho/configs/commit/28ef46c082cbae0865caf4815282b20a3b9e311b))
+
+### 📚 Some changes
+
+* **README:** add instructions for introducing Renovate ([1cfdc4c](https://github.com/kubosho/configs/commit/1cfdc4c045a02bb65ca8139a926f9c5a3dfd6261))
+
 ## [3.16.5](https://github.com/kubosho/configs/compare/v3.16.4...v3.16.5) (2024-10-28)
 
 ### 📚 Some changes
