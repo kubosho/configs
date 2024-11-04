@@ -1,3 +1,9 @@
+## [3.18.4](https://github.com/kubosho/configs/compare/v3.18.3...v3.18.4) (2024-11-04)
+
+### 🐛 Bug Fixes
+
+* **renovate:** enable auto-merge for patch version updates ([5ce8967](https://github.com/kubosho/configs/commit/5ce89672901201f09ef6a52868c7c30cd01c0c8d))
+
 ## [3.18.3](https://github.com/kubosho/configs/compare/v3.18.2...v3.18.3) (2024-11-04)
 
 ### 📚 Some changes
