@@ -1,3 +1,9 @@
+## [3.18.8](https://github.com/kubosho/configs/compare/v3.18.7...v3.18.8) (2024-11-04)
+
+### 📚 Some changes
+
+* **deps:** update dependency globals to ^15.12.0 ([2a316bb](https://github.com/kubosho/configs/commit/2a316bb3eeb3e01c5b2e7384baee43755974097d))
+
 ## [3.18.7](https://github.com/kubosho/configs/compare/v3.18.6...v3.18.7) (2024-11-04)
 
 ### 🐛 Bug Fixes
