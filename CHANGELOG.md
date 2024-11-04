@@ -1,3 +1,9 @@
+## [3.18.5](https://github.com/kubosho/configs/compare/v3.18.4...v3.18.5) (2024-11-04)
+
+### 📚 Some changes
+
+* **deps:** update dependency @semantic-release/changelog to ^6.0.3 ([8e88bf5](https://github.com/kubosho/configs/commit/8e88bf59c83479478eb6fcffaf81b7a2d958c5ac))
+
 ## [3.18.4](https://github.com/kubosho/configs/compare/v3.18.3...v3.18.4) (2024-11-04)
 
 ### 🐛 Bug Fixes
