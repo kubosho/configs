@@ -6,9 +6,17 @@ Renovateの設定ファイルで有効にしているプリセットやルール
 
 まず前提として、下記のルールはすべて `npm` の依存関係に対して動作します。
 
+## [:assignee(kubosho)](https://docs.renovatebot.com/presets-default/#assigneearg0)
+
+Assigneeを @kubosho にします。
+
 ## [:disableDependencyDashboard](https://docs.renovatebot.com/presets-default/#disabledependencydashboard)
 
 RenovateのDependency Dashboardは個人的に邪魔だと思ってしまうため、無効化するプリセットを有効にしています。
+
+## [:label(dependencies)](https://docs.renovatebot.com/presets-default/#labelarg0)
+
+Labelに「dependencies」を付けます。
 
 ## [group:monorepos]
 
