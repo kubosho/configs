@@ -1,6 +1,6 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-  "extends": [":disableDependencyDashboard", "group:monorepos", "replacements:all"],
+  "extends": [":assignee(kubosho)", ":disableDependencyDashboard", "group:monorepos", "replacements:all"],
   "npm": {
     "enabled": true,
     "packageRules": [
