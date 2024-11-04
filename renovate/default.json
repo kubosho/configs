@@ -12,18 +12,23 @@
     "packageRules": [
       {
         "matchDepTypes": ["dependencies"],
+        "rangeStrategy": "bump",
         "semanticCommitScope": "deps",
         "semanticCommitType": "chore"
       },
       {
         "matchDepTypes": ["devDependencies"],
+        "rangeStrategy": "bump",
         "semanticCommitScope": "deps-dev",
         "semanticCommitType": "chore"
+      },
+      {
+        "matchDepTypes": ["engines"],
+        "rangeStrategy": "auto"
       }
     ],
     "patch": {
       "automerge": true
-    },
-    "rangeStrategy": "bump"
+    }
   }
 }
