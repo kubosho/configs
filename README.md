@@ -44,6 +44,14 @@ module.exports = {
 };
 ```
 
+### Renovate
+
+```json
+{
+  "extends": ["github>kubosho/configs//renovate/default"]
+}
+```
+
 ### Semantic Release
 
 In use `release.config.mjs`:
