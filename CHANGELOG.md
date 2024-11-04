@@ -1,3 +1,9 @@
+## [3.18.2](https://github.com/kubosho/configs/compare/v3.18.1...v3.18.2) (2024-11-04)
+
+### 🐛 Bug Fixes
+
+* **renovate:** fine-tune rangeStrategy settings for version updates ([171c96e](https://github.com/kubosho/configs/commit/171c96ecc4526f8dcc41e65011c643f951eec23f))
+
 ## [3.18.1](https://github.com/kubosho/configs/compare/v3.18.0...v3.18.1) (2024-11-04)
 
 ### 🐛 Bug Fixes
