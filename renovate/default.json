@@ -23,12 +23,14 @@
         "semanticCommitType": "chore"
       },
       {
+        "automerge": true,
+        "matchDepTypes": ["dependencies", "devDependencies"],
+        "matchUpdateTypes": ["patch"]
+      },
+      {
         "matchDepTypes": ["engines"],
         "rangeStrategy": "auto"
       }
-    ],
-    "patch": {
-      "automerge": true
-    }
+    ]
   }
 }
