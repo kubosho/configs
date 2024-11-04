@@ -18,7 +18,7 @@ RenovateのDependency Dashboardは個人的に邪魔だと思ってしまうた�
 
 Labelに「dependencies」を付けます。
 
-## [group:monorepos]
+## [group:monorepos](https://docs.renovatebot.com/presets-group/#groupmonorepos)
 
 よく知られているモノレポ構成のパッケージをまとめて更新する設定です。
 
