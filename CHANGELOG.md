@@ -1,3 +1,9 @@
+## [3.18.3](https://github.com/kubosho/configs/compare/v3.18.2...v3.18.3) (2024-11-04)
+
+### 📚 Some changes
+
+* **renovate:** update README ([64f1504](https://github.com/kubosho/configs/commit/64f15049974b8a7f7dc60c895cb07681e594d27c))
+
 ## [3.18.2](https://github.com/kubosho/configs/compare/v3.18.1...v3.18.2) (2024-11-04)
 
 ### 🐛 Bug Fixes
