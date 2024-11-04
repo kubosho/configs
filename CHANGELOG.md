@@ -1,3 +1,10 @@
+## [3.18.6](https://github.com/kubosho/configs/compare/v3.18.5...v3.18.6) (2024-11-04)
+
+### 📚 Some changes
+
+* **deps:** update dependency eslint to ^9.14.0 ([8ff0fd1](https://github.com/kubosho/configs/commit/8ff0fd18e8a5cb1b514c2a4217195c5e7730f0ca))
+* **deps:** update dependency typescript-eslint to ^8.12.2 ([02e4d7d](https://github.com/kubosho/configs/commit/02e4d7d463ba27b83b448ad034ab2b1d22c2fc2b))
+
 ## [3.18.5](https://github.com/kubosho/configs/compare/v3.18.4...v3.18.5) (2024-11-04)
 
 ### 📚 Some changes
