@@ -19,12 +19,11 @@
         "matchDepTypes": ["devDependencies"],
         "semanticCommitScope": "deps-dev",
         "semanticCommitType": "chore"
-      },
-      {
-        "updateTypes": ["patch"],
-        "automerge": true
       }
     ],
+    "patch": {
+      "automerge": true
+    },
     "rangeStrategy": "bump"
   }
 }
