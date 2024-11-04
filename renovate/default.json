@@ -24,6 +24,7 @@
         "updateTypes": ["patch"],
         "automerge": true
       }
-    ]
+    ],
+    "rangeStrategy": "bump"
   }
 }
