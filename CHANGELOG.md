@@ -1,3 +1,10 @@
+## [3.18.9](https://github.com/kubosho/configs/compare/v3.18.8...v3.18.9) (2024-11-04)
+
+### 📚 Some changes
+
+* **deps:** update dependency markuplint to ^4.11.2 ([283ee22](https://github.com/kubosho/configs/commit/283ee2211d1f14b79b84e95e49bedbd10d45c996))
+* **deps:** update dependency react to ^18.3.1 ([29e4fca](https://github.com/kubosho/configs/commit/29e4fcafbf5bbaaaacb7f4c9ea3017924bc48509))
+
 ## [3.18.8](https://github.com/kubosho/configs/compare/v3.18.7...v3.18.8) (2024-11-04)
 
 ### 📚 Some changes
