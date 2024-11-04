@@ -1,3 +1,9 @@
+## [3.18.7](https://github.com/kubosho/configs/compare/v3.18.6...v3.18.7) (2024-11-04)
+
+### 🐛 Bug Fixes
+
+* **renovate:** correct unlinked sections for Renovate readme ([7ac2eb4](https://github.com/kubosho/configs/commit/7ac2eb40710d14aeb6f65504b1ebc41c1a55dd43))
+
 ## [3.18.6](https://github.com/kubosho/configs/compare/v3.18.5...v3.18.6) (2024-11-04)
 
 ### 📚 Some changes
