@@ -1,0 +1,23 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": [":disableDependencyDashboard", "group:monorepos", "replacements:all"],
+  "npm": {
+    "enabled": true,
+    "packageRules": [
+      {
+        "matchDepTypes": ["dependencies"],
+        "semanticCommitScope": "deps",
+        "semanticCommitType": "chore"
+      },
+      {
+        "matchPackageNames": ["devDependencies"],
+        "semanticCommitScope": "deps-dev",
+        "semanticCommitType": "chore"
+      },
+      {
+        "updateTypes": ["patch"],
+        "automerge": true
+      }
+    ]
+  }
+}
