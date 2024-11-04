@@ -1,3 +1,11 @@
+## [3.18.0](https://github.com/kubosho/configs/compare/v3.17.1...v3.18.0) (2024-11-04)
+
+### ✨ Features
+
+* **renovate:** add auto assignee config ([6dc216d](https://github.com/kubosho/configs/commit/6dc216dbb328b7b7677927aba0876b9b39a82126))
+* **renovate:** add auto labeling config ([0c48202](https://github.com/kubosho/configs/commit/0c48202ccf73c7a1097416884c3dd8eed3dc50ad))
+* **renovate:** update rangeStrategy from "auto" to "bump" ([5ea025d](https://github.com/kubosho/configs/commit/5ea025d5a6add4c3ff58fb6acbbd2bd6cc45d8e7))
+
 ## [3.17.1](https://github.com/kubosho/configs/compare/v3.17.0...v3.17.1) (2024-11-04)
 
 ### 🐛 Bug Fixes
