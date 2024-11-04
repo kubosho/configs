@@ -10,7 +10,7 @@
         "semanticCommitType": "chore"
       },
       {
-        "matchPackageNames": ["devDependencies"],
+        "matchDepTypes": ["devDependencies"],
         "semanticCommitScope": "deps-dev",
         "semanticCommitType": "chore"
       },
