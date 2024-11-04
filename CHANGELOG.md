@@ -1,3 +1,9 @@
+## [3.17.1](https://github.com/kubosho/configs/compare/v3.17.0...v3.17.1) (2024-11-04)
+
+### 🐛 Bug Fixes
+
+* **renovate:** correct field name ([a7ba9b7](https://github.com/kubosho/configs/commit/a7ba9b7e9186ce2ea5ae5f938a401c918e5661a9))
+
 ## [3.17.0](https://github.com/kubosho/configs/compare/v3.16.5...v3.17.0) (2024-11-04)
 
 ### ✨ Features
