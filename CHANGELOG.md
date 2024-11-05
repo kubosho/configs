@@ -1,3 +1,16 @@
+## [4.0.0](https://github.com/kubosho/configs/compare/v3.18.10...v4.0.0) (2024-11-05)
+
+### ⚠ BREAKING CHANGES
+
+* Use exports in package.json
+* **package:** define entry points for each configuration using exports field in package.json.
+
+* Merge pull request [#314](https://github.com/kubosho/configs/issues/314) from kubosho/add-exports ([aeb06f4](https://github.com/kubosho/configs/commit/aeb06f49efc17fd02e4c7f5a9daecb574691e1f2))
+
+### ✨ Features
+
+* **package:** update export methods for each configuration file ([e356104](https://github.com/kubosho/configs/commit/e356104c7a0eae651acbc280ee8be40f91ab13cc))
+
 ## [3.18.10](https://github.com/kubosho/configs/compare/v3.18.9...v3.18.10) (2024-11-04)
 
 ### 📚 Some changes
