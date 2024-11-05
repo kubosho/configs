@@ -20,11 +20,12 @@
   "files": [
     "./eslint/configs/*",
     "./eslint/index.mjs",
-    "./markuplint/index.mjs",
-    "./prettier/index.js",
+    "./markuplint/*",
+    "./prettier/*",
+    "./renovate/*",
     "./semantic_release/index.mjs",
-    "./stylelint/index.mjs",
-    "./textlint/index.js",
+    "./stylelint/*",
+    "./textlint/*",
     "./typescript/tsconfig.json"
   ],
   "dependencies": {
