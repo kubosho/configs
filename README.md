@@ -17,7 +17,7 @@ npm install --save-dev @kubosho/configs
 In use `eslint.config.mjs`:
 
 ```javascript
-import config from '@kubosho/configs/eslint/index.mjs';
+import config from '@kubosho/configs/eslint';
 
 export default {
   ...config,
@@ -29,7 +29,7 @@ export default {
 In use `markuplint.config.mjs`:
 
 ```javascript
-import config from '@kubosho/configs/markuplint/index.mjs';
+import config from '@kubosho/configs/markuplint';
 
 export default {
   ...config,
@@ -57,7 +57,7 @@ module.exports = {
 In use `release.config.mjs`:
 
 ```javascript
-import config from '@kubosho/configs/semantic_release/index.mjs';
+import config from '@kubosho/configs/semantic_release';
 
 export default {
   ...config,
@@ -69,7 +69,7 @@ export default {
 In use `stylelint.config.mjs`:
 
 ```javascript
-import config from '@kubosho/configs/stylelint/index.mjs';
+import config from '@kubosho/configs/stylelint';
 
 export default {
   ...config,
