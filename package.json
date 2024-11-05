@@ -28,6 +28,16 @@
     "./textlint/*",
     "./typescript/tsconfig.json"
   ],
+  "exports": {
+    "./eslint": "./eslint/index.mjs",
+    "./markuplint": "./markuplint/index.mjs",
+    "./prettier": "./prettier/index.js",
+    "./semantic_release": "./semantic_release/index.mjs",
+    "./stylelint": "./stylelint/index.mjs",
+    "./textlint": "./textlint/index.js",
+    "./renovate/default.json": "./renovate/default.json",
+    "./typescript/tsconfig.json": "./typescript/tsconfig.json"
+  },
   "dependencies": {
     "@semantic-release/changelog": "^6.0.3",
     "@semantic-release/commit-analyzer": "^13.0.0",
