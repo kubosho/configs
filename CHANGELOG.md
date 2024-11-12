@@ -1,3 +1,9 @@
+## [4.0.1](https://github.com/kubosho/configs/compare/v4.0.0...v4.0.1) (2024-11-12)
+
+### 📚 Some changes
+
+* **deps:** update dependency @semantic-release/github to ^11.0.1 ([e3d969a](https://github.com/kubosho/configs/commit/e3d969a51c239f4357609c948288eee244e84ae2))
+
 ## [4.0.0](https://github.com/kubosho/configs/compare/v3.18.10...v4.0.0) (2024-11-05)
 
 ### ⚠ BREAKING CHANGES
