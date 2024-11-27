@@ -1,3 +1,9 @@
+## [4.0.3](https://github.com/kubosho/configs/compare/v4.0.2...v4.0.3) (2024-11-27)
+
+### 📚 Some changes
+
+* **deps:** update dependency prettier to ^3.4.1 ([619cdd9](https://github.com/kubosho/configs/commit/619cdd9ffacc4aa4bcca6c27f8e924b74a414812))
+
 ## [4.0.2](https://github.com/kubosho/configs/compare/v4.0.1...v4.0.2) (2024-11-17)
 
 ### 📚 Some changes
