@@ -1,3 +1,10 @@
+## [4.0.4](https://github.com/kubosho/configs/compare/v4.0.3...v4.0.4) (2024-11-29)
+
+### 📚 Some changes
+
+* **deps:** update dependency stylelint to ^16.11.0 ([b0a3180](https://github.com/kubosho/configs/commit/b0a31803c8d08f7e3ccda9a66ea76d1fc52c0f28))
+* **deps:** update dependency typescript to ^5.7.2 ([a5e4f9c](https://github.com/kubosho/configs/commit/a5e4f9cffb79f4c6af5f292b4e346827cffe0932))
+
 ## [4.0.3](https://github.com/kubosho/configs/compare/v4.0.2...v4.0.3) (2024-11-27)
 
 ### 📚 Some changes
