@@ -1,3 +1,11 @@
+## [4.0.5](https://github.com/kubosho/configs/compare/v4.0.4...v4.0.5) (2024-12-02)
+
+### 📚 Some changes
+
+* **deps:** update dependency globals to ^15.13.0 ([6aaa3d3](https://github.com/kubosho/configs/commit/6aaa3d399a18b868c51041520f2585590251a205))
+* **deps:** update dependency textlint to ^14.4.0 ([bc0d057](https://github.com/kubosho/configs/commit/bc0d05736a0b8eeb412c14b2359018689bc0ca8c))
+* **deps:** update dependency textlint-rule-preset-jtf-style to v3 ([c60a3d0](https://github.com/kubosho/configs/commit/c60a3d0e709d0bb3553194a4fc87955cbf1357de))
+
 ## [4.0.4](https://github.com/kubosho/configs/compare/v4.0.3...v4.0.4) (2024-11-29)
 
 ### 📚 Some changes
