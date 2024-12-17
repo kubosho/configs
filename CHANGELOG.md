@@ -1,3 +1,9 @@
+## [4.0.11](https://github.com/kubosho/configs/compare/v4.0.10...v4.0.11) (2024-12-17)
+
+### 📚 Some changes
+
+* **deps:** update dependency stylelint to ^16.12.0 ([e38c7e8](https://github.com/kubosho/configs/commit/e38c7e8fba8b9c460c0216a915d50cb87ab5574d))
+
 ## [4.0.10](https://github.com/kubosho/configs/compare/v4.0.9...v4.0.10) (2024-12-17)
 
 ### 📚 Some changes
