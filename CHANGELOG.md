@@ -1,3 +1,9 @@
+## [4.0.10](https://github.com/kubosho/configs/compare/v4.0.9...v4.0.10) (2024-12-17)
+
+### 📚 Some changes
+
+* **deps:** update dependency @semantic-release/release-notes-generator to ^14.0.2 ([#341](https://github.com/kubosho/configs/issues/341)) ([daff646](https://github.com/kubosho/configs/commit/daff646dd34bbe0a84e07a0edb4a036a594a6c92))
+
 ## [4.0.9](https://github.com/kubosho/configs/compare/v4.0.8...v4.0.9) (2024-12-11)
 
 ### 📚 Some changes
