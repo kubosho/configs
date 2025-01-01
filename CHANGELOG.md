@@ -1,3 +1,9 @@
+## [4.0.13](https://github.com/kubosho/configs/compare/v4.0.12...v4.0.13) (2025-01-01)
+
+### 📚 Some changes
+
+* **deps:** update dependency textlint to ^14.4.2 ([#345](https://github.com/kubosho/configs/issues/345)) ([c91d886](https://github.com/kubosho/configs/commit/c91d886572747d2052281df3af5f0008bfca40f6))
+
 ## [4.0.12](https://github.com/kubosho/configs/compare/v4.0.11...v4.0.12) (2024-12-24)
 
 ### 📚 Some changes
