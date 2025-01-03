@@ -1,3 +1,9 @@
+## [4.0.14](https://github.com/kubosho/configs/compare/v4.0.13...v4.0.14) (2025-01-03)
+
+### 📚 Some changes
+
+* **deps:** update semantic-release monorepo ([#347](https://github.com/kubosho/configs/issues/347)) ([485754a](https://github.com/kubosho/configs/commit/485754a6d92ffa23b211385d4420ec2691b23a44))
+
 ## [4.0.13](https://github.com/kubosho/configs/compare/v4.0.12...v4.0.13) (2025-01-01)
 
 ### 📚 Some changes
