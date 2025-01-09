@@ -1,3 +1,9 @@
+## [4.0.15](https://github.com/kubosho/configs/compare/v4.0.14...v4.0.15) (2025-01-09)
+
+### 📚 Some changes
+
+* **deps:** update dependency typescript to ^5.7.3 ([#349](https://github.com/kubosho/configs/issues/349)) ([e7ba9d6](https://github.com/kubosho/configs/commit/e7ba9d6e4c71f6d71942bb40afc6ac7044bd0f60))
+
 ## [4.0.14](https://github.com/kubosho/configs/compare/v4.0.13...v4.0.14) (2025-01-03)
 
 ### 📚 Some changes
