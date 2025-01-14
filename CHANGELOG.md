@@ -1,3 +1,9 @@
+## [4.0.18](https://github.com/kubosho/configs/compare/v4.0.17...v4.0.18) (2025-01-14)
+
+### 📚 Some changes
+
+* **deps:** update dependency stylelint-config-recommended to v15 ([3fb1996](https://github.com/kubosho/configs/commit/3fb19963761d17983bb3b2eb9446f843b8e996b7))
+
 ## [4.0.17](https://github.com/kubosho/configs/compare/v4.0.16...v4.0.17) (2025-01-14)
 
 ### 📚 Some changes
