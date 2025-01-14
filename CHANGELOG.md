@@ -1,3 +1,11 @@
+## [4.0.17](https://github.com/kubosho/configs/compare/v4.0.16...v4.0.17) (2025-01-14)
+
+### 📚 Some changes
+
+* **deps:** update dependency globals to ^15.14.0 ([6f32df4](https://github.com/kubosho/configs/commit/6f32df4abe6fdee8baa82f991b555e8bfd237175))
+* **deps:** update dependency react to v19 ([9ea3ac7](https://github.com/kubosho/configs/commit/9ea3ac7b2e89290eb20876d50e6647708d2bdc34))
+* **deps:** update dependency stylelint to ^16.13.1 ([8f65d3a](https://github.com/kubosho/configs/commit/8f65d3aa033f29d903c8a83455cfc71e7fd53d4a))
+
 ## [4.0.16](https://github.com/kubosho/configs/compare/v4.0.15...v4.0.16) (2025-01-13)
 
 ### 📚 Some changes
