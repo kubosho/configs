@@ -71,6 +71,6 @@
   "devDependencies": {
     "@types/eslint": "^9.6.1",
     "@types/node": "^22.10.7",
-    "vitest": "^2.1.8"
+    "vitest": "^3.0.1"
   }
 }
