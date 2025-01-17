@@ -32,5 +32,6 @@
         "rangeStrategy": "auto"
       }
     ]
-  }
+  },
+  "timezone": "Asia/Tokyo"
 }
