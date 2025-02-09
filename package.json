@@ -57,7 +57,7 @@
     "markuplint": "^4.11.5",
     "prettier": "^3.4.2",
     "react": "^19.0.0",
-    "semantic-release": "^24.2.1",
+    "semantic-release": "^24.2.2",
     "stylelint": "^16.13.2",
     "stylelint-config-recommended": "^15.0.0",
     "textlint": "^14.4.2",
