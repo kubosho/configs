@@ -54,7 +54,7 @@
     "eslint-plugin-react": "^7.37.4",
     "eslint-plugin-simple-import-sort": "^12.1.1",
     "globals": "^15.14.0",
-    "markuplint": "^4.11.5",
+    "markuplint": "^4.11.6",
     "prettier": "^3.4.2",
     "react": "^19.0.0",
     "semantic-release": "^24.2.2",
