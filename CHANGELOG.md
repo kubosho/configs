@@ -1,3 +1,9 @@
+## [4.0.23](https://github.com/kubosho/configs/compare/v4.0.22...v4.0.23) (2025-02-16)
+
+### 📚 Some changes
+
+* **deps:** update dependency semantic-release to ^24.2.3 ([#374](https://github.com/kubosho/configs/issues/374)) ([ccded11](https://github.com/kubosho/configs/commit/ccded11889084b11e8ba97b21ba846054778d62a))
+
 ## [4.0.22](https://github.com/kubosho/configs/compare/v4.0.21...v4.0.22) (2025-02-11)
 
 ### 📚 Some changes
