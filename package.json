@@ -65,7 +65,7 @@
     "textlint-rule-no-dead-link": "^5.2.0",
     "textlint-rule-no-doubled-joshi": "^5.1.0",
     "textlint-rule-preset-jtf-style": "^3.0.1",
-    "typescript": "^5.7.3",
+    "typescript": "^5.8.2",
     "typescript-eslint": "^8.12.2"
   },
   "devDependencies": {
