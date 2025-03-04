@@ -1,3 +1,9 @@
+## [4.0.27](https://github.com/kubosho/configs/compare/v4.0.26...v4.0.27) (2025-03-04)
+
+### 📚 Some changes
+
+* **deps:** update dependency textlint-rule-preset-jtf-style to ^3.0.2 ([#380](https://github.com/kubosho/configs/issues/380)) ([6eebf5c](https://github.com/kubosho/configs/commit/6eebf5c0fe0d1a2bc2ce516ae53bdd6237cf081f))
+
 ## [4.0.26](https://github.com/kubosho/configs/compare/v4.0.25...v4.0.26) (2025-03-04)
 
 ### 📚 Some changes
