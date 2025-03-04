@@ -1,3 +1,12 @@
+## [4.0.25](https://github.com/kubosho/configs/compare/v4.0.24...v4.0.25) (2025-03-04)
+
+### 📚 Some changes
+
+* **deps:** update dependency eslint-import-resolver-typescript to ^3.8.3 ([64fae36](https://github.com/kubosho/configs/commit/64fae3613bbf91f41cc6eaaac2ab9fb465a193b5))
+* **deps:** update dependency globals to v16 ([752fb67](https://github.com/kubosho/configs/commit/752fb679ed61f2f3045de2f9991ded4c2cef4d93))
+* **deps:** update dependency prettier to ^3.5.3 ([03579da](https://github.com/kubosho/configs/commit/03579da17ac07cfcdf38686d962ada4c4d6151b3))
+* **deps:** update dependency typescript to ^5.8.2 ([bfcbd37](https://github.com/kubosho/configs/commit/bfcbd3747baeeec9e90224581a9db74f87a2e289))
+
 ## [4.0.24](https://github.com/kubosho/configs/compare/v4.0.23...v4.0.24) (2025-02-27)
 
 ### 📚 Some changes
