@@ -70,7 +70,7 @@
   },
   "devDependencies": {
     "@types/eslint": "^9.6.1",
-    "@types/node": "^22.13.9",
+    "@types/node": "^22.13.10",
     "vitest": "^3.0.8"
   }
 }
