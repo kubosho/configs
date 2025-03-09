@@ -1,3 +1,9 @@
+## [4.0.28](https://github.com/kubosho/configs/compare/v4.0.27...v4.0.28) (2025-03-09)
+
+### 📚 Some changes
+
+* **deps:** update dependency markuplint to ^4.11.8 ([#383](https://github.com/kubosho/configs/issues/383)) ([3ded99c](https://github.com/kubosho/configs/commit/3ded99c78f88fe4df7c8c06925aa9bea686cc49d))
+
 ## [4.0.27](https://github.com/kubosho/configs/compare/v4.0.26...v4.0.27) (2025-03-04)
 
 ### 📚 Some changes
