@@ -1,3 +1,9 @@
+## [4.0.31](https://github.com/kubosho/configs/compare/v4.0.30...v4.0.31) (2025-03-12)
+
+### 📚 Some changes
+
+* **deps:** update dependency eslint-import-resolver-typescript to ^3.8.6 ([#387](https://github.com/kubosho/configs/issues/387)) ([672e770](https://github.com/kubosho/configs/commit/672e770ecdfbb8ffb52202db7dfa2c524ac3b981))
+
 ## [4.0.30](https://github.com/kubosho/configs/compare/v4.0.29...v4.0.30) (2025-03-12)
 
 ### 📚 Some changes
