@@ -1,3 +1,9 @@
+## [5.0.2](https://github.com/kubosho/configs/compare/v5.0.1...v5.0.2) (2025-03-16)
+
+### 🐛 Bug Fixes
+
+* **package:** add semantic-release related-packages to dependencies ([6377f86](https://github.com/kubosho/configs/commit/6377f86538823d64c81d843b3ce0cfd5e81f9c7c))
+
 ## [5.0.1](https://github.com/kubosho/configs/compare/v5.0.0...v5.0.1) (2025-03-16)
 
 ### 📚 Some changes
