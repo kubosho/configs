@@ -36,6 +36,7 @@ jobs:
         run: npm ci
 
       - name: Cache node_modules
+        if: ${{ steps.restore-node-modules-cache.outputs.cache-hit != 'true' }}
         uses: actions/cache/save@v4
         with:
           path: node_modules
