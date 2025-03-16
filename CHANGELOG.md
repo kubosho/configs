@@ -1,3 +1,13 @@
+## [5.0.0](https://github.com/kubosho/configs/compare/v4.0.32...v5.0.0) (2025-03-16)
+
+### ⚠ BREAKING CHANGES
+
+* **package:** Provide only configuration files and require toolchain installation in consuming repositories.
+
+### ✨ Features
+
+* **package:** restrict dependent packages ([022682b](https://github.com/kubosho/configs/commit/022682bb0e615e589621a040605b7b675a4db118))
+
 ## [4.0.32](https://github.com/kubosho/configs/compare/v4.0.31...v4.0.32) (2025-03-13)
 
 ### 📚 Some changes
