@@ -1,3 +1,13 @@
+## [5.1.0](https://github.com/kubosho/configs/compare/v5.0.3...v5.1.0) (2025-05-02)
+
+### ✨ Features
+
+* **renovate:** update renovate config for best practices and supply chain risk reduction ([d5f9a25](https://github.com/kubosho/configs/commit/d5f9a25ba19f2240591b4cc047a1c8213a8449b0))
+
+### 📚 Some changes
+
+* **renovate:** use json5 extension instead of json extension ([357345c](https://github.com/kubosho/configs/commit/357345c23be7c38ff23603930a0171b2c2e526f5))
+
 ## [5.0.3](https://github.com/kubosho/configs/compare/v5.0.2...v5.0.3) (2025-03-17)
 
 ### 📚 Some changes
