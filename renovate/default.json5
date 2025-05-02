@@ -1,37 +1,39 @@
 {
-  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-  "extends": [
-    ":assignee(kubosho)",
-    ":disableDependencyDashboard",
-    ":label(dependencies)",
-    "group:monorepos",
-    "replacements:all"
-  ],
-  "npm": {
-    "enabled": true,
-    "packageRules": [
-      {
-        "matchDepTypes": ["dependencies"],
-        "rangeStrategy": "bump",
-        "semanticCommitScope": "deps",
-        "semanticCommitType": "chore"
-      },
-      {
-        "matchDepTypes": ["devDependencies"],
-        "rangeStrategy": "bump",
-        "semanticCommitScope": "deps-dev",
-        "semanticCommitType": "chore"
-      },
-      {
-        "automerge": true,
-        "matchDepTypes": ["dependencies", "devDependencies"],
-        "matchUpdateTypes": ["patch"]
-      },
-      {
-        "matchDepTypes": ["engines"],
-        "rangeStrategy": "auto"
-      }
-    ]
-  },
-  "timezone": "Asia/Tokyo"
+	"$schema": "https://docs.renovatebot.com/renovate-schema.json",
+	"extends": [
+		":assignee(kubosho)",
+		":automergePatch",
+		":disableDependencyDashboard",
+		":label(dependencies)",
+		"config:best-practices",
+		"group:monorepos",
+		"replacements:all"
+	],
+
+	/**
+	 * Schedule
+	 */
+	// Prevent updates temporarily to reduce supply chain attack risk.
+	"minimumReleaseAge": "3 days",
+	"timezone": "Asia/Tokyo",
+
+	"npm": {
+		"enabled": true,
+		"packageRules": [
+			{
+				"matchDepTypes": ["dependencies"],
+				"semanticCommitScope": "deps",
+				"semanticCommitType": "chore"
+			},
+			{
+				"matchDepTypes": ["devDependencies"],
+				"semanticCommitScope": "deps-dev",
+				"semanticCommitType": "chore"
+			},
+			{
+				"matchDepTypes": ["engines"],
+				"rangeStrategy": "auto"
+			}
+		]
+	}
 }
