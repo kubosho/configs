@@ -1,3 +1,9 @@
+## [6.0.1](https://github.com/kubosho/configs/compare/v6.0.0...v6.0.1) (2025-05-05)
+
+### 📚 Some changes
+
+* **deps:** pin dependencies ([6e3acc2](https://github.com/kubosho/configs/commit/6e3acc2e5923b184fb07ded935445ab0952216da))
+
 ## [6.0.0](https://github.com/kubosho/configs/compare/v5.1.3...v6.0.0) (2025-05-05)
 
 ### ⚠ BREAKING CHANGES
