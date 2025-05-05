@@ -10,10 +10,6 @@
 		"replacements:all"
 	],
 
-	/**
-	 * Schedule
-	 */
-	// Prevent updates temporarily to reduce supply chain attack risk.
 	"minimumReleaseAge": "3 days",
 	"timezone": "Asia/Tokyo",
 
