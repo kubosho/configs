@@ -1,3 +1,13 @@
+## [6.0.0](https://github.com/kubosho/configs/compare/v5.1.3...v6.0.0) (2025-05-05)
+
+### ⚠ BREAKING CHANGES
+
+* **configs:** users must install required tools (e.g. ESLint, Prettier, etc.) manually
+
+### ✨ Features
+
+* **configs:** provide only config files and require tool installation by user ([d6e0f71](https://github.com/kubosho/configs/commit/d6e0f71ba667cd9a05b769f5f486f19c382b72fe))
+
 ## [5.1.3](https://github.com/kubosho/configs/compare/v5.1.2...v5.1.3) (2025-05-05)
 
 ### 🐛 Bug Fixes
