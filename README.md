@@ -10,6 +10,10 @@ My Web frontend tool configs. Inspired by [@3846masa/configs](https://github.com
 npm install --save-dev @kubosho/configs
 ```
 
+### Attention
+
+**This package provides only config files. Please install required tools (e.g. ESLint, Prettier, etc.) in your project.**
+
 ## Usage
 
 ### ESLint
