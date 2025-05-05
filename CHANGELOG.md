@@ -1,3 +1,9 @@
+## [5.1.1](https://github.com/kubosho/configs/compare/v5.1.0...v5.1.1) (2025-05-05)
+
+### 🐛 Bug Fixes
+
+* **renovate:** use json file instead of json5 ([07b0682](https://github.com/kubosho/configs/commit/07b0682c17085314edacfd82226bbf551cdc850c))
+
 ## [5.1.0](https://github.com/kubosho/configs/compare/v5.0.3...v5.1.0) (2025-05-02)
 
 ### ✨ Features
