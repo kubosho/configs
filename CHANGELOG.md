@@ -1,3 +1,9 @@
+## [5.1.3](https://github.com/kubosho/configs/compare/v5.1.2...v5.1.3) (2025-05-05)
+
+### 🐛 Bug Fixes
+
+* **renovate:** fix config ([0e0e7b0](https://github.com/kubosho/configs/commit/0e0e7b0fe6623cda6d13e6bc00a2a8c044151ba6))
+
 ## [5.1.2](https://github.com/kubosho/configs/compare/v5.1.1...v5.1.2) (2025-05-05)
 
 ### 📚 Some changes
