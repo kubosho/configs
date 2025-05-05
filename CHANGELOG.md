@@ -1,3 +1,9 @@
+## [6.0.2](https://github.com/kubosho/configs/compare/v6.0.1...v6.0.2) (2025-05-05)
+
+### 📚 Some changes
+
+* **deps:** update dependency react to v19.1.0 ([18a6945](https://github.com/kubosho/configs/commit/18a694596b928f3d2fa9cf13387c22aefc1b6808))
+
 ## [6.0.1](https://github.com/kubosho/configs/compare/v6.0.0...v6.0.1) (2025-05-05)
 
 ### 📚 Some changes
