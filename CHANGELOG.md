@@ -1,3 +1,9 @@
+## [6.0.3](https://github.com/kubosho/configs/compare/v6.0.2...v6.0.3) (2025-05-06)
+
+### 📚 Some changes
+
+* **deps:** update dependency eslint-plugin-react to v7.37.5 ([#417](https://github.com/kubosho/configs/issues/417)) ([9a17825](https://github.com/kubosho/configs/commit/9a1782549b3af84304f545410ac3ffb4f2357b00))
+
 ## [6.0.2](https://github.com/kubosho/configs/compare/v6.0.1...v6.0.2) (2025-05-05)
 
 ### 📚 Some changes
