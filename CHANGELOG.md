@@ -1,3 +1,9 @@
+## [6.0.6](https://github.com/kubosho/configs/compare/v6.0.5...v6.0.6) (2025-05-06)
+
+### 📚 Some changes
+
+* **deps:** update dependency stylelint to v16.19.1 ([f33a185](https://github.com/kubosho/configs/commit/f33a185266c19eb9beb903d08acbb6961b538f3e))
+
 ## [6.0.5](https://github.com/kubosho/configs/compare/v6.0.4...v6.0.5) (2025-05-06)
 
 ### 📚 Some changes
