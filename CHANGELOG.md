@@ -1,3 +1,12 @@
+## [6.0.4](https://github.com/kubosho/configs/compare/v6.0.3...v6.0.4) (2025-05-06)
+
+### 📚 Some changes
+
+* **deps:** update dependency @semantic-release/github to v11.0.2 ([7a676c4](https://github.com/kubosho/configs/commit/7a676c4b352c4387290078fd431139692841a7ae))
+* **deps:** update dependency eslint-import-resolver-typescript to v4.3.4 ([8943199](https://github.com/kubosho/configs/commit/8943199b275a5dae2c306d00b6df1ca942a20aae))
+* **deps:** update dependency markuplint to v4.12.0 ([2d6a9b7](https://github.com/kubosho/configs/commit/2d6a9b748628ee8107b534087ac1f1b8bd6f7ac3))
+* **deps:** update dependency typescript to v5.8.3 ([463e575](https://github.com/kubosho/configs/commit/463e5754ab0c66bee3eed20f1b42be330aeb59d8))
+
 ## [6.0.3](https://github.com/kubosho/configs/compare/v6.0.2...v6.0.3) (2025-05-06)
 
 ### 📚 Some changes
