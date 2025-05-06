@@ -1,3 +1,9 @@
+## [6.0.5](https://github.com/kubosho/configs/compare/v6.0.4...v6.0.5) (2025-05-06)
+
+### 📚 Some changes
+
+* **deps:** update dependency stylelint-config-recommended to v16 ([eda7297](https://github.com/kubosho/configs/commit/eda729744ca9278d3b903c2ed21df271f988f2a9))
+
 ## [6.0.4](https://github.com/kubosho/configs/compare/v6.0.3...v6.0.4) (2025-05-06)
 
 ### 📚 Some changes
