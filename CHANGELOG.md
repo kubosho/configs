@@ -1,3 +1,9 @@
+## [6.0.9](https://github.com/kubosho/configs/compare/v6.0.8...v6.0.9) (2025-05-13)
+
+### 📚 Some changes
+
+* **deps:** update dependency globals to v16.1.0 ([ce2217e](https://github.com/kubosho/configs/commit/ce2217ec158947111a66834ada152f52e0a35008))
+
 ## [6.0.8](https://github.com/kubosho/configs/compare/v6.0.7...v6.0.8) (2025-05-06)
 
 ### 📚 Some changes
