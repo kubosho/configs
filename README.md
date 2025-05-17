@@ -7,7 +7,7 @@ My Web frontend tool configs. Inspired by [@3846masa/configs](https://github.com
 ## Install
 
 ```shell
-npm install --save-dev @kubosho/configs
+npm add -D -omit=optional @kubosho/configs
 ```
 
 ### Attention
