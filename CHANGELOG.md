@@ -1,3 +1,9 @@
+## [6.0.10](https://github.com/kubosho/configs/compare/v6.0.9...v6.0.10) (2025-05-17)
+
+### 📚 Some changes
+
+* **README:** omit install optionalDependencies pacakges ([33fffbd](https://github.com/kubosho/configs/commit/33fffbdf9b9472783e45c6bcdf2402b71d2bc404))
+
 ## [6.0.9](https://github.com/kubosho/configs/compare/v6.0.8...v6.0.9) (2025-05-13)
 
 ### 📚 Some changes
