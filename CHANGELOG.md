@@ -1,3 +1,9 @@
+## [6.0.15](https://github.com/kubosho/configs/compare/v6.0.14...v6.0.15) (2025-05-28)
+
+### 📚 Some changes
+
+* **deps:** update dependency conventional-changelog-conventionalcommits to v9 ([bada283](https://github.com/kubosho/configs/commit/bada2833140064c8edbf59144ae77a19bfc2ddc8))
+
 ## [6.0.14](https://github.com/kubosho/configs/compare/v6.0.13...v6.0.14) (2025-05-27)
 
 ### 📚 Some changes
