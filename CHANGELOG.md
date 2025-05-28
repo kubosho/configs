@@ -1,3 +1,9 @@
+## [6.0.16](https://github.com/kubosho/configs/compare/v6.0.15...v6.0.16) (2025-05-28)
+
+### 📚 Some changes
+
+* **deps:** update dependency @semantic-release/github to v11.0.3 ([#440](https://github.com/kubosho/configs/issues/440)) ([7fed5f3](https://github.com/kubosho/configs/commit/7fed5f309abe8f692e7b62bab6f502e45ccf8112))
+
 ## [6.0.15](https://github.com/kubosho/configs/compare/v6.0.14...v6.0.15) (2025-05-28)
 
 ### 📚 Some changes
