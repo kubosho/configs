@@ -1,3 +1,9 @@
+## [6.0.17](https://github.com/kubosho/configs/compare/v6.0.16...v6.0.17) (2025-06-07)
+
+### 📚 Some changes
+
+* **README:** add required dependencies ([946424f](https://github.com/kubosho/configs/commit/946424f9c148f71b1062ca248a812a5f647edc2e))
+
 ## [6.0.16](https://github.com/kubosho/configs/compare/v6.0.15...v6.0.16) (2025-05-28)
 
 ### 📚 Some changes
