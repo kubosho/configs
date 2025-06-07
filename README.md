@@ -10,13 +10,17 @@ My Web frontend tool configs. Inspired by [@3846masa/configs](https://github.com
 npm add -D -omit=optional @kubosho/configs
 ```
 
-### Attention
-
-**This package provides only config files. Please install required tools (e.g. ESLint, Prettier, etc.) in your project.**
+**Attention: This package provides only config files. Please install required tools (e.g. ESLint, Prettier, etc.) in your project.**
 
 ## Usage
 
 ### ESLint
+
+Install the required dependencies:
+
+```shell
+npm add -D eslint eslint-config-prettier eslint-import-resolver-typescript eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-react eslint-plugin-simple-import-sort typescript-eslint
+```
 
 In use `eslint.config.mjs`:
 
@@ -30,6 +34,12 @@ export default {
 
 ### Markuplint
 
+Install the required dependencies:
+
+```shell
+npm add -D markuplint
+```
+
 In use `markuplint.config.mjs`:
 
 ```javascript
@@ -42,6 +52,12 @@ export default {
 
 ### Prettier
 
+Install the required dependencies:
+
+```shell
+npm add -D prettier
+```
+
 ```javascript
 module.exports = {
   ...require('@kubosho/configs/prettier'),
@@ -50,6 +66,8 @@ module.exports = {
 
 ### Renovate
 
+No npm packages required (GitHub App configuration only).
+
 ```json
 {
   "extends": ["github>kubosho/configs//renovate/default"]
@@ -57,6 +75,12 @@ module.exports = {
 ```
 
 ### Semantic Release
+
+Install the required dependencies:
+
+```shell
+npm add -D semantic-release @semantic-release/changelog @semantic-release/commit-analyzer @semantic-release/git @semantic-release/github @semantic-release/npm @semantic-release/release-notes-generator conventional-changelog-conventionalcommits
+```
 
 In use `release.config.mjs`:
 
@@ -70,6 +94,12 @@ export default {
 
 ### Stylelint
 
+Install the required dependencies:
+
+```shell
+npm add -D stylelint stylelint-config-recommended
+```
+
 In use `stylelint.config.mjs`:
 
 ```javascript
@@ -82,6 +112,12 @@ export default {
 
 ### Textlint
 
+Install the required dependencies:
+
+```shell
+npm add -D textlint textlint-filter-rule-comments textlint-rule-no-dead-link textlint-rule-no-doubled-joshi textlint-rule-preset-jtf-style
+```
+
 In use `.textlintrc.js`:
 
 ```javascript
@@ -93,6 +129,14 @@ module.exports = {
 ```
 
 ### TypeScript
+
+Install the required dependencies:
+
+```shell
+npm add -D typescript
+```
+
+In use `tsconfig.json`:
 
 ```json
 {
