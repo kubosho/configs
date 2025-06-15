@@ -1,3 +1,11 @@
+## [6.0.18](https://github.com/kubosho/configs/compare/v6.0.17...v6.0.18) (2025-06-15)
+
+### 📚 Some changes
+
+* **deps:** update dependency eslint-import-resolver-typescript to v4.4.3 ([8ad908b](https://github.com/kubosho/configs/commit/8ad908b2fd1c71ce48dee33bb27a3611a0050c7b))
+* **deps:** update dependency globals to v16.2.0 ([274387e](https://github.com/kubosho/configs/commit/274387e7b1915c77a26bf8efe5284cbf664fbc9c))
+* **deps:** update dependency textlint to v14.8.0 ([a9e5bad](https://github.com/kubosho/configs/commit/a9e5bad15e38067872afa9c4c97e359a4faad470))
+
 ## [6.0.17](https://github.com/kubosho/configs/compare/v6.0.16...v6.0.17) (2025-06-07)
 
 ### 📚 Some changes
