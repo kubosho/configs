@@ -1,3 +1,9 @@
+## [6.0.19](https://github.com/kubosho/configs/compare/v6.0.18...v6.0.19) (2025-06-17)
+
+### 📚 Some changes
+
+* **deps:** update dependency textlint to v14.8.1 ([#452](https://github.com/kubosho/configs/issues/452)) ([80ae2d7](https://github.com/kubosho/configs/commit/80ae2d70d4e080d4f4d0f1439a1db09e6c7c5856))
+
 ## [6.0.18](https://github.com/kubosho/configs/compare/v6.0.17...v6.0.18) (2025-06-15)
 
 ### 📚 Some changes
