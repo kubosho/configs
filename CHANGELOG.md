@@ -1,3 +1,9 @@
+## [6.0.22](https://github.com/kubosho/configs/compare/v6.0.21...v6.0.22) (2025-06-29)
+
+### 📚 Some changes
+
+* **deps:** update dependency @semantic-release/npm to v12.0.2 ([#461](https://github.com/kubosho/configs/issues/461)) ([0b55162](https://github.com/kubosho/configs/commit/0b551626048e1e04420bc6e94fc6f0fbe252f17f))
+
 ## [6.0.21](https://github.com/kubosho/configs/compare/v6.0.20...v6.0.21) (2025-06-28)
 
 ### 📚 Some changes
