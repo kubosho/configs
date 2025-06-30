@@ -568,12 +568,22 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
   ],
   "@typescript-eslint/consistent-return": [
     0,
+    {
+      "treatUndefinedAsUnspecified": false,
+    },
   ],
   "@typescript-eslint/consistent-type-exports": [
     0,
   ],
   "@typescript-eslint/dot-notation": [
     0,
+    {
+      "allowIndexSignaturePropertyAccess": false,
+      "allowKeywords": true,
+      "allowPattern": "",
+      "allowPrivateClassPropertyAccess": false,
+      "allowProtectedClassPropertyAccess": false,
+    },
   ],
   "@typescript-eslint/func-call-spacing": [
     0,
@@ -650,6 +660,9 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
   "@typescript-eslint/no-misused-promises": [
     0,
   ],
+  "@typescript-eslint/no-misused-spread": [
+    0,
+  ],
   "@typescript-eslint/no-mixed-enums": [
     0,
   ],
@@ -689,6 +702,9 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
   "@typescript-eslint/no-unnecessary-type-constraint": [
     2,
   ],
+  "@typescript-eslint/no-unnecessary-type-conversion": [
+    0,
+  ],
   "@typescript-eslint/no-unnecessary-type-parameters": [
     0,
   ],
@@ -716,11 +732,19 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
   "@typescript-eslint/no-unsafe-return": [
     0,
   ],
+  "@typescript-eslint/no-unsafe-type-assertion": [
+    0,
+  ],
   "@typescript-eslint/no-unsafe-unary-minus": [
     0,
   ],
   "@typescript-eslint/no-unused-expressions": [
     0,
+    {
+      "allowShortCircuit": false,
+      "allowTaggedTemplates": false,
+      "allowTernary": false,
+    },
   ],
   "@typescript-eslint/no-unused-vars": [
     2,
@@ -783,6 +807,9 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
     0,
   ],
   "@typescript-eslint/quotes": [
+    0,
+  ],
+  "@typescript-eslint/related-getter-setter-pairs": [
     0,
   ],
   "@typescript-eslint/require-array-sort-compare": [
@@ -2366,12 +2393,22 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
   ],
   "@typescript-eslint/consistent-return": [
     0,
+    {
+      "treatUndefinedAsUnspecified": false,
+    },
   ],
   "@typescript-eslint/consistent-type-exports": [
     0,
   ],
   "@typescript-eslint/dot-notation": [
     0,
+    {
+      "allowIndexSignaturePropertyAccess": false,
+      "allowKeywords": true,
+      "allowPattern": "",
+      "allowPrivateClassPropertyAccess": false,
+      "allowProtectedClassPropertyAccess": false,
+    },
   ],
   "@typescript-eslint/func-call-spacing": [
     0,
@@ -2448,6 +2485,9 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
   "@typescript-eslint/no-misused-promises": [
     0,
   ],
+  "@typescript-eslint/no-misused-spread": [
+    0,
+  ],
   "@typescript-eslint/no-mixed-enums": [
     0,
   ],
@@ -2487,6 +2527,9 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
   "@typescript-eslint/no-unnecessary-type-constraint": [
     2,
   ],
+  "@typescript-eslint/no-unnecessary-type-conversion": [
+    0,
+  ],
   "@typescript-eslint/no-unnecessary-type-parameters": [
     0,
   ],
@@ -2514,11 +2557,19 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
   "@typescript-eslint/no-unsafe-return": [
     0,
   ],
+  "@typescript-eslint/no-unsafe-type-assertion": [
+    0,
+  ],
   "@typescript-eslint/no-unsafe-unary-minus": [
     0,
   ],
   "@typescript-eslint/no-unused-expressions": [
     0,
+    {
+      "allowShortCircuit": false,
+      "allowTaggedTemplates": false,
+      "allowTernary": false,
+    },
   ],
   "@typescript-eslint/no-unused-vars": [
     2,
@@ -2581,6 +2632,9 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
     0,
   ],
   "@typescript-eslint/quotes": [
+    0,
+  ],
+  "@typescript-eslint/related-getter-setter-pairs": [
     0,
   ],
   "@typescript-eslint/require-array-sort-compare": [
@@ -4169,6 +4223,11 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
   ],
   "@typescript-eslint/no-unused-expressions": [
     0,
+    {
+      "allowShortCircuit": false,
+      "allowTaggedTemplates": false,
+      "allowTernary": false,
+    },
   ],
   "@typescript-eslint/no-unused-vars": [
     2,
@@ -4544,7 +4603,7 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
     2,
   ],
   "no-class-assign": [
-    2,
+    0,
   ],
   "no-comma-dangle": [
     0,
@@ -4808,7 +4867,7 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
     0,
   ],
   "no-with": [
-    2,
+    0,
   ],
   "no-wrap-func": [
     0,
