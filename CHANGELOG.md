@@ -1,3 +1,13 @@
+## [6.1.1](https://github.com/kubosho/configs/compare/v6.1.0...v6.1.1) (2025-06-30)
+
+### 🐛 Bug Fixes
+
+* resolve ESLint v9.29.0 compatibility issue with typescript-eslint ([a1d41e7](https://github.com/kubosho/configs/commit/a1d41e7cb5286170863ac7aa6214dbbded86ff1b))
+
+### 📚 Some changes
+
+* **deps:** update dependency eslint to v9.29.0 ([b136e5a](https://github.com/kubosho/configs/commit/b136e5a8b266c6047e52cdbea8a1e25ba47e3f48))
+
 ## [6.1.0](https://github.com/kubosho/configs/compare/v6.0.23...v6.1.0) (2025-06-30)
 
 ### ✨ Features
