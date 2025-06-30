@@ -1,3 +1,11 @@
+## [6.0.23](https://github.com/kubosho/configs/compare/v6.0.22...v6.0.23) (2025-06-30)
+
+### 📚 Some changes
+
+* **deps:** update dependency eslint-plugin-import to v2.32.0 ([da97c28](https://github.com/kubosho/configs/commit/da97c28ae3021703f01f5bdb29c0f950cdcc1f50))
+* **deps:** update dependency prettier to v3.6.2 ([e59d840](https://github.com/kubosho/configs/commit/e59d840c20a15227e8de1e20ce5e91d961a1e6e8))
+* **deps:** update dependency textlint to v15 ([c308cee](https://github.com/kubosho/configs/commit/c308ceebc556f8cd3fe597869acb48354cedba0a))
+
 ## [6.0.22](https://github.com/kubosho/configs/compare/v6.0.21...v6.0.22) (2025-06-29)
 
 ### 📚 Some changes
