@@ -1,3 +1,13 @@
+## [6.1.0](https://github.com/kubosho/configs/compare/v6.0.23...v6.1.0) (2025-06-30)
+
+### ✨ Features
+
+* add textlint-rule-preset-ai-writing ([1d4f11a](https://github.com/kubosho/configs/commit/1d4f11a739d79f1eee11f21e492ff45f94baaf72))
+
+### 📚 Some changes
+
+* **deps:** update dependency stylelint to v16.21.0 ([21987df](https://github.com/kubosho/configs/commit/21987df3eed0a8a1f76d9443b66694b585e03bca))
+
 ## [6.0.23](https://github.com/kubosho/configs/compare/v6.0.22...v6.0.23) (2025-06-30)
 
 ### 📚 Some changes
