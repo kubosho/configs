@@ -1,3 +1,13 @@
+## [6.1.2](https://github.com/kubosho/configs/compare/v6.1.1...v6.1.2) (2025-06-30)
+
+### 🐛 Bug Fixes
+
+* update ESLint snapshots for eslint-config-prettier v10 ([143365c](https://github.com/kubosho/configs/commit/143365c184204eda92b62d2140f4a91c13ab29e1))
+
+### 📚 Some changes
+
+* **deps:** update dependency eslint-config-prettier to v10 ([7b92404](https://github.com/kubosho/configs/commit/7b92404e2fffb033ef59481a0f7bc6c922fa9860))
+
 ## [6.1.1](https://github.com/kubosho/configs/compare/v6.1.0...v6.1.1) (2025-06-30)
 
 ### 🐛 Bug Fixes
