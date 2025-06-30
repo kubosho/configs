@@ -1,3 +1,9 @@
+## [6.1.3](https://github.com/kubosho/configs/compare/v6.1.2...v6.1.3) (2025-06-30)
+
+### 📚 Some changes
+
+* **deps:** update dependency typescript-eslint to v8.35.0 ([86a41ca](https://github.com/kubosho/configs/commit/86a41ca3a90adf2c0dc484b14dd829fd536fb7c2))
+
 ## [6.1.2](https://github.com/kubosho/configs/compare/v6.1.1...v6.1.2) (2025-06-30)
 
 ### 🐛 Bug Fixes
