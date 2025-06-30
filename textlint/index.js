@@ -15,6 +15,7 @@ module.exports = {
       strict: false,
       allow: [],
     },
+    'preset-ai-writing': true,
     'preset-jtf-style': true,
   },
 };
