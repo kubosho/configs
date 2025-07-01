@@ -26,8 +26,13 @@ Labelに「dependencies」を付けます。
 
 名前が変更されたソフトウェアは、名前変更後のパッケージを使うようにする設定です。
 
+## regexManagers
+
+`.tool-versions`ファイルに記載されているツールのバージョン管理をサポートしています。
+
 ## packageRules
 
 - `dependencies` に含まれるパッケージは `chore(deps): commit message` の形式でコミットメッセージが書かれます
 - `devDependencies` に含まれるパッケージは `chore(deps-dev): commit message` の形式でコミットメッセージが書かれます
+- `.tool-versions` に含まれるツールは `chore(deps): commit message` の形式でコミットメッセージが書かれます
 - patch version（fix version）に該当するパッケージは自動的にマージします
