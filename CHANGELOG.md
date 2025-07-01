@@ -1,3 +1,13 @@
+## [6.2.0](https://github.com/kubosho/configs/compare/v6.1.3...v6.2.0) (2025-07-01)
+
+### ✨ Features
+
+* **renovate:** add regex managers for .tool-versions support ([fbadca5](https://github.com/kubosho/configs/commit/fbadca502f8b91a7d0db6905a9adaa5bd6dee901))
+
+### 📚 Some changes
+
+* **renovate:** document .tool-versions support ([d322732](https://github.com/kubosho/configs/commit/d3227329ebcfcef92432e73bc0fac15326195448))
+
 ## [6.1.3](https://github.com/kubosho/configs/compare/v6.1.2...v6.1.3) (2025-06-30)
 
 ### 📚 Some changes
