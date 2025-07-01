@@ -13,6 +13,77 @@
 	"minimumReleaseAge": "3 days",
 	"timezone": "Asia/Tokyo",
 
+	"regexManagers": [
+		{
+			"fileMatch": ["^\\.tool-versions$"],
+			"matchStrings": ["bun\\s+(?<currentValue>\\d+\\.\\d+\\.\\d+)"],
+			"datasourceTemplate": "github-releases", 
+			"depNameTemplate": "oven-sh/bun"
+		},
+		{
+			"fileMatch": ["^\\.tool-versions$"],
+			"matchStrings": ["deno\\s+(?<currentValue>\\d+\\.\\d+\\.\\d+)"],
+			"datasourceTemplate": "github-releases",
+			"depNameTemplate": "denoland/deno"
+		},
+		{
+			"fileMatch": ["^\\.tool-versions$"],
+			"matchStrings": ["go\\s+(?<currentValue>\\d+\\.\\d+\\.\\d+)"],
+			"datasourceTemplate": "golang-version",
+			"depNameTemplate": "golang"
+		},
+		{
+			"fileMatch": ["^\\.tool-versions$"],
+			"matchStrings": ["nodejs\\s+(?<currentValue>\\d+\\.\\d+\\.\\d+)"],
+			"datasourceTemplate": "node-version",
+			"depNameTemplate": "node"
+		},
+		{
+			"fileMatch": ["^\\.tool-versions$"],
+			"matchStrings": ["python\\s+(?<currentValue>\\d+\\.\\d+\\.\\d+)"],
+			"datasourceTemplate": "docker",
+			"depNameTemplate": "python"
+		},
+		{
+			"fileMatch": ["^\\.tool-versions$"],
+			"matchStrings": ["rust\\s+(?<currentValue>\\d+\\.\\d+\\.\\d+)"],
+			"datasourceTemplate": "github-releases",
+			"depNameTemplate": "rust-lang/rust"
+		},
+		{
+			"fileMatch": ["^\\.tool-versions$"],
+			"matchStrings": ["task\\s+(?<currentValue>\\d+\\.\\d+\\.\\d+)"],
+			"datasourceTemplate": "github-releases",
+			"depNameTemplate": "go-task/task"
+		},
+		{
+			"fileMatch": ["^\\.tool-versions$"],
+			"matchStrings": ["uv\\s+(?<currentValue>\\d+\\.\\d+\\.\\d+)"],
+			"datasourceTemplate": "github-releases",
+			"depNameTemplate": "astral-sh/uv"
+		},
+		{
+			"fileMatch": ["^\\.tool-versions$"],
+			"matchStrings": ["npm:@anthropic-ai/claude-code\\s+(?<currentValue>latest)"],
+			"datasourceTemplate": "npm",
+			"depNameTemplate": "@anthropic-ai/claude-code"
+		},
+		{
+			"fileMatch": ["^\\.tool-versions$"],
+			"matchStrings": ["npm:@google/gemini-cli\\s+(?<currentValue>latest)"],
+			"datasourceTemplate": "npm",
+			"depNameTemplate": "@google/gemini-cli"
+		}
+	],
+
+	"packageRules": [
+		{
+			"matchFileNames": [".tool-versions"],
+			"semanticCommitScope": "deps",
+			"semanticCommitType": "chore"
+		}
+	],
+
 	"npm": {
 		"enabled": true,
 		"packageRules": [
