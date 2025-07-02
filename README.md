@@ -32,6 +32,28 @@ export default {
 };
 ```
 
+### Markdownlint
+
+Install the required dependencies:
+
+```shell
+# For markdownlint-cli2 (recommended if you want to use extends)
+npm add -D markdownlint-cli2
+
+# OR for markdownlint-cli
+npm add -D markdownlint-cli
+```
+
+In use `.markdownlint.json`:
+
+```json
+{
+  "extends": "@kubosho/configs/markdownlint"
+}
+```
+
+**Note:** The `extends` property only works with markdownlint-cli2. If using markdownlint-cli, you'll need to manually merge the configuration.
+
 ### Markuplint
 
 Install the required dependencies:

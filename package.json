@@ -20,6 +20,7 @@
 	"files": [
 		"./eslint/configs/*",
 		"./eslint/index.mjs",
+		"./markdownlint/*",
 		"./markuplint/*",
 		"./prettier/*",
 		"./renovate/*",
@@ -30,6 +31,7 @@
 	],
 	"exports": {
 		"./eslint": "./eslint/index.mjs",
+		"./markdownlint": "./markdownlint/index.json",
 		"./markuplint": "./markuplint/index.mjs",
 		"./prettier": "./prettier/index.js",
 		"./semantic_release": "./semantic_release/index.mjs",
