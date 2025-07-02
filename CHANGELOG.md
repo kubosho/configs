@@ -1,3 +1,15 @@
+## [6.3.0](https://github.com/kubosho/configs/compare/v6.2.0...v6.3.0) (2025-07-02)
+
+### ✨ Features
+
+* **markdownlint:** add markdownlint configuration ([4409088](https://github.com/kubosho/configs/commit/4409088edfab1b54c3428f3b56d8465aca404615))
+
+### 📚 Some changes
+
+* add markdownlint section to README ([ec72f78](https://github.com/kubosho/configs/commit/ec72f78cfdaa84f4168791e0c5c51936e627fec6))
+* **markdownlint:** add markdownlint usage documentation ([936408d](https://github.com/kubosho/configs/commit/936408d65767205d84937dde02d3ace08dcca337))
+* **deps:** update dependency eslint to v9.30.0 ([64f820d](https://github.com/kubosho/configs/commit/64f820d95c0d77a4dda6f5b1c633750f2f5e061b))
+
 ## [6.2.0](https://github.com/kubosho/configs/compare/v6.1.3...v6.2.0) (2025-07-01)
 
 ### ✨ Features
