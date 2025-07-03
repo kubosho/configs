@@ -1,104 +1,74 @@
 {
-	"name": "@kubosho/configs",
-	"description": "My Web frontend tool configs",
-	"version": "6.3.1",
-	"license": "MIT",
-	"author": "kubosho",
-	"engines": {
-		"node": ">=20.0.0"
-	},
-	"scripts": {
-		"test:ts": "tsc --noEmit",
-		"test:eslint": "vitest run",
-		"lint:eslint": "eslint --config ./eslint/examples/eslint.config.mjs ./eslint/examples/src/*",
-		"print:eslint": "eslint --config ./eslint/examples/eslint.config.mjs --print-config ./eslint/examples/eslint.config.mjs",
-		"format": "prettier --write ."
-	},
-	"publishConfig": {
-		"access": "public"
-	},
-	"files": [
-		"./eslint/configs/*",
-		"./eslint/index.mjs",
-		"./markdownlint/*",
-		"./markuplint/*",
-		"./prettier/*",
-		"./renovate/*",
-		"./semantic_release/index.mjs",
-		"./stylelint/*",
-		"./textlint/*",
-		"./typescript/tsconfig.json"
-	],
-	"exports": {
-		"./eslint": "./eslint/index.mjs",
-		"./markdownlint": "./markdownlint/index.json",
-		"./markuplint": "./markuplint/index.mjs",
-		"./prettier": "./prettier/index.js",
-		"./semantic_release": "./semantic_release/index.mjs",
-		"./stylelint": "./stylelint/index.mjs",
-		"./textlint": "./textlint/index.js",
-		"./renovate/default.json": "./renovate/default.json",
-		"./typescript/tsconfig.json": "./typescript/tsconfig.json"
-	},
-	"dependencies": {
-		"globals": "16.2.0"
-	},
-	"devDependencies": {
-		"@semantic-release/changelog": "6.0.3",
-		"@semantic-release/commit-analyzer": "13.0.1",
-		"@semantic-release/git": "10.0.1",
-		"@semantic-release/github": "11.0.3",
-		"@semantic-release/npm": "12.0.2",
-		"@semantic-release/release-notes-generator": "14.0.3",
-		"@types/eslint": "9.6.1",
-		"@types/node": "22.15.34",
-		"conventional-changelog-conventionalcommits": "9.0.0",
-		"eslint": "9.30.0",
-		"eslint-config-prettier": "10.1.5",
-		"eslint-import-resolver-typescript": "4.4.4",
-		"eslint-plugin-import": "2.32.0",
-		"eslint-plugin-jsx-a11y": "6.10.2",
-		"eslint-plugin-react": "7.37.5",
-		"eslint-plugin-simple-import-sort": "12.1.1",
-		"markuplint": "4.12.0",
-		"prettier": "3.6.2",
-		"react": "19.1.0",
-		"semantic-release": "24.2.6",
-		"stylelint": "16.21.0",
-		"textlint": "15.0.1",
-		"textlint-rule-preset-ai-writing": "1.1.0",
-		"typescript": "5.8.3",
-		"typescript-eslint": "8.35.0",
-		"vitest": "3.2.4"
-	},
-	"optionalDependencies": {
-		"@semantic-release/changelog": "6.0.3",
-		"@semantic-release/commit-analyzer": "13.0.1",
-		"@semantic-release/git": "10.0.1",
-		"@semantic-release/github": "11.0.3",
-		"@semantic-release/npm": "12.0.2",
-		"@semantic-release/release-notes-generator": "14.0.3",
-		"conventional-changelog-conventionalcommits": "9.0.0",
-		"eslint": "9.30.0",
-		"eslint-config-prettier": "10.1.5",
-		"eslint-import-resolver-typescript": "4.4.4",
-		"eslint-plugin-import": "2.32.0",
-		"eslint-plugin-jsx-a11y": "6.10.2",
-		"eslint-plugin-react": "7.37.5",
-		"eslint-plugin-simple-import-sort": "12.1.1",
-		"markuplint": "4.12.0",
-		"prettier": "3.6.2",
-		"react": "19.1.0",
-		"semantic-release": "24.2.6",
-		"stylelint": "16.21.0",
-		"stylelint-config-recommended": "16.0.0",
-		"textlint": "15.0.1",
-		"textlint-filter-rule-comments": "1.2.2",
-		"textlint-rule-no-dead-link": "5.2.0",
-		"textlint-rule-no-doubled-joshi": "5.1.0",
-		"textlint-rule-preset-ai-writing": "1.1.0",
-		"textlint-rule-preset-jtf-style": "3.0.2",
-		"typescript": "5.8.3",
-		"typescript-eslint": "8.35.0"
-	}
+  "name": "@kubosho/configs",
+  "description": "My Web frontend tool configs",
+  "version": "6.3.1",
+  "license": "MIT",
+  "author": "kubosho",
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "scripts": {
+    "test:ts": "tsc --noEmit",
+    "test:eslint": "vitest run",
+    "lint:eslint": "eslint --config ./eslint/examples/eslint.config.mjs ./eslint/examples/src/*",
+    "print:eslint": "eslint --config ./eslint/examples/eslint.config.mjs --print-config ./eslint/examples/eslint.config.mjs",
+    "format": "prettier --write ."
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    "./eslint/configs/*",
+    "./eslint/index.mjs",
+    "./markdownlint/*",
+    "./markuplint/*",
+    "./prettier/*",
+    "./renovate/*",
+    "./semantic_release/index.mjs",
+    "./stylelint/*",
+    "./textlint/*",
+    "./typescript/tsconfig.json"
+  ],
+  "exports": {
+    "./eslint": "./eslint/index.mjs",
+    "./markdownlint": "./markdownlint/index.json",
+    "./markuplint": "./markuplint/index.mjs",
+    "./prettier": "./prettier/index.js",
+    "./semantic_release": "./semantic_release/index.mjs",
+    "./stylelint": "./stylelint/index.mjs",
+    "./textlint": "./textlint/index.js",
+    "./renovate/default.json": "./renovate/default.json",
+    "./typescript/tsconfig.json": "./typescript/tsconfig.json"
+  },
+  "dependencies": {
+    "globals": "16.2.0"
+  },
+  "devDependencies": {
+    "@semantic-release/changelog": "6.0.3",
+    "@semantic-release/commit-analyzer": "13.0.1",
+    "@semantic-release/git": "10.0.1",
+    "@semantic-release/github": "11.0.3",
+    "@semantic-release/npm": "12.0.2",
+    "@semantic-release/release-notes-generator": "14.0.3",
+    "@types/eslint": "9.6.1",
+    "@types/node": "22.15.34",
+    "conventional-changelog-conventionalcommits": "9.0.0",
+    "eslint": "9.30.0",
+    "eslint-config-prettier": "10.1.5",
+    "eslint-import-resolver-typescript": "4.4.4",
+    "eslint-plugin-import": "2.32.0",
+    "eslint-plugin-jsx-a11y": "6.10.2",
+    "eslint-plugin-react": "7.37.5",
+    "eslint-plugin-simple-import-sort": "12.1.1",
+    "markuplint": "4.12.0",
+    "prettier": "3.6.2",
+    "react": "19.1.0",
+    "semantic-release": "24.2.6",
+    "stylelint": "16.21.0",
+    "textlint": "15.0.1",
+    "textlint-rule-preset-ai-writing": "1.1.0",
+    "typescript": "5.8.3",
+    "typescript-eslint": "8.35.0",
+    "vitest": "3.2.4"
+  }
 }
