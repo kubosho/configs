@@ -1,3 +1,11 @@
+## [6.3.2](https://github.com/kubosho/configs/compare/v6.3.1...v6.3.2) (2025-07-03)
+
+### 📚 Some changes
+
+* **deps:** re-create package-lock.json ([55f2c2d](https://github.com/kubosho/configs/commit/55f2c2d57018b61bcca567b2cf83ed25ca8411c9))
+* **readme:** remove -omit=optional flag from install command ([0795fa5](https://github.com/kubosho/configs/commit/0795fa5ed1e9f080b7625d24ad18b8233707b83f))
+* **deps:** update package-lock.json ([4d119b4](https://github.com/kubosho/configs/commit/4d119b49cf8c8697bcd44ca642faeb5b8366babb))
+
 ## [6.3.1](https://github.com/kubosho/configs/compare/v6.3.0...v6.3.1) (2025-07-03)
 
 ### 📚 Some changes
