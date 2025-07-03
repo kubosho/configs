@@ -7,7 +7,7 @@ My Web frontend tool configs. Inspired by [@3846masa/configs](https://github.com
 ## Install
 
 ```shell
-npm add -D -omit=optional @kubosho/configs
+npm add -D @kubosho/configs
 ```
 
 **Attention: This package provides only config files. Please install required tools (e.g. ESLint, Prettier, etc.) in your project.**
