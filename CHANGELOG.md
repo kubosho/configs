@@ -1,3 +1,9 @@
+## [6.3.4](https://github.com/kubosho/configs/compare/v6.3.3...v6.3.4) (2025-07-04)
+
+### 📚 Some changes
+
+* sort dependencies alphabetically in README ([7a1ad28](https://github.com/kubosho/configs/commit/7a1ad28e062958aa2d5933b97213caf2f8214b42))
+
 ## [6.3.3](https://github.com/kubosho/configs/compare/v6.3.2...v6.3.3) (2025-07-04)
 
 ### 📚 Some changes
