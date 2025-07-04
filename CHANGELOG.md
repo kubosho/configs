@@ -1,3 +1,9 @@
+## [6.3.3](https://github.com/kubosho/configs/compare/v6.3.2...v6.3.3) (2025-07-04)
+
+### 📚 Some changes
+
+* add textlint-rule-preset-ai-writing to README dependencies ([de7782a](https://github.com/kubosho/configs/commit/de7782add715853bc3d4fb5254385ccf553e7648))
+
 ## [6.3.2](https://github.com/kubosho/configs/compare/v6.3.1...v6.3.2) (2025-07-03)
 
 ### 📚 Some changes
