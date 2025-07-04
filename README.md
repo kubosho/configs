@@ -101,7 +101,7 @@ No npm packages required (GitHub App configuration only).
 Install the required dependencies:
 
 ```shell
-npm add -D semantic-release @semantic-release/changelog @semantic-release/commit-analyzer @semantic-release/git @semantic-release/github @semantic-release/npm @semantic-release/release-notes-generator conventional-changelog-conventionalcommits
+npm add -D @semantic-release/changelog @semantic-release/commit-analyzer @semantic-release/git @semantic-release/github @semantic-release/npm @semantic-release/release-notes-generator conventional-changelog-conventionalcommits semantic-release
 ```
 
 In use `release.config.mjs`:
@@ -137,7 +137,7 @@ export default {
 Install the required dependencies:
 
 ```shell
-npm add -D textlint textlint-filter-rule-comments textlint-rule-no-dead-link textlint-rule-no-doubled-joshi textlint-rule-preset-jtf-style textlint-rule-preset-ai-writing
+npm add -D textlint textlint-filter-rule-comments textlint-rule-no-dead-link textlint-rule-no-doubled-joshi textlint-rule-preset-ai-writing textlint-rule-preset-jtf-style
 ```
 
 In use `.textlintrc.js`:
