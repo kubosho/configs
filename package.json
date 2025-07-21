@@ -64,7 +64,7 @@
     "prettier": "3.6.2",
     "react": "19.1.0",
     "semantic-release": "24.2.7",
-    "stylelint": "16.21.1",
+    "stylelint": "16.22.0",
     "textlint": "15.2.0",
     "textlint-rule-preset-ai-writing": "1.1.0",
     "typescript": "5.8.3",
