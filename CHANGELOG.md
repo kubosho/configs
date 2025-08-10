@@ -1,3 +1,9 @@
+## [6.3.6](https://github.com/kubosho/configs/compare/v6.3.5...v6.3.6) (2025-08-10)
+
+### 📚 Some changes
+
+* **deps:** update actions/cache action to v4.2.4 ([#493](https://github.com/kubosho/configs/issues/493)) ([ab6928d](https://github.com/kubosho/configs/commit/ab6928d4b4e92740704d2448bf10b776b9c6577f))
+
 ## [6.3.5](https://github.com/kubosho/configs/compare/v6.3.4...v6.3.5) (2025-07-14)
 
 ### 📚 Some changes
