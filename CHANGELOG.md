@@ -1,3 +1,10 @@
+## [6.3.7](https://github.com/kubosho/configs/compare/v6.3.6...v6.3.7) (2025-08-17)
+
+### 📚 Some changes
+
+* **deps:** update actions/checkout action to v5 ([c5da9c9](https://github.com/kubosho/configs/commit/c5da9c9d90da9ecab1b56619347fcf763f490725))
+* **deps:** update dependency node to v22 ([6bbdf1f](https://github.com/kubosho/configs/commit/6bbdf1f4dece60eb048558f54b1c498ee51d08da))
+
 ## [6.3.6](https://github.com/kubosho/configs/compare/v6.3.5...v6.3.6) (2025-08-10)
 
 ### 📚 Some changes
