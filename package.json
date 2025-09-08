@@ -53,7 +53,7 @@
     "@types/eslint": "9.6.1",
     "@types/node": "22.17.2",
     "conventional-changelog-conventionalcommits": "9.1.0",
-    "eslint": "9.34.0",
+    "eslint": "9.35.0",
     "eslint-config-prettier": "10.1.8",
     "eslint-import-resolver-typescript": "4.4.4",
     "eslint-plugin-import": "2.32.0",
