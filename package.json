@@ -41,7 +41,7 @@
     "./typescript/tsconfig.json": "./typescript/tsconfig.json"
   },
   "dependencies": {
-    "globals": "16.3.0"
+    "globals": "16.4.0"
   },
   "devDependencies": {
     "@semantic-release/changelog": "6.0.3",
