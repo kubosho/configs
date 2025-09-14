@@ -19,7 +19,7 @@ npm add -D @kubosho/configs
 Install the required dependencies:
 
 ```shell
-npm add -D eslint eslint-config-prettier eslint-import-resolver-typescript eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-react eslint-plugin-simple-import-sort typescript-eslint
+npm add -D @eslint/js eslint eslint-config-prettier eslint-import-resolver-typescript eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-react eslint-plugin-simple-import-sort typescript-eslint
 ```
 
 In use `eslint.config.mjs`:
