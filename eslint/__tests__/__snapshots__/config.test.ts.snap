@@ -551,9 +551,6 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
   "@typescript-eslint/await-thenable": [
     0,
   ],
-  "@typescript-eslint/ban-ts-comment": [
-    2,
-  ],
   "@typescript-eslint/block-spacing": [
     0,
   ],
@@ -568,22 +565,12 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
   ],
   "@typescript-eslint/consistent-return": [
     0,
-    {
-      "treatUndefinedAsUnspecified": false,
-    },
   ],
   "@typescript-eslint/consistent-type-exports": [
     0,
   ],
   "@typescript-eslint/dot-notation": [
     0,
-    {
-      "allowIndexSignaturePropertyAccess": false,
-      "allowKeywords": true,
-      "allowPattern": "",
-      "allowPrivateClassPropertyAccess": false,
-      "allowProtectedClassPropertyAccess": false,
-    },
   ],
   "@typescript-eslint/func-call-spacing": [
     0,
@@ -606,9 +593,6 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
   "@typescript-eslint/naming-convention": [
     0,
   ],
-  "@typescript-eslint/no-array-constructor": [
-    2,
-  ],
   "@typescript-eslint/no-array-delete": [
     0,
   ],
@@ -621,20 +605,8 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
   "@typescript-eslint/no-deprecated": [
     0,
   ],
-  "@typescript-eslint/no-duplicate-enum-values": [
-    2,
-  ],
   "@typescript-eslint/no-duplicate-type-constituents": [
     0,
-  ],
-  "@typescript-eslint/no-empty-object-type": [
-    2,
-  ],
-  "@typescript-eslint/no-explicit-any": [
-    2,
-  ],
-  "@typescript-eslint/no-extra-non-null-assertion": [
-    2,
   ],
   "@typescript-eslint/no-extra-parens": [
     0,
@@ -654,9 +626,6 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
   "@typescript-eslint/no-meaningless-void-operator": [
     0,
   ],
-  "@typescript-eslint/no-misused-new": [
-    2,
-  ],
   "@typescript-eslint/no-misused-promises": [
     0,
   ],
@@ -666,20 +635,8 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
   "@typescript-eslint/no-mixed-enums": [
     0,
   ],
-  "@typescript-eslint/no-namespace": [
-    2,
-  ],
-  "@typescript-eslint/no-non-null-asserted-optional-chain": [
-    2,
-  ],
   "@typescript-eslint/no-redundant-type-constituents": [
     0,
-  ],
-  "@typescript-eslint/no-require-imports": [
-    2,
-  ],
-  "@typescript-eslint/no-this-alias": [
-    2,
   ],
   "@typescript-eslint/no-unnecessary-boolean-literal-compare": [
     0,
@@ -699,9 +656,6 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
   "@typescript-eslint/no-unnecessary-type-assertion": [
     0,
   ],
-  "@typescript-eslint/no-unnecessary-type-constraint": [
-    2,
-  ],
   "@typescript-eslint/no-unnecessary-type-conversion": [
     0,
   ],
@@ -717,14 +671,8 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
   "@typescript-eslint/no-unsafe-call": [
     0,
   ],
-  "@typescript-eslint/no-unsafe-declaration-merging": [
-    2,
-  ],
   "@typescript-eslint/no-unsafe-enum-comparison": [
     0,
-  ],
-  "@typescript-eslint/no-unsafe-function-type": [
-    2,
   ],
   "@typescript-eslint/no-unsafe-member-access": [
     0,
@@ -738,20 +686,6 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
   "@typescript-eslint/no-unsafe-unary-minus": [
     0,
   ],
-  "@typescript-eslint/no-unused-expressions": [
-    0,
-    {
-      "allowShortCircuit": false,
-      "allowTaggedTemplates": false,
-      "allowTernary": false,
-    },
-  ],
-  "@typescript-eslint/no-unused-vars": [
-    2,
-  ],
-  "@typescript-eslint/no-wrapper-object-types": [
-    2,
-  ],
   "@typescript-eslint/non-nullable-type-assertion-style": [
     0,
   ],
@@ -761,9 +695,6 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
   "@typescript-eslint/only-throw-error": [
     0,
   ],
-  "@typescript-eslint/prefer-as-const": [
-    2,
-  ],
   "@typescript-eslint/prefer-destructuring": [
     0,
   ],
@@ -772,9 +703,6 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
   ],
   "@typescript-eslint/prefer-includes": [
     0,
-  ],
-  "@typescript-eslint/prefer-namespace-keyword": [
-    2,
   ],
   "@typescript-eslint/prefer-nullish-coalescing": [
     0,
@@ -844,9 +772,6 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
   ],
   "@typescript-eslint/switch-exhaustiveness-check": [
     0,
-  ],
-  "@typescript-eslint/triple-slash-reference": [
-    2,
   ],
   "@typescript-eslint/type-annotation-spacing": [
     0,
@@ -1179,9 +1104,6 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
   "newline-per-chained-call": [
     0,
   ],
-  "no-array-constructor": [
-    0,
-  ],
   "no-arrow-condition": [
     0,
   ],
@@ -1415,16 +1337,6 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
       "disallowArithmeticOperators": false,
     },
   ],
-  "no-unused-expressions": [
-    0,
-    {
-      "allowShortCircuit": false,
-      "allowTaggedTemplates": false,
-      "allowTernary": false,
-      "enforceForJSX": false,
-      "ignoreDirectives": false,
-    },
-  ],
   "no-unused-labels": [
     2,
   ],
@@ -1432,7 +1344,7 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
     2,
   ],
   "no-unused-vars": [
-    0,
+    2,
   ],
   "no-useless-backreference": [
     2,
@@ -2376,9 +2288,6 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
   "@typescript-eslint/await-thenable": [
     0,
   ],
-  "@typescript-eslint/ban-ts-comment": [
-    2,
-  ],
   "@typescript-eslint/block-spacing": [
     0,
   ],
@@ -2393,22 +2302,12 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
   ],
   "@typescript-eslint/consistent-return": [
     0,
-    {
-      "treatUndefinedAsUnspecified": false,
-    },
   ],
   "@typescript-eslint/consistent-type-exports": [
     0,
   ],
   "@typescript-eslint/dot-notation": [
     0,
-    {
-      "allowIndexSignaturePropertyAccess": false,
-      "allowKeywords": true,
-      "allowPattern": "",
-      "allowPrivateClassPropertyAccess": false,
-      "allowProtectedClassPropertyAccess": false,
-    },
   ],
   "@typescript-eslint/func-call-spacing": [
     0,
@@ -2431,9 +2330,6 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
   "@typescript-eslint/naming-convention": [
     0,
   ],
-  "@typescript-eslint/no-array-constructor": [
-    2,
-  ],
   "@typescript-eslint/no-array-delete": [
     0,
   ],
@@ -2446,20 +2342,8 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
   "@typescript-eslint/no-deprecated": [
     0,
   ],
-  "@typescript-eslint/no-duplicate-enum-values": [
-    2,
-  ],
   "@typescript-eslint/no-duplicate-type-constituents": [
     0,
-  ],
-  "@typescript-eslint/no-empty-object-type": [
-    2,
-  ],
-  "@typescript-eslint/no-explicit-any": [
-    2,
-  ],
-  "@typescript-eslint/no-extra-non-null-assertion": [
-    2,
   ],
   "@typescript-eslint/no-extra-parens": [
     0,
@@ -2479,9 +2363,6 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
   "@typescript-eslint/no-meaningless-void-operator": [
     0,
   ],
-  "@typescript-eslint/no-misused-new": [
-    2,
-  ],
   "@typescript-eslint/no-misused-promises": [
     0,
   ],
@@ -2491,20 +2372,8 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
   "@typescript-eslint/no-mixed-enums": [
     0,
   ],
-  "@typescript-eslint/no-namespace": [
-    2,
-  ],
-  "@typescript-eslint/no-non-null-asserted-optional-chain": [
-    2,
-  ],
   "@typescript-eslint/no-redundant-type-constituents": [
     0,
-  ],
-  "@typescript-eslint/no-require-imports": [
-    2,
-  ],
-  "@typescript-eslint/no-this-alias": [
-    2,
   ],
   "@typescript-eslint/no-unnecessary-boolean-literal-compare": [
     0,
@@ -2524,9 +2393,6 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
   "@typescript-eslint/no-unnecessary-type-assertion": [
     0,
   ],
-  "@typescript-eslint/no-unnecessary-type-constraint": [
-    2,
-  ],
   "@typescript-eslint/no-unnecessary-type-conversion": [
     0,
   ],
@@ -2542,14 +2408,8 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
   "@typescript-eslint/no-unsafe-call": [
     0,
   ],
-  "@typescript-eslint/no-unsafe-declaration-merging": [
-    2,
-  ],
   "@typescript-eslint/no-unsafe-enum-comparison": [
     0,
-  ],
-  "@typescript-eslint/no-unsafe-function-type": [
-    2,
   ],
   "@typescript-eslint/no-unsafe-member-access": [
     0,
@@ -2563,20 +2423,6 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
   "@typescript-eslint/no-unsafe-unary-minus": [
     0,
   ],
-  "@typescript-eslint/no-unused-expressions": [
-    0,
-    {
-      "allowShortCircuit": false,
-      "allowTaggedTemplates": false,
-      "allowTernary": false,
-    },
-  ],
-  "@typescript-eslint/no-unused-vars": [
-    2,
-  ],
-  "@typescript-eslint/no-wrapper-object-types": [
-    2,
-  ],
   "@typescript-eslint/non-nullable-type-assertion-style": [
     0,
   ],
@@ -2586,9 +2432,6 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
   "@typescript-eslint/only-throw-error": [
     0,
   ],
-  "@typescript-eslint/prefer-as-const": [
-    2,
-  ],
   "@typescript-eslint/prefer-destructuring": [
     0,
   ],
@@ -2597,9 +2440,6 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
   ],
   "@typescript-eslint/prefer-includes": [
     0,
-  ],
-  "@typescript-eslint/prefer-namespace-keyword": [
-    2,
   ],
   "@typescript-eslint/prefer-nullish-coalescing": [
     0,
@@ -2669,9 +2509,6 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
   ],
   "@typescript-eslint/switch-exhaustiveness-check": [
     0,
-  ],
-  "@typescript-eslint/triple-slash-reference": [
-    2,
   ],
   "@typescript-eslint/type-annotation-spacing": [
     0,
@@ -3004,9 +2841,6 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
   "newline-per-chained-call": [
     0,
   ],
-  "no-array-constructor": [
-    0,
-  ],
   "no-arrow-condition": [
     0,
   ],
@@ -3240,16 +3074,6 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
       "disallowArithmeticOperators": false,
     },
   ],
-  "no-unused-expressions": [
-    0,
-    {
-      "allowShortCircuit": false,
-      "allowTaggedTemplates": false,
-      "allowTernary": false,
-      "enforceForJSX": false,
-      "ignoreDirectives": false,
-    },
-  ],
   "no-unused-labels": [
     2,
   ],
@@ -3257,7 +3081,7 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
     2,
   ],
   "no-unused-vars": [
-    0,
+    2,
   ],
   "no-useless-backreference": [
     2,
@@ -4132,6 +3956,9 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
   "@stylistic/yield-star-spacing": [
     0,
   ],
+  "@typescript-eslint/await-thenable": [
+    2,
+  ],
   "@typescript-eslint/ban-ts-comment": [
     2,
   ],
@@ -4179,7 +4006,16 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
   "@typescript-eslint/no-array-constructor": [
     2,
   ],
+  "@typescript-eslint/no-array-delete": [
+    2,
+  ],
+  "@typescript-eslint/no-base-to-string": [
+    2,
+  ],
   "@typescript-eslint/no-duplicate-enum-values": [
+    2,
+  ],
+  "@typescript-eslint/no-duplicate-type-constituents": [
     2,
   ],
   "@typescript-eslint/no-empty-object-type": [
@@ -4197,7 +4033,19 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
   "@typescript-eslint/no-extra-semi": [
     0,
   ],
+  "@typescript-eslint/no-floating-promises": [
+    2,
+  ],
+  "@typescript-eslint/no-for-in-array": [
+    2,
+  ],
+  "@typescript-eslint/no-implied-eval": [
+    2,
+  ],
   "@typescript-eslint/no-misused-new": [
+    2,
+  ],
+  "@typescript-eslint/no-misused-promises": [
     2,
   ],
   "@typescript-eslint/no-namespace": [
@@ -4206,19 +4054,46 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
   "@typescript-eslint/no-non-null-asserted-optional-chain": [
     2,
   ],
+  "@typescript-eslint/no-redundant-type-constituents": [
+    2,
+  ],
   "@typescript-eslint/no-require-imports": [
     2,
   ],
   "@typescript-eslint/no-this-alias": [
     2,
   ],
+  "@typescript-eslint/no-unnecessary-type-assertion": [
+    2,
+  ],
   "@typescript-eslint/no-unnecessary-type-constraint": [
+    2,
+  ],
+  "@typescript-eslint/no-unsafe-argument": [
+    2,
+  ],
+  "@typescript-eslint/no-unsafe-assignment": [
+    2,
+  ],
+  "@typescript-eslint/no-unsafe-call": [
     2,
   ],
   "@typescript-eslint/no-unsafe-declaration-merging": [
     2,
   ],
+  "@typescript-eslint/no-unsafe-enum-comparison": [
+    2,
+  ],
   "@typescript-eslint/no-unsafe-function-type": [
+    2,
+  ],
+  "@typescript-eslint/no-unsafe-member-access": [
+    2,
+  ],
+  "@typescript-eslint/no-unsafe-return": [
+    2,
+  ],
+  "@typescript-eslint/no-unsafe-unary-minus": [
     2,
   ],
   "@typescript-eslint/no-unused-expressions": [
@@ -4241,14 +4116,29 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
   "@typescript-eslint/object-curly-spacing": [
     0,
   ],
+  "@typescript-eslint/only-throw-error": [
+    2,
+  ],
   "@typescript-eslint/prefer-as-const": [
     2,
   ],
   "@typescript-eslint/prefer-namespace-keyword": [
     2,
   ],
+  "@typescript-eslint/prefer-promise-reject-errors": [
+    2,
+  ],
   "@typescript-eslint/quotes": [
     0,
+  ],
+  "@typescript-eslint/require-await": [
+    2,
+  ],
+  "@typescript-eslint/restrict-plus-operands": [
+    2,
+  ],
+  "@typescript-eslint/restrict-template-expressions": [
+    2,
   ],
   "@typescript-eslint/semi": [
     0,
@@ -4267,6 +4157,9 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
   ],
   "@typescript-eslint/type-annotation-spacing": [
     0,
+  ],
+  "@typescript-eslint/unbound-method": [
+    2,
   ],
   "array-bracket-newline": [
     0,
@@ -4704,6 +4597,9 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
       "exceptions": [],
     },
   ],
+  "no-implied-eval": [
+    0,
+  ],
   "no-import-assign": [
     0,
   ],
@@ -4797,6 +4693,9 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
     0,
   ],
   "no-this-before-super": [
+    0,
+  ],
+  "no-throw-literal": [
     0,
   ],
   "no-trailing-spaces": [
@@ -4900,6 +4799,12 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
       "ignoreReadBeforeAssign": false,
     },
   ],
+  "prefer-promise-reject-errors": [
+    0,
+    {
+      "allowEmptyReject": false,
+    },
+  ],
   "prefer-rest-params": [
     2,
   ],
@@ -4958,6 +4863,9 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
     0,
   ],
   "react/jsx-wrap-multilines": [
+    0,
+  ],
+  "require-await": [
     0,
   ],
   "require-yield": [
