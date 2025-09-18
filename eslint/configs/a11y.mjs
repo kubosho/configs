@@ -1,9 +1,10 @@
 import eslintJsxA11y from 'eslint-plugin-jsx-a11y';
+import { defineConfig } from 'eslint/config';
 
 const DEFAULT_AMBIGUOUS_WORDS = ['click here', 'here', 'link', 'a link', 'learn more'];
 const DEFAULT_REDUNDANT_WORDS = ['image', 'picture', 'photo'];
 
-export default [
+export default defineConfig([
   {
     plugins: {
       'jsx-a11y': eslintJsxA11y,
@@ -70,4 +71,4 @@ export default [
       'jsx-a11y/tabindex-no-positive': 'error',
     },
   },
-];
+]);
