@@ -1,3 +1,15 @@
+## [6.4.0](https://github.com/kubosho/configs/compare/v6.3.9...v6.4.0) (2025-09-18)
+
+### ✨ Features
+
+* **eslint:** update TypeScript lint rules structure ([18e5573](https://github.com/kubosho/configs/commit/18e5573a1c13d88aa5e41be86a1b26a029474a23))
+* **eslint:** use defineConfig() ([ac793be](https://github.com/kubosho/configs/commit/ac793be0432b2cc2b7b8d3bd1a652002d185186c))
+
+### 📚 Some changes
+
+* **eslint:** integrate the import rules on the base rules ([46cebfb](https://github.com/kubosho/configs/commit/46cebfb9e8e27ce1d9062b72de0768e908d02770))
+* **eslint:** use extends field in JSX files lint rules ([8fea8c3](https://github.com/kubosho/configs/commit/8fea8c3abcbcf6a606f641847ffba250627f663e))
+
 ## [6.3.9](https://github.com/kubosho/configs/compare/v6.3.8...v6.3.9) (2025-09-13)
 
 ### 📚 Some changes
