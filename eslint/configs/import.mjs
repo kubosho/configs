@@ -1,7 +1,8 @@
 import importPlugin from 'eslint-plugin-import';
 import simpleImportSort from 'eslint-plugin-simple-import-sort';
+import { defineConfig } from 'eslint/config';
 
-export default [
+export default defineConfig([
   importPlugin.flatConfigs.recommended,
   importPlugin.flatConfigs.typescript,
   {
@@ -31,4 +32,4 @@ export default [
       'import/ignore': ['node_modules'],
     },
   },
-];
+]);

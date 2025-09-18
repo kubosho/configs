@@ -1,3 +1,4 @@
+import { defineConfig } from 'eslint/config';
 import js from '@eslint/js';
 import eslintConfigPrettier from 'eslint-config-prettier';
 
@@ -7,12 +8,10 @@ import importConfig from './configs/import.mjs';
 import reactConfig from './configs/react.mjs';
 import typescriptConfig from './configs/typescript.mjs';
 
-export default [
-  js.configs.recommended,
-  eslintConfigPrettier,
-  ...baseConfig,
-  ...a11yConfig,
-  ...importConfig,
-  ...reactConfig,
-  ...typescriptConfig,
-];
+export default defineConfig([
+  {
+    name: '@kubosho/configs',
+    plugins: { js },
+    extends: ['js/recommended', baseConfig, a11yConfig, importConfig, eslintConfigPrettier, reactConfig, typescriptConfig],
+  },
+]);
