@@ -1,3 +1,9 @@
+## [6.5.2](https://github.com/kubosho/configs/compare/v6.5.1...v6.5.2) (2025-09-25)
+
+### 🐛 Bug Fixes
+
+* **eslint:** add type information config of typescript-eslint ([51d08f4](https://github.com/kubosho/configs/commit/51d08f4de84aaee11c9f7cf42a60c25f6597e651))
+
 ## [6.5.1](https://github.com/kubosho/configs/compare/v6.5.0...v6.5.1) (2025-09-25)
 
 ### 📚 Some changes
