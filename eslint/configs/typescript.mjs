@@ -5,6 +5,12 @@ export default defineConfig([
   {
     files: ['**/*.{ts,cts,mts,tsx}'],
     extends: [tseslint.configs.recommended, tseslint.configs.recommendedTypeChecked],
+    languageOptions: {
+      parserOptions: {
+        projectService: true,
+        tsconfigRootDir: import.meta.dirname,
+      },
+    },
     // Temporarily disable due to incompatibility between ESLint v9.29.0 new options
     // and typescript-eslint@8.12.2. Re-enable when typescript-eslint supports
     // the new allowShortCircuit/allowTaggedTemplates options schema.
