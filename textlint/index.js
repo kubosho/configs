@@ -3,6 +3,7 @@ module.exports = {
     comments: true,
   },
   rules: {
+    'ja-no-weak-phrase': true,
     'no-dead-link': {
       checkRelative: true,
       baseURI: null,
