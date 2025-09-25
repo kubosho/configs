@@ -80,9 +80,13 @@ Install the required dependencies:
 npm add -D prettier
 ```
 
+In use `prettier.config.mjs`:
+
 ```javascript
-module.exports = {
-  ...require('@kubosho/configs/prettier'),
+import config from '@kubosho/configs/prettier';
+
+export default {
+  ...config,
 };
 ```
 
