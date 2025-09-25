@@ -1237,6 +1237,9 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
   ],
   "no-misleading-character-class": [
     2,
+    {
+      "allowEscape": false,
+    },
   ],
   "no-mixed-operators": [
     0,
@@ -2974,6 +2977,9 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
   ],
   "no-misleading-character-class": [
     2,
+    {
+      "allowEscape": false,
+    },
   ],
   "no-mixed-operators": [
     0,
@@ -4622,6 +4628,9 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
   ],
   "no-misleading-character-class": [
     2,
+    {
+      "allowEscape": false,
+    },
   ],
   "no-mixed-operators": [
     0,
