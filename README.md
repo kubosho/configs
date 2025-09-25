@@ -137,7 +137,7 @@ export default {
 Install the required dependencies:
 
 ```shell
-npm add -D textlint textlint-filter-rule-comments textlint-rule-no-dead-link textlint-rule-no-doubled-joshi textlint-rule-preset-ai-writing textlint-rule-preset-jtf-style
+npm add -D textlint textlint-rule-ja-no-weak-phrase textlint-filter-rule-comments textlint-rule-no-dead-link textlint-rule-no-doubled-joshi textlint-rule-preset-ai-writing textlint-rule-preset-jtf-style
 ```
 
 In use `.textlintrc.js`:
