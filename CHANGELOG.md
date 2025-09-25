@@ -1,3 +1,10 @@
+## [6.5.1](https://github.com/kubosho/configs/compare/v6.5.0...v6.5.1) (2025-09-25)
+
+### 📚 Some changes
+
+* **eslint:** rename and collocate of snapshot file ([2333076](https://github.com/kubosho/configs/commit/233307662e58f4fafbae17806aee0a5eca00a5ee))
+* **eslint:** rename ESLint test file ([2ad30be](https://github.com/kubosho/configs/commit/2ad30bef93cfd3b72d450641cd9531779cebb582))
+
 ## [6.5.0](https://github.com/kubosho/configs/compare/v6.4.0...v6.5.0) (2025-09-25)
 
 ### ✨ Features
