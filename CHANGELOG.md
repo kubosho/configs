@@ -1,3 +1,13 @@
+## [6.5.0](https://github.com/kubosho/configs/compare/v6.4.0...v6.5.0) (2025-09-25)
+
+### ✨ Features
+
+* **textlint:** enable textlint-rule-ja-no-weak-phrase rule ([c352d5b](https://github.com/kubosho/configs/commit/c352d5b978aca61716b2bc76c2cf271eed28cafb))
+
+### 📚 Some changes
+
+* **deps:** add some textlint rules ([5d8324a](https://github.com/kubosho/configs/commit/5d8324a2fd2187327758b1196bd2e178617f9ba7))
+
 ## [6.4.0](https://github.com/kubosho/configs/compare/v6.3.9...v6.4.0) (2025-09-18)
 
 ### ✨ Features
