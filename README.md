@@ -7,7 +7,7 @@ My Web frontend tool configs. Inspired by [@3846masa/configs](https://github.com
 ## Install
 
 ```shell
-npm add -D @kubosho/configs
+npm add -DE @kubosho/configs
 ```
 
 **Attention: This package provides only config files. Please install required tools (e.g. ESLint, Prettier, etc.) in your project.**
@@ -19,7 +19,7 @@ npm add -D @kubosho/configs
 Install the required dependencies:
 
 ```shell
-npm add -D @eslint/js eslint eslint-config-prettier eslint-import-resolver-typescript eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-react eslint-plugin-simple-import-sort typescript-eslint
+npm add -DE @eslint/js eslint eslint-config-prettier eslint-import-resolver-typescript eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-react eslint-plugin-simple-import-sort typescript-eslint
 ```
 
 In use `eslint.config.mjs`:
@@ -38,10 +38,10 @@ Install the required dependencies:
 
 ```shell
 # For markdownlint-cli2 (recommended if you want to use extends)
-npm add -D markdownlint-cli2
+npm add -DE markdownlint-cli2
 
 # OR for markdownlint-cli
-npm add -D markdownlint-cli
+npm add -DE markdownlint-cli
 ```
 
 In use `.markdownlint.json`:
@@ -59,7 +59,7 @@ In use `.markdownlint.json`:
 Install the required dependencies:
 
 ```shell
-npm add -D markuplint
+npm add -DE markuplint
 ```
 
 In use `markuplint.config.mjs`:
@@ -77,7 +77,7 @@ export default {
 Install the required dependencies:
 
 ```shell
-npm add -D prettier
+npm add -DE prettier
 ```
 
 In use `prettier.config.mjs`:
@@ -105,7 +105,7 @@ No npm packages required (GitHub App configuration only).
 Install the required dependencies:
 
 ```shell
-npm add -D @semantic-release/changelog @semantic-release/commit-analyzer @semantic-release/git @semantic-release/github @semantic-release/npm @semantic-release/release-notes-generator conventional-changelog-conventionalcommits semantic-release
+npm add -DE @semantic-release/changelog @semantic-release/commit-analyzer @semantic-release/git @semantic-release/github @semantic-release/npm @semantic-release/release-notes-generator conventional-changelog-conventionalcommits semantic-release
 ```
 
 In use `release.config.mjs`:
@@ -123,7 +123,7 @@ export default {
 Install the required dependencies:
 
 ```shell
-npm add -D stylelint stylelint-config-recommended
+npm add -DE stylelint stylelint-config-recommended
 ```
 
 In use `stylelint.config.mjs`:
@@ -141,7 +141,7 @@ export default {
 Install the required dependencies:
 
 ```shell
-npm add -D textlint textlint-rule-ja-no-weak-phrase textlint-filter-rule-comments textlint-rule-no-dead-link textlint-rule-no-doubled-joshi textlint-rule-preset-ai-writing textlint-rule-preset-jtf-style
+npm add -DE textlint textlint-rule-ja-no-weak-phrase textlint-filter-rule-comments textlint-rule-no-DEead-link textlint-rule-no-DEoubled-joshi textlint-rule-preset-ai-writing textlint-rule-preset-jtf-style
 ```
 
 In use `.textlintrc.js`:
@@ -159,7 +159,7 @@ module.exports = {
 Install the required dependencies:
 
 ```shell
-npm add -D typescript
+npm add -DE typescript
 ```
 
 In use `tsconfig.json`:
