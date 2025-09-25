@@ -1,3 +1,10 @@
+## [6.5.3](https://github.com/kubosho/configs/compare/v6.5.2...v6.5.3) (2025-09-25)
+
+### 📚 Some changes
+
+* **README:**  use -E flag of installation commands ([11c3350](https://github.com/kubosho/configs/commit/11c3350e0f5da0b7f3dd72a00b250d8ebd6cfa0f))
+* **README:** update Prettier usage example to use ES module syntax ([0f2fc30](https://github.com/kubosho/configs/commit/0f2fc3031ea783521f94f32e0b56754f6466f99b))
+
 ## [6.5.2](https://github.com/kubosho/configs/compare/v6.5.1...v6.5.2) (2025-09-25)
 
 ### 🐛 Bug Fixes
