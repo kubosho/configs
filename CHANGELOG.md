@@ -1,3 +1,9 @@
+## [6.5.6](https://github.com/kubosho/configs/compare/v6.5.5...v6.5.6) (2025-10-22)
+
+### 📚 Some changes
+
+* use inline code syntax in Renovate config README ([c28332a](https://github.com/kubosho/configs/commit/c28332afa55564210ae13694cee5cb5af7d03c33))
+
 ## [6.5.5](https://github.com/kubosho/configs/compare/v6.5.4...v6.5.5) (2025-10-20)
 
 ### 📚 Some changes
