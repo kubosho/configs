@@ -11,6 +11,7 @@
     "test:ts": "tsc --noEmit",
     "test:eslint": "vitest run",
     "lint:eslint": "eslint --config ./eslint/examples/eslint.config.mjs ./eslint/examples/src/*",
+    "lint:textlint": "textlint **/*.md --config ./textlint/index.js",
     "print:eslint": "eslint --config ./eslint/examples/eslint.config.mjs --print-config ./eslint/examples/eslint.config.mjs",
     "format": "prettier --write ."
   },
