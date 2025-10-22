@@ -8,7 +8,7 @@ Renovateの設定ファイルで有効にしているプリセットやルール
 
 ## [:assignee(kubosho)](https://docs.renovatebot.com/presets-default/#assigneearg0)
 
-Assigneeを @kubosho にします。
+Assigneeを `@kubosho` にします。
 
 ## [:disableDependencyDashboard](https://docs.renovatebot.com/presets-default/#disabledependencydashboard)
 
