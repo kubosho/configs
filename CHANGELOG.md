@@ -1,3 +1,9 @@
+## [6.5.8](https://github.com/kubosho/configs/compare/v6.5.7...v6.5.8) (2025-10-22)
+
+### 📚 Some changes
+
+* correct typos of textlint installation command ([5fe2c96](https://github.com/kubosho/configs/commit/5fe2c96033ba05851ba0929b39e85b2bad6165e3))
+
 ## [6.5.7](https://github.com/kubosho/configs/compare/v6.5.6...v6.5.7) (2025-10-22)
 
 ### 📚 Some changes
