@@ -65,7 +65,7 @@
     "markuplint": "4.13.1",
     "prettier": "3.6.2",
     "react": "19.2.0",
-    "semantic-release": "25.0.0",
+    "semantic-release": "25.0.1",
     "stylelint": "16.25.0",
     "textlint": "15.2.3",
     "textlint-filter-rule-comments": "1.2.2",
