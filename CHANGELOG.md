@@ -1,3 +1,9 @@
+## [6.5.9](https://github.com/kubosho/configs/compare/v6.5.8...v6.5.9) (2025-10-30)
+
+### 📚 Some changes
+
+* **deps:** update dependency node to v24 ([587d8b7](https://github.com/kubosho/configs/commit/587d8b76a91967d146d8481a71a81a73be1af06f))
+
 ## [6.5.8](https://github.com/kubosho/configs/compare/v6.5.7...v6.5.8) (2025-10-22)
 
 ### 📚 Some changes
