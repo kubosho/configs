@@ -1,3 +1,9 @@
+## [6.5.11](https://github.com/kubosho/configs/compare/v6.5.10...v6.5.11) (2025-11-19)
+
+### 📚 Some changes
+
+* **deps:** update actions/checkout action to v5.0.1 ([71121d5](https://github.com/kubosho/configs/commit/71121d584fe6ea1203a1b9b95fcbc2352681d9aa))
+
 ## [6.5.10](https://github.com/kubosho/configs/compare/v6.5.9...v6.5.10) (2025-11-19)
 
 ### 📚 Some changes
