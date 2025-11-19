@@ -62,7 +62,7 @@
     "eslint-plugin-jsx-a11y": "6.10.2",
     "eslint-plugin-react": "7.37.5",
     "eslint-plugin-simple-import-sort": "12.1.1",
-    "markuplint": "4.13.1",
+    "markuplint": "4.14.0",
     "prettier": "3.6.2",
     "react": "19.2.0",
     "semantic-release": "25.0.2",
