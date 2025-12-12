@@ -1,3 +1,10 @@
+## [6.5.13](https://github.com/kubosho/configs/compare/v6.5.12...v6.5.13) (2025-12-12)
+
+### 📚 Some changes
+
+* **deps:** update actions/checkout action to v6.0.1 ([#575](https://github.com/kubosho/configs/issues/575)) ([f39b122](https://github.com/kubosho/configs/commit/f39b1221b989ddfff1ca05ae6499bebae9f27938))
+* **deps:** update actions/setup-node action to v6.1.0 ([7c53abf](https://github.com/kubosho/configs/commit/7c53abf6dcddb13d8a2058aa511d7a6a82f5c302))
+
 ## [6.5.12](https://github.com/kubosho/configs/compare/v6.5.11...v6.5.12) (2025-11-25)
 
 ### 📚 Some changes
