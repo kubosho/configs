@@ -24,7 +24,7 @@ jobs:
 
       - name: Restore node_modules cache
         id: restore-node-modules-cache
-        uses: actions/cache/restore@a7833574556fa59680c1b7cb190c1735db73ebf0 # v5.0.0
+        uses: actions/cache/restore@9255dc7a253b0ccc959486e2bca901246202afeb # v5.0.1
         with:
           path: node_modules
           key: ${{ runner.os }}-node-modules-${{ hashFiles('**/package-lock.json') }}
@@ -37,7 +37,7 @@ jobs:
 
       - name: Cache node_modules
         if: ${{ steps.restore-node-modules-cache.outputs.cache-hit != 'true' }}
-        uses: actions/cache/save@a7833574556fa59680c1b7cb190c1735db73ebf0 # v5.0.0
+        uses: actions/cache/save@9255dc7a253b0ccc959486e2bca901246202afeb # v5.0.1
         with:
           path: node_modules
           key: ${{ steps.restore-node-modules-cache.outputs.cache-primary-key }}
@@ -61,7 +61,7 @@ jobs:
           node-version: 24
 
       - name: Restore node_modules cache
-        uses: actions/cache/restore@a7833574556fa59680c1b7cb190c1735db73ebf0 # v5.0.0
+        uses: actions/cache/restore@9255dc7a253b0ccc959486e2bca901246202afeb # v5.0.1
         with:
           path: node_modules
           key: ${{ runner.os }}-node-modules-${{ hashFiles('**/package-lock.json') }}
@@ -94,7 +94,7 @@ jobs:
           node-version: 24
 
       - name: Restore node_modules cache
-        uses: actions/cache/restore@a7833574556fa59680c1b7cb190c1735db73ebf0 # v5.0.0
+        uses: actions/cache/restore@9255dc7a253b0ccc959486e2bca901246202afeb # v5.0.1
         with:
           path: node_modules
           key: ${{ runner.os }}-node-modules-${{ hashFiles('**/package-lock.json') }}
