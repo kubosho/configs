@@ -1,3 +1,9 @@
+## [6.5.16](https://github.com/kubosho/configs/compare/v6.5.15...v6.5.16) (2026-01-18)
+
+### 📚 Some changes
+
+* **deps:** update actions/setup-node action to v6.2.0 ([057b6ce](https://github.com/kubosho/configs/commit/057b6ced86afa3067306a559d54c902eaaf3583b))
+
 ## [6.5.15](https://github.com/kubosho/configs/compare/v6.5.14...v6.5.15) (2025-12-15)
 
 ### 📚 Some changes
