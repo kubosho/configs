@@ -63,7 +63,7 @@
     "eslint-plugin-react": "7.37.5",
     "eslint-plugin-simple-import-sort": "12.1.1",
     "markuplint": "4.14.0",
-    "prettier": "3.7.4",
+    "prettier": "3.8.0",
     "react": "19.2.3",
     "semantic-release": "25.0.2",
     "stylelint": "17.0.0",
