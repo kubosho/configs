@@ -1,3 +1,9 @@
+## [6.5.18](https://github.com/kubosho/configs/compare/v6.5.17...v6.5.18) (2026-01-22)
+
+### 📚 Some changes
+
+* **deps:** update actions/checkout action to v6.0.2 ([#609](https://github.com/kubosho/configs/issues/609)) ([72ae0d4](https://github.com/kubosho/configs/commit/72ae0d4cddfdcac4d471dc50c9593d1d0335314d))
+
 ## [6.5.17](https://github.com/kubosho/configs/compare/v6.5.16...v6.5.17) (2026-01-19)
 
 ### 📚 Some changes
