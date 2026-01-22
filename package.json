@@ -67,7 +67,7 @@
     "react": "19.2.3",
     "semantic-release": "25.0.2",
     "stylelint": "17.0.0",
-    "textlint": "15.5.0",
+    "textlint": "15.5.1",
     "textlint-filter-rule-comments": "1.2.2",
     "textlint-rule-ja-no-weak-phrase": "2.0.0",
     "textlint-rule-no-dead-link": "6.1.0",
