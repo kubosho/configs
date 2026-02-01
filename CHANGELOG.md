@@ -1,3 +1,9 @@
+## [6.5.20](https://github.com/kubosho/configs/compare/v6.5.19...v6.5.20) (2026-02-01)
+
+### 📚 Some changes
+
+* **deps:** update actions/cache action to v5.0.3 ([#614](https://github.com/kubosho/configs/issues/614)) ([2896c83](https://github.com/kubosho/configs/commit/2896c831e9d669473bf699db69b2d91bce16dade))
+
 ## [6.5.19](https://github.com/kubosho/configs/compare/v6.5.18...v6.5.19) (2026-01-26)
 
 ### 📚 Some changes
