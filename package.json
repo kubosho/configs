@@ -42,7 +42,7 @@
     "./typescript/tsconfig.json": "./typescript/tsconfig.json"
   },
   "dependencies": {
-    "globals": "17.2.0"
+    "globals": "17.3.0"
   },
   "devDependencies": {
     "@eslint/js": "9.39.2",
