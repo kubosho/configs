@@ -1,3 +1,9 @@
+## [6.5.24](https://github.com/kubosho/configs/compare/v6.5.23...v6.5.24) (2026-02-22)
+
+### 📚 Some changes
+
+* **deps:** lock file maintenance ([#631](https://github.com/kubosho/configs/issues/631)) ([1af251a](https://github.com/kubosho/configs/commit/1af251a6ca0a27551d52ed50127bbe5a1cd2d1b6))
+
 ## [6.5.23](https://github.com/kubosho/configs/compare/v6.5.22...v6.5.23) (2026-02-15)
 
 ### 📚 Some changes
