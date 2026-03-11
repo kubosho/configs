@@ -1,3 +1,10 @@
+## [6.5.26](https://github.com/kubosho/configs/compare/v6.5.25...v6.5.26) (2026-03-11)
+
+### 📚 Some changes
+
+* **deps:** update actions/setup-node action to v6.3.0 ([d4437d8](https://github.com/kubosho/configs/commit/d4437d83b47e8374201681ecde4f7c0ce5194504))
+* **deps:** update dependency globals to v17.4.0 ([9884d92](https://github.com/kubosho/configs/commit/9884d92ddc46063088a408d94738dbb5568a2a6b))
+
 ## [6.5.25](https://github.com/kubosho/configs/compare/v6.5.24...v6.5.25) (2026-03-08)
 
 ### 📚 Some changes
