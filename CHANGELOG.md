@@ -1,3 +1,9 @@
+## [6.5.28](https://github.com/kubosho/configs/compare/v6.5.27...v6.5.28) (2026-03-17)
+
+### 📚 Some changes
+
+* **deps:** update actions/create-github-app-token action to v2.2.2 ([#647](https://github.com/kubosho/configs/issues/647)) ([101e2fa](https://github.com/kubosho/configs/commit/101e2fa200fca80808349a3581ac47f871f194df))
+
 ## [6.5.27](https://github.com/kubosho/configs/compare/v6.5.26...v6.5.27) (2026-03-15)
 
 ### 📚 Some changes
