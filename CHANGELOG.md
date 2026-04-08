@@ -1,3 +1,9 @@
+## [6.5.34](https://github.com/kubosho/configs/compare/v6.5.33...v6.5.34) (2026-04-08)
+
+### 🐛 Bug Fixes
+
+* add repository field to package.json for npm provenance verification ([f80e08f](https://github.com/kubosho/configs/commit/f80e08f52f6d9a015e8ab856c4ce868637315c58))
+
 ## [6.5.33](https://github.com/kubosho/configs/compare/v6.5.32...v6.5.33) (2026-04-08)
 
 ### 📚 Some changes
