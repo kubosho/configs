@@ -15,6 +15,10 @@
     "print:eslint": "eslint --config ./eslint/examples/eslint.config.mjs --print-config ./eslint/examples/eslint.config.mjs",
     "format": "prettier --write ."
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kubosho/configs"
+  },
   "publishConfig": {
     "access": "public"
   },
