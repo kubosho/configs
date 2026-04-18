@@ -1,3 +1,9 @@
+## [6.5.35](https://github.com/kubosho/configs/compare/v6.5.34...v6.5.35) (2026-04-18)
+
+### 🐛 Bug Fixes
+
+* replace hallucinated preset with :maintainLockFilesDisabled ([2f068bc](https://github.com/kubosho/configs/commit/2f068bc4251eae9df22aea30671f6d127a1f0dff))
+
 ## [6.5.34](https://github.com/kubosho/configs/compare/v6.5.33...v6.5.34) (2026-04-08)
 
 ### 🐛 Bug Fixes
