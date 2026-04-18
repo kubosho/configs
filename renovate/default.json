@@ -7,7 +7,7 @@
 		":assignee(kubosho)",
 		":automergePatch",
 		":disableDependencyDashboard",
-		":disableLockFileMaintenance",
+		":maintainLockFilesDisabled",
 		":label(dependencies)"
 	],
 
