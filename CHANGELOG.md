@@ -1,3 +1,11 @@
+## [6.5.38](https://github.com/kubosho/configs/compare/v6.5.37...v6.5.38) (2026-08-26)
+
+### 📚 Some changes
+
+* **deps:** update actions/cache action to v6 ([0c8bce8](https://github.com/kubosho/configs/commit/0c8bce8c46dc1d35aa411dc0850debbe7975aa25))
+* **deps:** update actions/checkout action to v7 ([8725711](https://github.com/kubosho/configs/commit/87257115ef3151c05e988b73b920deb645f2ee3d))
+* **deps:** update dependency globals to v17.11.0 ([979a3bf](https://github.com/kubosho/configs/commit/979a3bfcf28c2c761a33c08d2fd7a5093fd56bb2))
+
 ## [6.5.37](https://github.com/kubosho/configs/compare/v6.5.36...v6.5.37) (2026-08-26)
 
 ### 🐛 Bug Fixes
