@@ -1,3 +1,16 @@
+## [6.5.37](https://github.com/kubosho/configs/compare/v6.5.36...v6.5.37) (2026-08-26)
+
+### 🐛 Bug Fixes
+
+* regenerate package-lock.json to sync with package.json ([e2fc1e7](https://github.com/kubosho/configs/commit/e2fc1e7acd849c6deb295067bc61bd55d273cf3a))
+
+### 📚 Some changes
+
+* **deps:** update actions/checkout action to v6.0.3 ([#682](https://github.com/kubosho/configs/issues/682)) ([1647f4d](https://github.com/kubosho/configs/commit/1647f4ddcdb90440a3b0fcc1c04b34723ef3b9c5))
+* **deps:** update actions/create-github-app-token action to v3.2.0 ([0951e6e](https://github.com/kubosho/configs/commit/0951e6ed16474f2e6b8e53df58815d1956d0fba9))
+* **deps:** update actions/setup-node action to v6.4.0 ([085353d](https://github.com/kubosho/configs/commit/085353d83958c3d8e040db5dd2a723beb4ed1c2b))
+* **deps:** update dependency globals to v17.6.0 ([20cbdfc](https://github.com/kubosho/configs/commit/20cbdfc0921a8494870fd85516055ea65e4e9c7c))
+
 ## [6.5.36](https://github.com/kubosho/configs/compare/v6.5.35...v6.5.36) (2026-04-18)
 
 ### 📚 Some changes
