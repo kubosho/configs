@@ -686,6 +686,9 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
   "@typescript-eslint/no-unsafe-unary-minus": [
     0,
   ],
+  "@typescript-eslint/no-useless-default-assignment": [
+    0,
+  ],
   "@typescript-eslint/non-nullable-type-assertion-style": [
     0,
   ],
@@ -768,6 +771,9 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
     0,
   ],
   "@typescript-eslint/strict-boolean-expressions": [
+    0,
+  ],
+  "@typescript-eslint/strict-void-return": [
     0,
   ],
   "@typescript-eslint/switch-exhaustiveness-check": [
@@ -2426,6 +2432,9 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
   "@typescript-eslint/no-unsafe-unary-minus": [
     0,
   ],
+  "@typescript-eslint/no-useless-default-assignment": [
+    0,
+  ],
   "@typescript-eslint/non-nullable-type-assertion-style": [
     0,
   ],
@@ -2508,6 +2517,9 @@ exports[`ESLint configuration > should match the ESLint configuration snapshot f
     0,
   ],
   "@typescript-eslint/strict-boolean-expressions": [
+    0,
+  ],
+  "@typescript-eslint/strict-void-return": [
     0,
   ],
   "@typescript-eslint/switch-exhaustiveness-check": [
