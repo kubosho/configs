@@ -1,3 +1,13 @@
+## [6.6.0](https://github.com/kubosho/configs/compare/v6.5.40...v6.6.0) (2026-10-14)
+
+### ✨ Features
+
+* group apm dependency updates in renovate ([6c71e83](https://github.com/kubosho/configs/commit/6c71e8331e31d796f0c2fed87d33d5792356249b))
+
+### 📚 Some changes
+
+* **deps:** update actions/setup-node action to v7.1.0 ([d78145c](https://github.com/kubosho/configs/commit/d78145cb557fb337f40e41de50965c19ac6b47bb))
+
 ## [6.5.40](https://github.com/kubosho/configs/compare/v6.5.39...v6.5.40) (2026-10-10)
 
 ### 📚 Some changes
