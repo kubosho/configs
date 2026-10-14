@@ -74,6 +74,13 @@
 			"matchStrings": ["npm:@google/gemini-cli\\s+(?<currentValue>latest)"],
 			"datasourceTemplate": "npm",
 			"depNameTemplate": "@google/gemini-cli"
+		},
+		{
+			"fileMatch": ["(^|/)apm\\.ya?ml$"],
+			"matchStrings": ["- (?<depName>[^/\\s]+/[^/\\s#]+)/[^#\\s]+#(?<currentDigest>[a-f0-9]{40})"],
+			"datasourceTemplate": "git-refs",
+			"packageNameTemplate": "https://github.com/{{depName}}",
+			"currentValueTemplate": "main"
 		}
 	],
 
@@ -82,6 +89,10 @@
 			"matchFileNames": [".tool-versions"],
 			"semanticCommitScope": "deps",
 			"semanticCommitType": "chore"
+		},
+		{
+			"matchFileNames": ["apm.{yml,yaml}", "**/apm.{yml,yaml}"],
+			"groupName": "apm"
 		}
 	],
 
