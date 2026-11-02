@@ -1,3 +1,9 @@
+## [6.6.2](https://github.com/kubosho/configs/compare/v6.6.1...v6.6.2) (2026-11-02)
+
+### 📚 Some changes
+
+* **deps:** update dependency node to v26 ([fea26ec](https://github.com/kubosho/configs/commit/fea26ec8b897f4dc25b55ed3d20a8c2cc58c68f1))
+
 ## [6.6.1](https://github.com/kubosho/configs/compare/v6.6.0...v6.6.1) (2026-10-16)
 
 ### 📚 Some changes
