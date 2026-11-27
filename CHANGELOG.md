@@ -1,3 +1,9 @@
+## [6.6.4](https://github.com/kubosho/configs/compare/v6.6.3...v6.6.4) (2026-11-27)
+
+### 📚 Some changes
+
+* **deps:** update actions/create-github-app-token action to v3.4.0 ([7615b48](https://github.com/kubosho/configs/commit/7615b48e29e20452ba4ec7d8aef53bb14a2d7bee))
+
 ## [6.6.3](https://github.com/kubosho/configs/compare/v6.6.2...v6.6.3) (2026-11-05)
 
 ### 📚 Some changes
